@@ -36,6 +36,17 @@ const list = document.getElementById("list");
 const msg = document.getElementById("msg");
 const esc = s => s.replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
 
+function fmtTime(s) {
+  if (!s) return "";
+  const d = new Date(s.replace(" ", "T") + "Z");
+  if (isNaN(d)) return s;
+  const jst = d.toLocaleString("ja-JP", {
+    timeZone: "Asia/Tokyo", month: "2-digit", day: "2-digit",
+    hour: "2-digit", minute: "2-digit", hour12: false
+  });
+  return s + " UTC（日本時間 " + jst + "）";
+}
+
 async function load(name, btn) {
   [...tabs.children].forEach(b => b.classList.remove("on"));
   btn.classList.add("on");
@@ -49,55 +60,7 @@ async function load(name, btn) {
     const items = data.items.slice().sort((a, b) => (b.pubDate || "").localeCompare(a.pubDate || ""));
     list.innerHTML = items.slice(0, 30).map(i =>
       `<li><a href="${esc(i.link)}" target="_blank" rel="noopener">${esc(i.title)}</a>` +
-      `<small>${esc(i.pubDate || "")}</small></li>`).join("");
-  } catch (e) {
-    msg.textContent = "取得に失敗しました。少し待って再読み込みしてください";
-  }
-}
-Object.keys(SOURCES).forEach((name, idx) => {
-  const b = document.createElement("button");
-  b.textContent = name;
-  b.onclick = () => load(name, b);
-  tabs.appendChild(b);
-  if (idx === 0) load(name, b);
-});
-</script>
-</body>
-</html>
-
-</head>
-<body>
-<h1>ファンダニュース</h1>
-<nav id="tabs"></nav>
-<div id="msg"></div>
-<ul id="list"></ul>
-<script>
-const g = q => "https://news.google.com/rss/search?q=" + encodeURIComponent(q) + "&hl=ja&gl=JP&ceid=JP:ja";
-const SOURCES = {
-  "要人発言": g('("植田総裁" OR "日銀総裁" OR "パウエル" OR "ウォーシュ" OR "FRB議長" OR "ラガルド" OR "ECB総裁" OR "財務長官" OR "トランプ大統領") (発言 OR 講演 OR 会見 OR 示唆 OR 利上げ OR 利下げ) -阪神 -野球 -プロ野球 when:1d'),
-  "Bloomberg": g("site:bloomberg.co.jp OR site:bloomberg.com 為替 OR 金利 when:1d"),
-  "Reuters": g("site:jp.reuters.com OR site:reuters.com 為替 OR 金利 when:1d"),
-  "WSJ": g("site:jp.wsj.com OR site:wsj.com 市場 when:1d"),
-  "日経": g("site:nikkei.com 為替 OR 金利 OR 日銀 when:1d")
-};
-const tabs = document.getElementById("tabs");
-const list = document.getElementById("list");
-const msg = document.getElementById("msg");
-const esc = s => s.replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
-
-async function load(name, btn) {
-  [...tabs.children].forEach(b => b.classList.remove("on"));
-  btn.classList.add("on");
-  list.innerHTML = "";
-  msg.textContent = "読み込み中…";
-  try {
-    const url = "https://api.rss2json.com/v1/api.json?rss_url=" + encodeURIComponent(SOURCES[name]);
-    const data = await (await fetch(url)).json();
-    if (!data.items || !data.items.length) { msg.textContent = "記事が見つかりませんでした"; return; }
-    msg.textContent = "";
-    list.innerHTML = data.items.slice(0, 30).map(i =>
-      `<li><a href="${esc(i.link)}" target="_blank" rel="noopener">${esc(i.title)}</a>` +
-      `<small>${esc(i.pubDate || "")}</small></li>`).join("");
+      `<small>${esc(fmtTime(i.pubDate))}</small></li>`).join("");
   } catch (e) {
     msg.textContent = "取得に失敗しました。少し待って再読み込みしてください";
   }
