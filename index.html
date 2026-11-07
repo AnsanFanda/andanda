@@ -25,7 +25,7 @@
 <script>
 const g = q => "https://news.google.com/rss/search?q=" + encodeURIComponent(q) + "&hl=ja&gl=JP&ceid=JP:ja";
 const SOURCES = {
-  "要人発言": g("パウエル OR 植田 OR 日銀総裁 OR FRB議長 発言 when:1d"),
+  "要人発言": g('("植田総裁" OR "日銀総裁" OR "パウエル" OR "ウォーシュ" OR "FRB議長" OR "ラガルド" OR "ECB総裁" OR "財務長官" OR "トランプ大統領") (発言 OR 講演 OR 会見 OR 示唆 OR 利上げ OR 利下げ) -阪神 -野球 -プロ野球 when:1d'),
   "Bloomberg": g("site:bloomberg.co.jp OR site:bloomberg.com 為替 OR 金利 when:1d"),
   "Reuters": g("site:jp.reuters.com OR site:reuters.com 為替 OR 金利 when:1d"),
   "WSJ": g("site:jp.wsj.com OR site:wsj.com 市場 when:1d"),
@@ -63,4 +63,3 @@ Object.keys(SOURCES).forEach((name, idx) => {
 </script>
 </body>
 </html>
-
