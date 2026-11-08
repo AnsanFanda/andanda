@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T14:35:56.757326+00:00",
+ "updated": "2026-11-08T15:30:18.451544+00:00",
  "tabs": {
   "要人発言": [
    {
@@ -110,6 +110,21 @@
   ],
   "Bloomberg": [
    {
+    "title": "Can Europe Afford Its Welfare State?",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-08/can-europe-afford-its-welfare-state-video",
+    "date": "2026-11-08T15:02:58+00:00"
+   },
+   {
+    "title": "New House Democrats Set Their Priorities",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-08/new-house-democrats-set-their-priorities-video",
+    "date": "2026-11-08T14:58:22+00:00"
+   },
+   {
+    "title": "Luxury Gyms Turn Fitness Into a Family Affair",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-08/luxury-gyms-turn-fitness-into-a-family-affair-video",
+    "date": "2026-11-08T14:40:27+00:00"
+   },
+   {
     "title": "Seattle and Las Vegas Make Their NBA Pitch",
     "link": "https://www.bloomberg.com/news/videos/2026-11-08/seattle-and-las-vegas-make-their-nba-pitch-video",
     "date": "2026-11-08T14:28:18+00:00"
@@ -160,19 +175,9 @@
     "date": "2026-11-08T04:02:33+00:00"
    },
    {
-    "title": "China Raises Delegate Count to 2,360 for 2027 Party Congress",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-08/china-raises-delegate-count-to-2-360-for-2027-party-congress",
-    "date": "2026-11-08T03:29:25+00:00"
-   },
-   {
     "title": "AI Slump Revives Asia’s Forgotten Trades From China to India",
     "link": "https://www.bloomberg.com/news/articles/2026-11-08/ai-slump-revives-asia-s-forgotten-trades-from-china-to-india",
     "date": "2026-11-08T00:00:00+00:00"
-   },
-   {
-    "title": "Australia Home Sales Rise in Fledgling Sign of Property Recovery",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-07/australia-home-sales-rise-in-fledgling-sign-of-property-recovery",
-    "date": "2026-11-07T23:54:25+00:00"
    },
    {
     "title": "Meta’s $25 Billion Bond Sale Highlights Shifting Landscape for Tech Debt",
@@ -195,11 +200,6 @@
     "date": "2026-11-07T15:32:55+00:00"
    },
    {
-    "title": "A Historic First for Women at the Metropolitan Opera",
-    "link": "https://www.bloomberg.com/news/videos/2026-11-07/a-historic-first-for-women-at-the-metropolitan-opera-video",
-    "date": "2026-11-07T15:23:13+00:00"
-   },
-   {
     "title": "Top Turkish Regulators Taken Into Custody in Fund Probe",
     "link": "https://www.bloomberg.com/news/articles/2026-11-07/turkey-arrests-former-regulatory-executive-in-growing-fund-probe",
     "date": "2026-11-07T13:56:55+00:00"
@@ -212,6 +212,11 @@
   ],
   "Reuters": [
    {
+    "title": "AY7A.F - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPUlpwZ1pXdmh4STB2YXA1NGZhNkJEM1BxX3NhRlpfbXktMTNwMTVrcGR2blhhMm1PSlVOcF9QemRudVFmZVE3Z1FGa3pnbGVodUducGVDRUhpWmotOHR3MGxWdmhYcUtGV2xzUlg3elFKNUVRSEF6MDRtQjRUbjE1d05fQzRneUdjU1E?oc=5",
+    "date": "2026-11-08T13:25:06+00:00"
+   },
+   {
     "title": "アングル：相次ぐ美術品盗難、欧州の中小・地方美術館が警備強化に苦慮 - Reuters",
     "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1sV1p6V3VmR1NQQmwwZ1ByUHFYYWVKMm9WQ1JNRC1jc3BzQTZLNnY1VGN4YmNzT25yVy1FSDE2MjZSSTREYVM3THM1YkkyY1hPbUZ0MHRnLXVZalNXT3M0REpvei0yY3NxZlJ2cUtVaXVzZTlJU3plOS1pQmdsdw?oc=5",
     "date": "2026-11-08T06:42:00+00:00"
@@ -220,6 +225,11 @@
     "title": "Nilanjana Basu - Reuters",
     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1sZGNFMjNhaHNEX1FWSlFQcnhYbW15MjNOcGRNeUFPV1dtZTJ3czExcXZnQnFoeFUtcUpEMUxQb0ZmTUpnRTRFS2dVUTA5YzB2cFFDWHRvNnRUNnBJeGdr?oc=5",
     "date": "2026-11-08T06:38:36+00:00"
+   },
+   {
+    "title": "IDFB.INx - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdUhWckYxMjdndlNlTm9sazN2TlFvcHRsZDFUY3VCUG5xMjE0TncxOGNWZ09FVW1sTmJ2T2VWQVRRbUNwbjV2RjJnVlltY1FGRTh4UEZCRnVoTG1wV1NfYWtfbWQ1OXkxNFFZTEhXQ25BX0tKUS1QLS12c0h3TkFGNVl6cm1JTGFQ?oc=5",
+    "date": "2026-11-08T06:34:31+00:00"
    },
    {
     "title": "WULF.O - Reuters",
@@ -332,14 +342,14 @@
     "date": "2026-11-07T20:47:44+00:00"
    },
    {
-    "title": "Ahmed Maher - Reuters",
-    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ILUI5ejFsX3JDTlZIUHhvRjkwQnRSMlh5NlZMc0NIRUZJVG4yWjY4Q0dlM2NiS0RhWVVnN19wVzQtMmxKR0N3a0lGOFZPdFF1SGZIeFJ6dXNBbDA?oc=5",
-    "date": "2026-11-07T20:23:54+00:00"
-   },
-   {
     "title": "3187.T - | Stock Price & Latest News - Reuters",
     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0xbzNwQ1Z3RjVpd1NWalVtSFZ3c24wRWZ2eU90RFRwQ2pRSTJtRDQwQ1M5WVhPZUdRdEtZc2JsdFUtY0tDZXAtZ0ZuUkxaN1otemg2ZFJR?oc=5",
     "date": "2026-11-07T20:00:44+00:00"
+   },
+   {
+    "title": "Red carpet style at the lavish Ambani wedding - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxOOTFkZHdBRjhPenluX3B0MVhUZzdIWWVJMGR5Y1ZGeEZCYXdNN3FwS1hiRFE2aENidzctUEpxTUgxTExrQXBSZ1BjNkhIVVcwdnBOUS05c0M1eGs2YWVLTnFGVkp4LWFaWGFBLXJxWTJaejF6MXZvY0NrdXJFVjc0ckRuT0cwWmxVZmdvN3BYTHpBR1RuRnVzckpvWXk3aVhmUE5sVTdZOWFJS1M3RTA4QWxUeHFIalMzejRpdnRMM3AxeGNzUWhaUDV4Q0J5dEZ0bzN0TXNJdzFBSk84SHVWX3A2YjFQX2xrek90T3VMNk1GVGFJS3V0Q1hJeGdFMFhvUVpncUFORTNPdnhQa2RhRGhWMlRPSjVZbzlpMw?oc=5",
+    "date": "2026-11-07T17:10:03+00:00"
    },
    {
     "title": "ロシア、一時管理下のＪＴ傘下企業を3社追加 新たに大統領令 | ロイター - Reuters",
@@ -350,20 +360,45 @@
     "title": "Waving to crowds, Pope Leo kicks off demanding South America tour - Reuters",
     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBHWURFaFotYVFtTkxCUXdjdEt3b1dHNWFhV3VGX2kzeGdKR3c4SGMyTUtTU2dMbngydkNNY1NIeHlscXpMYXE1elVEX3EzRFJMUTB1UWhWblVXY0ZYYUplM0dQMVdFcGFHQnFr?oc=5",
     "date": "2026-11-07T15:58:02+00:00"
-   },
-   {
-    "title": "Tumelo Modiba - Reuters",
-    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBfVkRWUFNaX2t2TGxGVEN2RXp1cW9qaEZ5Y1FnSXdoLUhIUDRvTmg4QmtVYjBuU3NjeklHMDYwVHBTc0RoLXpNZ3FxOVpHOGJuSDhkeVd0ZThRM2tacUE?oc=5",
-    "date": "2026-11-07T15:49:08+00:00"
-   },
-   {
-    "title": "I5P0.D - Reuters",
-    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOMFJFcFhENkRnY1NpZU5veE5rNUhybmY1MVVmZjRyNXc4MDBIY21uYzloOVB4UUlNUGJXMm03Zlc4eHFyU3pQdVBfdXMyZkhURnl6cEVUSGdIbG5SdjJiLWtJWFpsbmdPX2w1S2xqbUNOdm50a0xDb0taUHl1dXkyb0U0Wkg3TVNnaVE?oc=5",
-    "date": "2026-11-07T15:08:44+00:00"
    }
   ],
   "WSJ": [],
   "日経": [
+   {
+    "title": "アクセスランキング - 日本経済新聞",
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE05Nk9UZTZzQ09MSWpBYUEzTnpvSk5VT256NGc0THp6QXhzYm5hYzlXZ2FydTEyR2JGRnZqcnlST01FWTRfOUFXMXdFWDFmY0JsOVhwWHdJdHhQMmg4ZEg3ak5oQjluMm1C?oc=5",
+    "date": "2026-11-08T15:03:14+00:00"
+   },
+   {
+    "title": "経済 - 日本経済新聞",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1ZZU9Pa0lRenJCdGZ5eXcxam44YW9iMWtwbWx0N0VQcG1MRnNMOHRJUHE3QmF5cWp2cmZsVnZfQVFkQk5ad2FTV3BFNWh0QTF4U3A1WklCMWpKRm1PZjVmUGtiRlZaWmJRYVFNc3FB?oc=5",
+    "date": "2026-11-08T15:03:14+00:00"
+   },
+   {
+    "title": "社会人野球、西濃運輸やNTT西日本が準決勝へ 日本選手権 - 日本経済新聞",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1SMFBlVXFNZ1g2UUo3T3JOLUxXTFRodlBGY2hINXhZXzVqSTYxRUZjblp3eU9FTklaYUVUQ3dqN1p5M1pFSWUxZ1BRV0d4dFBDYklrSnRDcXNhTlBiWEVtN1MxclpIcE9GakEyVg?oc=5",
+    "date": "2026-11-08T15:02:40+00:00"
+   },
+   {
+    "title": "ブラジル「ルラ軍団」のデジタル選挙戦術、世界の左派勢力を刺激 - 日本経済新聞",
+    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBoQ2psQUNpUjVrSFBUcTZCTUZmd3ZFU2ZPR2psOUxKem94MUJBRFlhOUNMenNOM1dRcVRoZm43UzVUTEJFcGJpVHB4bTVxSkZ3TDZibGdwVzdVV3ZYckR5a0RfS09MMmR3Q2NJd09kZjZCM0loeU9R?oc=5",
+    "date": "2026-11-08T15:00:00+00:00"
+   },
+   {
+    "title": "トランプ氏の次は？ 次期米大統領レースへ号砲（共和党編） - 日本経済新聞",
+    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5UUWkwYUdSSlZRRDFNU2w0NGtaRkJRWU5UUUkxVTEyRmhkYTBhZFBNUnFhZTJjWTNwZzBJYmZJOFZiVzVfNmN1V1NLQk9sOUZ0bUVmZzcyNFVZY2pfM1BWRzJVLWxuemxNbGVPYTdGb25hbVZYMjJV?oc=5",
+    "date": "2026-11-08T15:00:00+00:00"
+   },
+   {
+    "title": "豪、政府系ファンドで経済変革 宇宙分野に加えミートパイにも資金 - 日本経済新聞",
+    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB6aUdHYTYtM2NHMV9makZrWW5OVHhIdHdXdzNJeDdZUFd1T2xGa3lueVVCQ0pPaHZvZ3VXVGM0Tk1HWlZ0c2dPdTBIaDJGaFlNc25PNlgxaGsxSF9FOGVHaWhfVEhhMlJlMHVFUHFnYWFQQkZDSnRj?oc=5",
+    "date": "2026-11-08T15:00:00+00:00"
+   },
+   {
+    "title": "北海道網走市長選挙、水谷洋一氏が5選 - 日本経済新聞",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE42WjJhdmxhLWJ4UFNhelBjaEpneERyV3BXc1BMblNzdzdTaHJJM1d2c2hYbVRIMnN2TFl5blpDWHVqYXEtcm91MWRIWXdLaXdLVkRVN1ZGQ09mY0hrNWV3YnlyYWJldEF0c3duRg?oc=5",
+    "date": "2026-11-08T14:40:00+00:00"
+   },
    {
     "title": "卓球Tリーグ、首位金沢が静岡下す 女子は九州競り勝つ - 日本経済新聞",
     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBLcWJQUWxaMkd2enZiclF6aXV2S3hRS3czRXNwUEMyUHR6OWxKeEd3Y3FlX25DNTg5YU03NzlNLUs4MGJsWjM5MlNqVkhhem1kWDlMWGpKRlo2SVFUQjhPVGVDQ0ViMFdOQ1FuZQ?oc=5",
@@ -420,7 +455,7 @@
     "date": "2026-11-08T11:45:06+00:00"
    },
    {
-    "title": "Challenge! CROSSWORD -NIKKEI The STYLE- - 日経ビジュアルデータ",
+    "title": "Challenge! CROSSWORD -NIKKEI The STYLE-|2026年11月8日 - 日経ビジュアルデータ",
     "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE42X0U1aXpVYnpOTWQ3X0VVbmM3QjRRdzhfanVYQ0RKaDJJU0JMUktBS2drV21vdE9JMXFFT2FGODNFaENzaXpqcWgtbTZrUDhtNHc5RmRtN00wZTY1LVFVcm53dWJWanhWTWxUMElhZ3dETlhIWnBjbA?oc=5",
     "date": "2026-11-08T11:45:03+00:00"
    },
@@ -460,11 +495,6 @@
     "date": "2026-11-08T10:38:51+00:00"
    },
    {
-    "title": "16番人気ファミリータイム、重賞初勝利 競馬アルゼンチン杯 - 日本経済新聞",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE02eEVxZVFiQ2l4REp2bnQ1OE5RUkszUUhHYngtT3dqR244YXk4T1QyN2hRTWsyUGFTWTdXZnBqbGdyeF95M244MnJnQXdGRkdkeXJydmN1YVpWTVlST3FQV1E2cmRXYTFTdTlDVQ?oc=5",
-    "date": "2026-11-08T10:31:46+00:00"
-   },
-   {
     "title": "大相撲九州場所中入り後取組・2日目 - 日本経済新聞",
     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBrT1BZckNRUi1hS0hLd0ZNZ1RobHRxV040aC1lTzh3elY3NGRyaG9Tb0VxVjVzYUw5VVRVclh6OXFZWnlCZDZaZ2RkdUR1T2ZRNzFfcjFRY28tSjNJY0ZES2NVeVRzcmRPZWVfWg?oc=5",
     "date": "2026-11-08T10:00:15+00:00"
@@ -483,36 +513,6 @@
     "title": "【解説】日本の論点2027 米中・AI・消費税などの論点解説 - 日本経済新聞",
     "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1WOFhoU0RWWVlGaHVlLW5CWF9GU1Fkd1FuaHJjd00xTW1TUm9PQTQ1SVIzY3VJUmRfMlNqT3BvZ29mbFRQcDNtRFpTcW5sZlU?oc=5",
     "date": "2026-11-08T09:20:50+00:00"
-   },
-   {
-    "title": "日経平均底入れで反発か、原油価格は高止まりに 今週の市場・予定 - 日本経済新聞",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE50c3BoNjZ2STlXdUZSWW1xR1pGaE1QdTctaENNSHllWFhBODVjaktvN25VVEpnSTAza2NIa2NPUE5ZUVc3YnJ2eW1QdXB2MjJpaDY0WVlmdHYyYnpYVFVoV2kyTHdHb1lKckZkcw?oc=5",
-    "date": "2026-11-08T09:00:00+00:00"
-   },
-   {
-    "title": "茨城県ひたちなか市長選挙、大谷明氏が3選 - 日本経済新聞",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1kQS1LQWxvZDNYWTV0Z190eldYV3FOcU1yRXFGTE50MEdIQmFONDd0OFBoQXhhdktXS0o3d1JES1BSZ0kwR2NuWmtnMnVqUmtuWVVVSXlCTERPT1VjdzEyemZTQVdRU3NVaTgtUA?oc=5",
-    "date": "2026-11-08T09:00:00+00:00"
-   },
-   {
-    "title": "新潟県小千谷市長選挙、宮崎悦男氏が再選 - 日本経済新聞",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBUUmh4OTU3VV9PNjhPX0lxX21sRUhEdElVZnlMR0xBTjFnTnhwa1cwd0EzRC1MTHB2MmVtaWo2clpWcGtleF9SRV9JOXR2WmZVdWJZZkZkalhSdEZCVHZrUHVfNnNLSFNkZWo5Uw?oc=5",
-    "date": "2026-11-08T09:00:00+00:00"
-   },
-   {
-    "title": "新潟県妙高市長選挙、城戸陽二氏が再選 - 日本経済新聞",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9PcG55U0hiNjk1X2xwWDhMZ2VCWFB3SEI3dnpKRk5fT2tMNWk5VG8xNHotcng1WkNaVkxtTFJQWVpIV05UaHFyUGRic0s3SGN2ODBhT01fdnVmTkMtWDNueUI1UVNyMXkzNFdGRQ?oc=5",
-    "date": "2026-11-08T09:00:00+00:00"
-   },
-   {
-    "title": "富山県小矢部市長選挙、桜井森夫氏が6選 - 日本経済新聞",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBxRUZDZm9pT0o2a01MbzVhc2NPYUpTYWNoaUF5c0ZUS3dCS3dWRldvcGZfLWwwMHdhVDJtZmRFNjdFb085T3h4ellGZGg4M3lxMW9kZnR5R0UxbmRBVWJKVjVVWW1taC1kazhtbg?oc=5",
-    "date": "2026-11-08T09:00:00+00:00"
-   },
-   {
-    "title": "ACN選手権ゴルフ最終成績 - 日本経済新聞",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBWblVMaUJuaWlBelprSElEeUxSWmltS0NnNEZMQW1udW1wZGNlbGtIcFBqa292djhhOHZ6ZFJTSks3LUZPTHV3MUpDZFgzWU9GMmFlemRqUjlFNW9nR0l5Y01kRU5SdkRkVTVHYg?oc=5",
-    "date": "2026-11-08T08:51:28+00:00"
    }
   ]
  }
