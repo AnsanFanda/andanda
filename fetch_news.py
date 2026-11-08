@@ -1,35 +1,71 @@
-<!DOCTYPE html>
-<html lang="ja">
-<head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<title>ファンダニュース</title>
-<style>
-body{font-family:-apple-system,sans-serif;margin:0;background:#f5f6f8;color:#111}
-h1{font-size:18px;margin:0;padding:14px 16px;background:#0b2545;color:#fff}
-nav{display:flex;gap:6px;overflow-x:auto;padding:10px 12px;background:#fff;position:sticky;top:0}
-nav button{flex:none;border:1px solid #ccd;background:#fff;border-radius:16px;padding:6px 12px;font-size:14px}
-nav button.on{background:#0b2545;color:#fff}
-ul{list-style:none;margin:0;padding:8px 12px}
-li{background:#fff;border-radius:8px;padding:10px 12px;margin-bottom:8px}
-li a{color:#111;text-decoration:none;font-size:15px;line-height:1.4}
-li small{display:block;color:#778;margin-top:4px}
-#msg,#upd{padding:8px 16px;color:#778;font-size:13px}
-</style>
-</head>
-<body>
-<h1>ファンダニュース</h1>
-<nav id="tabs"></nav>
-<div id="upd"></div>
-<div id="msg">読み込み中…</div>
-<ul id="list"></ul>
-<script>
-const tabs=document.getElementById("tabs"),list=document.getElementById("list"),msg=document.getElementById("msg"),upd=document.getElementById("upd");let D={};
-const esc=s=>s.replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
-const jp=t=>new Date(t).toLocaleString("ja-JP",{timeZone:"Asia/Tokyo",month:"2-digit",day:"2-digit",hour:"2-digit",minute:"2-digit",hour12:false});
-const fmt=t=>t?new Date(t).toISOString().slice(0,16).replace("T"," ")+" UTC（日本時間 "+jp(t)+"）":"";
-function show(n,btn){[...tabs.children].forEach(b=>b.classList.remove("on"));btn.classList.add("on");const it=D[n]||[];msg.textContent=it.length?"":"記事がありません";list.innerHTML=it.map(i=>`<li><a href="${esc(i.link)}" target="_blank" rel="noopener">${esc(i.title)}</a><small>${esc(fmt(i.t))}</small></li>`).join("")}
-fetch("news.json?"+Date.now()).then(r=>r.json()).then(d=>{D=d;upd.textContent="最終更新（日本時間）: "+jp(d._updated);Object.keys(d).filter(k=>k[0]!=="_").forEach((n,i)=>{const b=document.createElement("button");b.textContent=n;b.onclick=()=>show(n,b);tabs.appendChild(b);if(i===0)show(n,b)})}).catch(()=>{msg.textContent="データを読み込めませんでした"});
-</script>
-</body>
-</html>
+import json
+import sys
+import urllib.parse
+import urllib.request
+import xml.etree.ElementTree as ET
+from datetime import datetime, timezone
+from email.utils import parsedate_to_datetime
+
+
+def gnews(q):
+    return ("https://news.google.com/rss/search?q=" + urllib.parse.quote(q)
+            + "&hl=ja&gl=JP&ceid=JP:ja")
+
+
+FEEDS = {
+    "要人発言": [gnews("(FRB議長 OR 日銀総裁 OR 財務長官 OR 財務相 OR パウエル OR 植田総裁 OR トランプ) 発言 when:1d")],
+    "Bloomberg": ["https://feeds.bloomberg.com/markets/news.rss"],
+    "Reuters": [gnews("site:reuters.com when:1d")],
+    "WSJ": ["https://feeds.a.dowjones.com/rss/RSSMarketsMain"],
+    "日経": [gnews("site:nikkei.com when:1d")],
+}
+
+
+def fetch(url):
+    req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
+    with urllib.request.urlopen(req, timeout=20) as r:
+        return r.read()
+
+
+def parse(xml_bytes):
+    items = []
+    root = ET.fromstring(xml_bytes)
+    for it in root.iter("item"):
+        title = (it.findtext("title") or "").strip()
+        link = (it.findtext("link") or "").strip()
+        pub = it.findtext("pubDate") or ""
+        try:
+            ts = parsedate_to_datetime(pub).astimezone(timezone.utc)
+        except Exception:
+            ts = datetime.now(timezone.utc)
+        if title and link:
+            items.append({"title": title, "link": link, "date": ts.isoformat()})
+    return items
+
+
+def main():
+    result = {"updated": datetime.now(timezone.utc).isoformat(), "tabs": {}}
+    total = 0
+    for name, urls in FEEDS.items():
+        items = []
+        for url in urls:
+            try:
+                items += parse(fetch(url))
+            except Exception as e:
+                print("ERROR", name, e)
+        seen = set()
+        uniq = []
+        for i in sorted(items, key=lambda x: x["date"], reverse=True):
+            if i["link"] not in seen:
+                seen.add(i["link"])
+                uniq.append(i)
+        result["tabs"][name] = uniq[:30]
+        total += len(uniq[:30])
+        print(name, len(uniq[:30]))
+    with open("news.json", "w", encoding="utf-8") as f:
+        json.dump(result, f, ensure_ascii=False, indent=1)
+    if total == 0:
+        sys.exit(1)
+
+
+main()
