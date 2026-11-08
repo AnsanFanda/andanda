@@ -1,11 +1,16 @@
 {
- "updated": "2026-11-08T17:30:03.437385+00:00",
+ "updated": "2026-11-08T18:08:11.895671+00:00",
  "tabs": {
   "要人発言": [
    {
     "title": "欧州右派、トランプ離れ鮮明「支持者だったこと一度もない」「イラン攻撃誤り」…アメリカ中間選大敗受け - Infoseek",
     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9RYlA3RmttcklReWVJTWRCOVU2d1RHb001ekd2WWc3dU1UYXNuckg2b2dRVnZYWmJxSG56b2tHUHRUS3Fxb2t2WklZV0ZIY0puTkRhckxkSHN5QTh0dl90cnZlcHdobUR2bHM4T2FQdDg?oc=5",
     "date": "2026-11-08T11:04:00+00:00"
+   },
+   {
+    "title": "トランプ氏、協議が進展すればイランへの攻撃再開は「極めて可能性が低い」と発言 - Mezha.net",
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVHdnSGlQdGJyUWZUZzV1ZHY5LWVVLXJnMEtUQUN0ZVlxOVNTR2hndHhMSzl0OEFVRERuSnBYTzhjMmdIMWR4SC1lWG5DREMxSGVaaEtoSWJJRmMwRnluMlFvU0JDNWVXemVxZ3dPZElzVWNMWEdRcmlSRTdjRnZSUTBzQXAxVTBqSXY3UFp0ODlPeHdJeVcw?oc=5",
+    "date": "2026-11-08T10:34:00+00:00"
    },
    {
     "title": "サンデーモーニング [字] トランプ氏“歴史的”大敗のワケ▽GMO涙の初会見で“新事実” - TBSテレビ",
@@ -83,11 +88,6 @@
     "date": "2026-11-07T23:40:55+00:00"
    },
    {
-    "title": "【動画】「便所のような国」トランプ発言に美しいトイレで反論 ノルウェー政府がSNS掲載 - テレ朝NEWS",
-    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9ncFptdGJWMkZrVGN3WDU5X1JpcURvX3ROcGItbFV1ZWJKS3lpYjJROTNXWUd2cHI4ejY5dndnWnVEWXJaMDZydkRnSkNKdUE?oc=5",
-    "date": "2026-11-07T22:27:56+00:00"
-   },
-   {
     "title": "トランプ氏、民主党「脅迫」の調査指示　証拠示さず - ｄメニューニュース",
     "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9GbWlWQ3JLd1ctamx1cGhWT3ZhdWM4T1lHNkNnMWpVQTNBYl9zd0J4LVF5eUR0RGhBdFg0Y2dVTnp5MVd4UFVXMXVMTjNOQzl2R3dMSTBaQjBrOHZQSm1hREdoNWNORjZPOWM2NHY4bDdzNTFuckZncVhfOHozUdIBgwFBVV95cUxNT0xzZVNvN2NNR3djVGlIZm9DT2puRVliTG83M0taeWlGXzBST2lDVFY0cmNvRnhTcklyYW5rRnA3VGR2am5UendWUVoxbVdtSDA3bmxiMGdWLXBvTjlvQ1Jmcy0xa2Q2SUxDSkdRYUhNZnZQZS1lbmlnWFg3bldlTEtwYw?oc=5",
     "date": "2026-11-07T20:46:00+00:00"
@@ -108,6 +108,11 @@
     "title": "Saudi Aramco Tower Targeted in Rare Strike on Riyadh Finance Hub",
     "link": "https://www.bloomberg.com/news/articles/2026-11-08/saudi-aramco-tower-targeted-in-rare-strike-on-riyadh-finance-hub",
     "date": "2026-11-08T17:15:42+00:00"
+   },
+   {
+    "title": "Watching Wall Street, Deadly Mass Shooting in Poland, Back to Work After Blue Wave",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-08/bloomberg-this-weekend-11-8-2026-video",
+    "date": "2026-11-08T17:03:43+00:00"
    },
    {
     "title": "Bookmarked: News Stories On Our Reading List",
@@ -198,11 +203,6 @@
     "title": "AI Slump Revives Asia’s Forgotten Trades From China to India",
     "link": "https://www.bloomberg.com/news/articles/2026-11-08/ai-slump-revives-asia-s-forgotten-trades-from-china-to-india",
     "date": "2026-11-08T00:00:00+00:00"
-   },
-   {
-    "title": "Meta’s $25 Billion Bond Sale Highlights Shifting Landscape for Tech Debt",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-07/meta-s-bond-sale-shows-new-reality-for-tech-debt-credit-weekly",
-    "date": "2026-11-07T20:00:00+00:00"
    }
   ],
   "Reuters": [
@@ -230,6 +230,11 @@
     "title": "IDFB.INx - Reuters",
     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdUhWckYxMjdndlNlTm9sazN2TlFvcHRsZDFUY3VCUG5xMjE0TncxOGNWZ09FVW1sTmJ2T2VWQVRRbUNwbjV2RjJnVlltY1FGRTh4UEZCRnVoTG1wV1NfYWtfbWQ1OXkxNFFZTEhXQ25BX0tKUS1QLS12c0h3TkFGNVl6cm1JTGFQ?oc=5",
     "date": "2026-11-08T06:34:31+00:00"
+   },
+   {
+    "title": "Michael Nienaber - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBlUmNxcUItTUxnS09XbjlzZmYtUEVXZ3RLT1JmTm1DY3c4MkFlYUFnejl2Z19ETHhZWFB1a0o5ekppVjY0Mlp0YUsyNy1aUThTLXU2SjBPcWpJczNLUzBaX1FR?oc=5",
+    "date": "2026-11-08T06:01:40+00:00"
    },
    {
     "title": "WULF.O - Reuters",
@@ -260,11 +265,6 @@
     "title": "テニス＝世界ランク1位ルバキナ、ＷＴＡファイナル欠場を表明 - Reuters",
     "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNX3ZET29yTVQ1RWxlOHNBVjczX0hYR0o2Nk5ONmdUNE9vTDJhT1lhcmJNZ1dVZFdpcXBBelVDblE0dThLdkQ4MmZEM1g5SG9SM1dWMTVwMDBuZWl2TllTRHc2QkRmTFpaWlhqUVJncWM1MjRUcmNOYjFjaWtZN0E0dEFNTQ?oc=5",
     "date": "2026-11-08T03:30:00+00:00"
-   },
-   {
-    "title": "Anne Florentyna Gnanaraja Sekar - Reuters",
-    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1rS0lCa3NpVlVXaFk3VFQ5YzlINHA0bThORFlVb3FkT01uNkhKRnZlSjhmOGFPYy0wWXpoTDY1TVZFWFY4ekh0ZVFEbmF6VExUa0hkcmVQZGV0SE9WX0JGTk9QbEp6WlRZamlsXzJSVmVhSU0?oc=5",
-    "date": "2026-11-08T02:44:48+00:00"
    },
    {
     "title": "テニス＝アルカラスとシェルトンが決勝進出、マスターズ・パリ大会 - Reuters",
@@ -318,11 +318,6 @@
    },
    {
     "title": "アングル：中国「独身の日」、世界最大級セールでＡＩトークンが新たな目玉に - Reuters",
-    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNVZhMWE2RG9GWUE0ZUpZVkxmWjRzdHN2dFA5VGliN0pjOW5uVk5tWjBnZ1FwNU1nVjhoclFhYUFVUVlMNDk0V1M5WWg0c2dkbXR4VE5QN2g3S25VbkM0MHVhQzlDWTZFMXpSeU9fal8tNUNqY0ZLdHQ2NEF0N3A2aXJhMTh1WEE4cHZz?oc=5",
-    "date": "2026-11-07T23:10:56+00:00"
-   },
-   {
-    "title": "アングル：中国「独身の日」、世界最大級セールでＡＩトークンが新たな目玉に - Reuters",
     "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNNHMwRHBOdjBWbFJDYnExc2dabVgyWlRSSXRSY3A3SnhzdWtYREp3RDQxcENCSTJzWUFKZDdnSUpvdGxNcDhOdkZVT3RHeHNPUmFmbHpsc2pRNDhqR092aGg5dzdqRDNyNTE5Q3BvcE05ejVmcHlNWjFOemZsa1ZJQnM4RQ?oc=5",
     "date": "2026-11-07T23:10:56+00:00"
    },
@@ -355,6 +350,11 @@
     "title": "Ahmed Maher - Reuters",
     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ILUI5ejFsX3JDTlZIUHhvRjkwQnRSMlh5NlZMc0NIRUZJVG4yWjY4Q0dlM2NiS0RhWVVnN19wVzQtMmxKR0N3a0lGOFZPdFF1SGZIeFJ6dXNBbDA?oc=5",
     "date": "2026-11-07T20:23:54+00:00"
+   },
+   {
+    "title": "3187.T - | Stock Price & Latest News - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0xbzNwQ1Z3RjVpd1NWalVtSFZ3c24wRWZ2eU90RFRwQ2pRSTJtRDQwQ1M5WVhPZUdRdEtZc2JsdFUtY0tDZXAtZ0ZuUkxaN1otemg2ZFJR?oc=5",
+    "date": "2026-11-07T20:00:44+00:00"
    }
   ],
   "WSJ": [],
