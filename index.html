@@ -15,6 +15,7 @@ li{background:#fff;border-radius:8px;padding:10px 12px;margin-bottom:8px}
 li a{color:#111;text-decoration:none;font-size:15px;line-height:1.4}
 li small{display:block;color:#778;margin-top:4px}
 #msg{padding:16px;color:#778}
+#cal{display:none;padding:8px 12px}
 </style>
 </head>
 <body>
@@ -22,6 +23,7 @@ li small{display:block;color:#778;margin-top:4px}
 <nav id="tabs"></nav>
 <div id="msg"></div>
 <ul id="list"></ul>
+<div id="cal"></div>
 <script>
 const g=q=>"https://news.google.com/rss/search?q="+encodeURIComponent(q)+"&hl=ja&gl=JP&ceid=JP:ja";
 const S={"要人発言":[
@@ -33,15 +35,18 @@ g("トランプ大統領 関税 OR 制裁 OR ドル OR FRB when:2d")],
 "Reuters":[g("site:jp.reuters.com OR site:reuters.com 為替 OR 金利 when:2d")],
 "WSJ":[g("site:jp.wsj.com OR site:wsj.com 市場 when:2d")],
 "日経":[g("site:nikkei.com 為替 OR 金利 OR 日銀 when:2d")]};
-const tabs=document.getElementById("tabs"),list=document.getElementById("list"),msg=document.getElementById("msg");let tk=0;
+const tabs=document.getElementById("tabs"),list=document.getElementById("list"),msg=document.getElementById("msg"),cal=document.getElementById("cal");let tk=0;
 const esc=s=>s.replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
 const sleep=ms=>new Promise(r=>setTimeout(r,ms));
 const fmt=s=>{if(!s)return"";const d=new Date(s.replace(" ","T")+"Z");if(isNaN(d))return s;return s+" UTC（日本時間 "+d.toLocaleString("ja-JP",{timeZone:"Asia/Tokyo",month:"2-digit",day:"2-digit",hour:"2-digit",minute:"2-digit",hour12:false})+"）"};
 async function one(u){const r=await fetch("https://api.rss2json.com/v1/api.json?rss_url="+encodeURIComponent(u));const d=await r.json();if(d.status&&d.status!=="ok")throw 0;return d.items||[]}
-async function load(n,btn){const my=++tk;[...tabs.children].forEach(x=>x.classList.remove("on"));btn.classList.add("on");list.innerHTML="";msg.textContent="読み込み中…";const U=S[n],seen=new Set(),items=[];let ok=0;
+async function load(n,btn){const my=++tk;cal.style.display="none";list.style.display="";[...tabs.children].forEach(x=>x.classList.remove("on"));btn.classList.add("on");list.innerHTML="";msg.textContent="読み込み中…";const U=S[n],seen=new Set(),items=[];let ok=0;
 for(let k=0;k<U.length;k++){if(my!==tk)return;try{(await one(U[k])).forEach(i=>{if(!seen.has(i.link)){seen.add(i.link);items.push(i)}});ok++;if(items.length){msg.textContent="";items.sort((a,b)=>(b.pubDate||"").localeCompare(a.pubDate||""));list.innerHTML=items.slice(0,30).map(i=>`<li><a href="${esc(i.link)}" target="_blank" rel="noopener">${esc(i.title)}</a><small>${esc(fmt(i.pubDate))}</small></li>`).join("")}}catch(e){}if(k<U.length-1)await sleep(600)}
 if(my===tk&&!items.length)msg.textContent="記事が見つかりませんでした（取得成功 "+ok+"/"+U.length+"）"}
+function showCal(btn){tk++;[...tabs.children].forEach(x=>x.classList.remove("on"));btn.classList.add("on");list.innerHTML="";list.style.display="none";msg.textContent="";cal.style.display="block";
+if(!cal.firstChild){const c=document.createElement("div");c.className="tradingview-widget-container";const s=document.createElement("script");s.src="https://s3.tradingview.com/external-embedding/embed-widget-events.js";s.async=true;s.innerHTML=JSON.stringify({colorTheme:"light",isTransparent:false,width:"100%",height:600,locale:"ja",importanceFilter:"0,1",countryFilter:"jp,us,eu,gb,au,ca,cn"});c.appendChild(s);cal.appendChild(c)}}
 Object.keys(S).forEach((n,i)=>{const b=document.createElement("button");b.textContent=n;b.onclick=()=>load(n,b);tabs.appendChild(b);if(i===0)load(n,b)});
+const cb=document.createElement("button");cb.textContent="指標カレンダー";cb.onclick=()=>showCal(cb);tabs.appendChild(cb);
 </script>
 </body>
 </html>
