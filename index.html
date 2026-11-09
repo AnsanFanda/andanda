@@ -40,13 +40,14 @@ const esc=s=>s.replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&qu
 const sleep=ms=>new Promise(r=>setTimeout(r,ms));
 const fmt=s=>{if(!s)return"";const d=new Date(s.replace(" ","T")+"Z");if(isNaN(d))return s;return s+" UTC（日本時間 "+d.toLocaleString("ja-JP",{timeZone:"Asia/Tokyo",month:"2-digit",day:"2-digit",hour:"2-digit",minute:"2-digit",hour12:false})+"）"};
 async function one(u){const r=await fetch("https://api.rss2json.com/v1/api.json?rss_url="+encodeURIComponent(u));const d=await r.json();if(d.status&&d.status!=="ok")throw 0;return d.items||[]}
-async function load(n,btn){const my=++tk;cal.style.display="none";list.style.display="";[...tabs.children].forEach(x=>x.classList.remove("on"));btn.classList.add("on");list.innerHTML="";msg.textContent="読み込み中…";const U=S[n],seen=new Set(),items=[];let ok=0;
+async function load(n,btn){const my=++tk;cal.style.display="none";cal.innerHTML="";list.style.display="";[...tabs.children].forEach(x=>x.classList.remove("on"));btn.classList.add("on");list.innerHTML="";msg.textContent="読み込み中…";const U=S[n],seen=new Set(),items=[];let ok=0;
 for(let k=0;k<U.length;k++){if(my!==tk)return;try{(await one(U[k])).forEach(i=>{if(!seen.has(i.link)){seen.add(i.link);items.push(i)}});ok++;if(items.length){msg.textContent="";items.sort((a,b)=>(b.pubDate||"").localeCompare(a.pubDate||""));list.innerHTML=items.slice(0,30).map(i=>`<li><a href="${esc(i.link)}" target="_blank" rel="noopener">${esc(i.title)}</a><small>${esc(fmt(i.pubDate))}</small></li>`).join("")}}catch(e){}if(k<U.length-1)await sleep(600)}
 if(my===tk&&!items.length)msg.textContent="記事が見つかりませんでした（取得成功 "+ok+"/"+U.length+"）"}
-function showCal(btn){tk++;[...tabs.children].forEach(x=>x.classList.remove("on"));btn.classList.add("on");list.innerHTML="";list.style.display="none";msg.textContent="";cal.style.display="block";
-if(!cal.firstChild){const c=document.createElement("div");c.className="tradingview-widget-container";const s=document.createElement("script");s.src="https://s3.tradingview.com/external-embedding/embed-widget-events.js";s.async=true;s.innerHTML=JSON.stringify({colorTheme:"light",isTransparent:false,width:"100%",height:600,locale:"ja",importanceFilter:"1",countryFilter:"jp,us,eu"});c.appendChild(s);cal.appendChild(c)}}
+function showW(btn,src,cfg){tk++;[...tabs.children].forEach(x=>x.classList.remove("on"));btn.classList.add("on");list.innerHTML="";list.style.display="none";msg.textContent="";cal.style.display="block";cal.innerHTML="";const c=document.createElement("div");c.className="tradingview-widget-container";const s=document.createElement("script");s.src=src;s.async=true;s.innerHTML=JSON.stringify(cfg);c.appendChild(s);cal.appendChild(c)}
 Object.keys(S).forEach((n,i)=>{const b=document.createElement("button");b.textContent=n;b.onclick=()=>load(n,b);tabs.appendChild(b);if(i===0)load(n,b)});
-const cb=document.createElement("button");cb.textContent="指標カレンダー";cb.onclick=()=>showCal(cb);tabs.appendChild(cb);
+const W=[["指標カレンダー","https://s3.tradingview.com/external-embedding/embed-widget-events.js",{colorTheme:"light",isTransparent:false,width:"100%",height:600,locale:"ja",importanceFilter:"1",countryFilter:"jp,us,eu"}],
+["チャート","https://s3.tradingview.com/external-embedding/embed-widget-advanced-chart.js",{width:"100%",height:520,symbol:"FX:USDJPY",interval:"60",timezone:"Asia/Tokyo",theme:"light",style:"1",locale:"ja",allow_symbol_change:true,hide_side_toolbar:true,calendar:false,support_host:"https://www.tradingview.com"}]];
+W.forEach(([n,src,cfg])=>{const b=document.createElement("button");b.textContent=n;b.onclick=()=>showW(b,src,cfg);tabs.appendChild(b)});
 </script>
 </body>
 </html>
