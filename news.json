@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T16:47:20.046380+00:00",
+ "updated": "2026-11-10T17:43:29.919357+00:00",
  "tabs": {
   "要人発言": [
    {
@@ -105,9 +105,39 @@
   ],
   "Bloomberg": [
    {
-    "title": "Wall Street Bonuses Expected to Rise by 30% For Some",
+    "title": "CEO Pay Disclosures Set for ‘Ozempic Diet’ as SEC Eases Rules",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-10/ceo-pay-disclosures-set-for-ozempic-diet-as-sec-eases-rules",
+    "date": "2026-11-10T17:24:05+00:00"
+   },
+   {
+    "title": "US Raises Forecasts for 2027 Gasoline and Diesel Prices",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-10/us-raises-forecasts-for-2027-gasoline-and-diesel-prices",
+    "date": "2026-11-10T17:07:15+00:00"
+   },
+   {
+    "title": "Peloton Draws $6.8 Billion of Demand for Debut Junk-Bond Sale",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-10/peloton-draws-6-8-billion-of-demand-for-debut-junk-bond-sale",
+    "date": "2026-11-10T17:02:51+00:00"
+   },
+   {
+    "title": "Franklin Templeton Brazil Trims Risk, Sees No Changes With Lula",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-10/franklin-templeton-brazil-trims-risk-sees-no-changes-with-lula",
+    "date": "2026-11-10T16:56:02+00:00"
+   },
+   {
+    "title": "Morgan Stanley Says Argentina Bonds Price In Too Much Pessimism",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-10/morgan-stanley-says-argentina-bonds-price-in-too-much-pessimism",
+    "date": "2026-11-10T16:53:27+00:00"
+   },
+   {
+    "title": "Wall Street Bonuses Could Rise by 30%, Says Johnson Associates",
     "link": "https://www.bloomberg.com/news/videos/2026-11-10/wall-street-bonuses-expected-to-rise-by-30-for-some-video",
     "date": "2026-11-10T16:39:38+00:00"
+   },
+   {
+    "title": "UAE Energy Contractor NMDC Plans December Acquisition, CEO Says",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-10/uae-energy-contractor-nmdc-plans-december-acquisition-ceo-says",
+    "date": "2026-11-10T16:37:35+00:00"
    },
    {
     "title": "Fed Needs to Raise Rates at Least Two More Times, Logan Says",
@@ -120,6 +150,11 @@
     "date": "2026-11-10T16:34:48+00:00"
    },
    {
+    "title": "Hedge Funds Ask SEC, CFTC to Go Slow in Push to 24/7 Trading",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-10/hedge-funds-ask-sec-cftc-to-go-slow-in-push-to-24-7-trading",
+    "date": "2026-11-10T16:34:10+00:00"
+   },
+   {
     "title": "Tribunal Finds Emerge Canada Mismanaged Cathie Wood-Linked ETFs",
     "link": "https://www.bloomberg.com/news/articles/2026-11-10/tribunal-finds-emerge-canada-mismanaged-cathie-wood-linked-etfs",
     "date": "2026-11-10T16:28:30+00:00"
@@ -130,49 +165,24 @@
     "date": "2026-11-10T16:12:55+00:00"
    },
    {
-    "title": "Nagel: ECB Rate Hike in December Looks ‘Rather Obvious’",
-    "link": "https://www.bloomberg.com/news/videos/2026-11-10/nagel-ecb-rate-hike-in-december-looks-rather-obvious-video",
-    "date": "2026-11-10T16:11:37+00:00"
-   },
-   {
-    "title": "Fed’s Waller Sparks Larger Rate Hike Debate After Hot Inflation",
-    "link": "https://www.bloomberg.com/news/videos/2026-11-10/fed-s-waller-sparks-larger-rate-hike-debate-on-hot-cpi-video",
-    "date": "2026-11-10T16:04:03+00:00"
-   },
-   {
-    "title": "Treasury Yields Jump as Inflation Fuels Fed Wagers",
-    "link": "https://www.bloomberg.com/news/videos/2026-11-10/treasury-yields-jump-as-inflation-fuels-fed-wagers-video",
-    "date": "2026-11-10T16:01:48+00:00"
-   },
-   {
-    "title": "Fed Might Hike 50 Bps in December, Carlyle's Thomas Says",
-    "link": "https://www.bloomberg.com/news/videos/2026-11-10/fed-might-hike-50-bps-in-december-carlyle-s-thomas-says-video",
-    "date": "2026-11-10T15:29:23+00:00"
-   },
-   {
     "title": "Brazil Real Tumbles to 15-Month Low Following Dovish Minutes",
     "link": "https://www.bloomberg.com/news/articles/2026-11-10/brazil-real-nears-post-vote-low-as-dovish-minutes-add-pressure",
     "date": "2026-11-10T15:19:14+00:00"
    },
    {
-    "title": "Vanguard Inks $4 Billion of Private Debt for Altruist Deal",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-10/vanguard-inks-4-billion-of-private-debt-to-fund-altruist-deal",
-    "date": "2026-11-10T13:42:46+00:00"
-   },
-   {
-    "title": "Treasuries Drop as Hot US Inflation Backs December Rate Bets",
+    "title": "Bonds Tumble as Hot Inflation Fuels Bets on More Fed Rate Hikes",
     "link": "https://www.bloomberg.com/news/articles/2026-11-10/treasuries-slide-as-hot-us-inflation-cements-december-rate-bets",
     "date": "2026-11-10T13:41:23+00:00"
+   },
+   {
+    "title": "Saudi Liquidity Squeeze Adds to Challenges for Crown Prince",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-10/saudi-liquidity-squeeze-adds-to-economic-stress-for-crown-prince",
+    "date": "2026-11-10T13:00:04+00:00"
    },
    {
     "title": "Stocks Slide on Calls for Rate Hikes After Hot Inflation Report",
     "link": "https://www.bloomberg.com/news/articles/2026-11-10/us-stock-futures-trade-mixed-with-focus-on-cpi-anthropic-ipo",
     "date": "2026-11-10T12:55:52+00:00"
-   },
-   {
-    "title": "Angola Bonds Top Emerging-Market Selloff as Oil Slumps to $90",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-10/angola-s-bonds-lead-retreat-among-emerging-market-oil-producers",
-    "date": "2026-11-10T11:12:17+00:00"
    },
    {
     "title": "Gold Tumbles as Hot US Inflation, Fedspeak Fuel Fed Hike Bets",
@@ -185,11 +195,6 @@
     "date": "2026-11-10T00:01:34+00:00"
    },
    {
-    "title": "Latest Oil Market News and Analysis for Nov. 10",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-09/latest-oil-market-news-and-analysis-for-nov-10",
-    "date": "2026-11-09T23:01:44+00:00"
-   },
-   {
     "title": "Stocks, Bonds Fall as Inflation Spurs Fed Caution: Markets Wrap",
     "link": "https://www.bloomberg.com/news/articles/2026-11-09/stock-market-today-dow-s-p-live-updates",
     "date": "2026-11-09T22:16:53+00:00"
@@ -198,11 +203,6 @@
     "title": "JPMorgan Eyes Big Discount to Get Software Debt Off Banks’ Books",
     "link": "https://www.bloomberg.com/news/articles/2026-11-09/jpmorgan-weighs-big-discount-to-lure-lenders-for-software-debt",
     "date": "2026-11-09T21:46:26+00:00"
-   },
-   {
-    "title": "JBS Shares Slump on Lower Earnings, Deal with Batista Holding",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-09/jbs-profit-hit-as-china-quotas-overshadow-us-beef-improvement",
-    "date": "2026-11-09T21:27:37+00:00"
    }
   ],
   "Reuters": [
@@ -212,9 +212,14 @@
     "date": "2026-11-10T16:26:09+00:00"
    },
    {
-    "title": "米国防長官、イラン戦争巡る弾劾の動き非難 「茶番で妨害行為」 - Reuters",
-    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOMlA5WG9SOUtIeXhnV3FlakJUdlE1WksxSEdqd1hVbHVEc1NFQ1pNcXp0VXJCbkc3cTZld1RXZjI1endfVHRUdWxNSTVReUozWDJPS25vdkI0WGxnbHdQX3R1bkNXSjR0bHlXMWxkNEpjWHpUVUZEeU53T0c1REV0Wkh2ck9sRmM?oc=5",
-    "date": "2026-11-10T15:11:44+00:00"
+    "title": "ロシア石油精製能力3割減、ウクライナの製油所攻撃再開で＝関係筋 - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPVlp1UnJGTk1zN0F6b1VIQjBQajJ5XzZEaDBHNkRMenhkcldkMmVKWUxzZVpVNHZySXpDZGJxbG9tN1dlVVRqaTVVWnFlUFFKSGV0ME9sNkJQQzlFNGdocmV5Sm4yamwtRzYzU2RpLWhvX01KdWxoaUU0djJmVlJxdGJDSS1Ddw?oc=5",
+    "date": "2026-11-10T15:55:45+00:00"
+   },
+   {
+    "title": "WK.N - | Stock Price & Latest News - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNUFpsWFFtSWQxNlp1R1pVYWxrOEU5OUhnNTlTc1NqX0Y5cjNwVkQxdlhCMUZOWGx3OWJNVDNVTnBxT1dyQ3Y2U2J2U2ZiNFhRdEt1YUtUS2lobGNDWURHOUF2bElnVC1oTl9rYTJ3Um5IZXBkQWhvS1RPZmZjdE5LMlRnZUZ3TVE?oc=5",
+    "date": "2026-11-10T15:29:03+00:00"
    },
    {
     "title": "マイクロソフト、中国製データセンター部品の輸入禁止撤回要請＝関係筋 | ロイター - Reuters",
@@ -292,14 +297,14 @@
     "date": "2026-11-10T09:18:28+00:00"
    },
    {
-    "title": "宝ＨＤ、バリューアクト要求に対抗 臨時株主総会の全議案に反対表明 - Reuters",
-    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQM0hJRXIzYjNTbWlfN0NZOTItMWlGRVJPSXhhOVliSXdVSlRDSngtTU5SSHlGRHF1Y1kxcW1BMURiejU3bmZpdWNJVm5HMFh4Z3p2ai04dDNNMGFPMzJCYXcwbDZMaTZQN2pXVVlGbWNXZnJlV2dJQk5TVUtmNWRtcXQ5Z0FGUQ?oc=5",
-    "date": "2026-11-10T08:03:48+00:00"
-   },
-   {
     "title": "12月利上げ排除せず、情報まだ不十分＝ロンバルデリ英中銀副総裁 - Reuters",
     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQeWpNTFR1aEtBdnlDUGl2MzYyY0oyZEdFai1LTkp0dzJkQVBOXzZ0OWhSS0tXYXo1dWM2NHdlSzA4d0RwamtHcnpXR0NRb0ZubE5Gc3dycGRHejhTdUw1NjJCdWFCaFBlZGwyQUNqZGhsbFVJQmgtLVBIeE12bnI1dENjVUt2UQ?oc=5",
     "date": "2026-11-10T08:03:43+00:00"
+   },
+   {
+    "title": "ＥＣＢチーフエコノミストは仏出身が妥当、両総裁候補は有能＝仏中銀総裁 - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQVGhBMzI2NmFpdmFjSjVDYXZCdUhnQTJvTmotQk5fYXduY21qd1Z4UW1CWWRLbjFjVzMxc3VreFRqWDl0VU5Od3F5blJxdVZTX0hHOEEyMUd4WW9xUGtrOWlyWlVKYjB6ZkhVRmpoV1dXNUEwME4tVEtFWXVsNG5ObmJaVFdIUQ?oc=5",
+    "date": "2026-11-10T07:43:00+00:00"
    },
    {
     "title": "三菱ガス化学、通期予想を上方修正 半導体材料など採算改善 - Reuters",
@@ -350,19 +355,24 @@
     "title": "8289.TWO - | Stock Price & Latest News - Reuters",
     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQemJvaTkwQ1o3ajFaUEN0Q085akw1STlIdGZkRjNwMlJWdlRhbGF4ZzdmT3VzTVlXLTluNkdSS1pyYWFtN3JZdHVVVXpaNHN2SHd5Sld0MGZVU0NZWXlhMzNFY0RubzZ5cVV2ZHVhSTJKNl9SM0xBbVlzamR1RUtBZnZncHprS3lIaVFFQw?oc=5",
     "date": "2026-11-10T06:34:54+00:00"
-   },
-   {
-    "title": "化石燃料由来のＣＯ２排出、今年は減少へ ピーク判断は尚早＝報告 - Reuters",
-    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5HM3BFQ1ludE01czRXR1BWXzlZN2VqeVhXbU9QRGZLYVZnd3JGeWlJLWF0UFQzRGFLc3B6eUJ6SFhMVFdKUGlrVXEwWlM0bnRoeTRQVUdlNHhZWE1GWi05UG9DWFF0V0tzNVVlQ2ZJd19qN1BDVktvNnVwbnRJUQ?oc=5",
-    "date": "2026-11-10T05:57:00+00:00"
    }
   ],
   "WSJ": [],
   "日経": [
    {
+    "title": "米消費者物価、10月前月比0.4%上昇 昨年政府閉鎖で前年比公表せず - 日本経済新聞",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBqTFFTdGRZaDM2bzRkT1hKdXBWaTU5VmFVTnN5ck01ZVJMVFJWRjAtWERzQ1JyTnVmNzFMYS1RUjRvVHF5VEh0MG9KUy1oZy12QnY0LWtoR2JEajJwUDlDSUh5QWdsaHFXWTNJYw?oc=5",
+    "date": "2026-11-10T13:47:40+00:00"
+   },
+   {
     "title": "決算:太平洋セメント純利益2倍 27年3月期、セメント販売減で増益幅縮小 - 日本経済新聞",
     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9zSVlJaGJlZkNhRVlGQVpQU3NkbDloTW9FLXZvVlRHWkdtTGc4eWpOSGlKQWNTV3c3aGJxb190R1dKM0VPaFFCWUplS0ljTmhIaGozRDNySTNLUElsOEowQ3QyTTVpMUduQV91Tw?oc=5",
     "date": "2026-11-10T13:43:32+00:00"
+   },
+   {
+    "title": "フォスター電機、アクシウムと新中計策定 配当性向110%へ - 日本経済新聞",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9SNlZUcEJuaXhTeFg4THBWVTJTbDlXbURVeFVxeXVuVFhVYXNVR1llQ195Tm5MNG9YQWRMY2ZQT2hMbXpHRDBRa1VJeUpuczZENkk0M0RPOFgtQV9qa2tFUDRhT0tORDNsdEhpRQ?oc=5",
+    "date": "2026-11-10T13:22:46+00:00"
    },
    {
     "title": "アンソロピック、IPO評価額200〜220兆円 当初見通しの3〜4割減 - 日本経済新聞",
@@ -383,11 +393,6 @@
     "title": "サッカー:FIFA会長選、ベンゲル氏が立候補検討 英BBC報道 - 日本経済新聞",
     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5pbFhHZ0dtVGdqRXVxVThGNy0wcTVmbXo2RHc3d3JBbzBkZVJ0NXU3aHdiWTNnb1BacWJqYThHeVV1cVdzRDMtbXgyOEdac1BONnplR0xmS0VsdlpBN2JwNzVmUmJGRnRUdnRRSA?oc=5",
     "date": "2026-11-10T12:35:49+00:00"
-   },
-   {
-    "title": "バスケBプレミア、1億円プレーヤー60人超 日本人は7人 - 日本経済新聞",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE95RVMzR09VY0tDbU1BWUVXTDdTZzlCdnpzTDZDMWxuNWNLSTJYVm5tQ1BicTBJZEhWWFNHNlBPNUFidzViaGk5U1M2LXRfVTF2bFBnNnpfNktJalVvZlRkdkUzdExYcmVrZFFEaw?oc=5",
-    "date": "2026-11-10T12:25:22+00:00"
    },
    {
     "title": "決算:旧村上ファンド系、名鉄系のREITを5%超保有 買い増しを示唆 - 日本経済新聞",
@@ -413,11 +418,6 @@
     "title": "株信用買いの個人「撤退戦」、残高2年ぶり減少幅 キオクシアも急減 - 日本経済新聞",
     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5DZVRWa0lyTVZkUDVPTzJTWGJtRVZiWDI5ZGxMNG5wbjBoYXpVMGlhSTJINnVOREI1MFUzUHhNOHBITHc2MkN6Qi1ROUJ6dEtPcElodmotVjlvbVpxWkxqRzBYYjU3YVJWaFBFNQ?oc=5",
     "date": "2026-11-10T10:58:58+00:00"
-   },
-   {
-    "title": "キャベツ2割安、葉物野菜の下落続く 農水省小売価格調査 - 日本経済新聞",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1tcW11X0tVYVZOVTliTElBeWtxeVhFT0VFdTJJc3d5aWZia0luUXl1NlBSRmk4aTJQVzh2OHBlOFJ0eUZxYkxFMGpGd0dTQnE1MENTbjloRFRUTDI2aDREX0JKZU83SkhhWkROTw?oc=5",
-    "date": "2026-11-10T10:34:40+00:00"
    },
    {
     "title": "海外駐在員の勤務実態を調査 厚労省、企業向け指針策定へ - 日本経済新聞",
@@ -448,6 +448,11 @@
     "title": "［社説］ロシアのJT介入を懸念する - 日本経済新聞",
     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9mc29aTk1xUnhGaHl4RnBjUUozcmZ6MVZoYVZRTEZ5NlNYWjFoNktZMTJ2aHZkR01haE5tbExQOG96S2NOTjlJZ3l5bDljUWlQUjhkR0tDVE1sTmZ0T29fNGc2SjU1QnJNMjlseA?oc=5",
     "date": "2026-11-10T10:00:00+00:00"
+   },
+   {
+    "title": "SNSの一律年齢規制、慎重論相次ぐ こども家庭庁が会議開催 - 日本経済新聞",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1zejl1TDlaYWlBUVFNZF9QN3RVQ3JVU0lxLUR5ck9fSU96cUNibDlLdEpMbnNRMEhhY0FkQzV0NUcwTUpxSlB3Z2s1eTA1U25IOXBDNFFqdXBhb0RzQnd6bWRqZVZCQVk5MXN3Wg?oc=5",
+    "date": "2026-11-10T09:44:19+00:00"
    },
    {
     "title": "決算:岩谷産業が一転最高益 27年3月期最終3％増、年間配当5円積み増し - 日本経済新聞",
@@ -503,11 +508,6 @@
     "title": "国民健康保険料、27年度に上限3万円引き上げ 高所得者対象 - 日本経済新聞",
     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1mV0tWcHhNSHVnVUtmdG84ZnhoS2VZTU9jVjctR2JHcUNTd01HU2dWWUU2MlRublBNUnVpUWtsRDRSYlpMWkU1NWFJU2tKRy1qa21RWDNYQTVDaVYwQWlBQ3MzalllWVNqenpQaA?oc=5",
     "date": "2026-11-10T08:53:34+00:00"
-   },
-   {
-    "title": "日銀37年ぶり「年3回利上げ」、予想7割台 市場混乱後に回復 - 日本経済新聞",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9jLXQzMmFtU1Nocl9UeW5veFYyRWdvU1VZb3U1R1A5bVNLYmxyYTY5RmZBekh0SUg1R2gtdlhPa3Ytc085UjVYZWpFTTQxTzZGdERmdE56aUYyR09vTUZPV2ZwNW0wVGQ5RGQ1Ng?oc=5",
-    "date": "2026-11-10T08:30:00+00:00"
    }
   ]
  }
