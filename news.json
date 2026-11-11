@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T17:29:16.434600+00:00",
+ "updated": "2026-11-11T18:24:38.735662+00:00",
  "tabs": {
   "要人発言": [
    {
@@ -140,6 +140,26 @@
   ],
   "Bloomberg": [
    {
+    "title": "Al Gore on the Future of Climate Action",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-11/al-gore-on-the-future-of-climate-action-video",
+    "date": "2026-11-11T18:04:48+00:00"
+   },
+   {
+    "title": "Energy Leaders on Accelerating Renewable Deployment",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-11/energy-leaders-on-accelerating-renewable-deployment-video",
+    "date": "2026-11-11T17:59:33+00:00"
+   },
+   {
+    "title": "JPMorgan, NVIDIA Leaders on Electrification",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-11/jpmorgan-nvidia-leaders-on-electrification-video",
+    "date": "2026-11-11T17:54:49+00:00"
+   },
+   {
+    "title": "JetBlue Lenders Form Groups as Airline Downplays Financial Peril",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-11/jetblue-lenders-form-groups-as-airline-downplays-financial-peril",
+    "date": "2026-11-11T17:52:09+00:00"
+   },
+   {
     "title": "Officials Work to Speed Grid Connection Amid Data Center Buildout",
     "link": "https://www.bloomberg.com/news/videos/2026-11-11/officials-work-to-speed-up-data-center-grid-connection-video",
     "date": "2026-11-11T16:59:18+00:00"
@@ -148,6 +168,11 @@
     "title": "Nuclear Revival Spurs CME (CME) to Move Ahead on Physical Uranium Contracts",
     "link": "https://www.bloomberg.com/news/articles/2026-11-11/nuclear-revival-spurs-cme-cme-to-move-ahead-on-physical-uranium-contracts",
     "date": "2026-11-11T16:53:31+00:00"
+   },
+   {
+    "title": "Nvidia Gets Rare Downgrade as Jensen Huang Scandal Weighs on Outlook",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-11/bloomberg-surveillance-11-11-2026-video",
+    "date": "2026-11-11T16:49:45+00:00"
    },
    {
     "title": "Iran War Leaves Europe Vulnerable To Harsh Winter",
@@ -175,34 +200,14 @@
     "date": "2026-11-11T16:14:41+00:00"
    },
    {
-    "title": "Venezuela vuelve a reparar equipos petroleros en EE.UU. tras más de una década",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-11/venezuela-vuelve-a-reparar-equipos-petroleros-en-ee-uu-tras-mas-de-una-decada",
-    "date": "2026-11-11T16:13:50+00:00"
-   },
-   {
-    "title": "Tesla’s Cybertruck Was Always Doomed",
-    "link": "https://www.bloomberg.com/news/videos/2026-11-11/opinion-tesla-s-cybertruck-was-always-doomed-video",
-    "date": "2026-11-11T16:09:44+00:00"
-   },
-   {
-    "title": "Venezuela Oil Gear to Be Repaired in US for First Time in Years",
+    "title": "Venezuela Sends First Oil Gear in Years to US for Repairs",
     "link": "https://www.bloomberg.com/news/articles/2026-11-11/venezuela-oil-gear-to-be-repaired-in-us-for-first-time-in-years",
     "date": "2026-11-11T16:00:49+00:00"
    },
    {
-    "title": "California’s Kim Says Insurance Should Fund Wildfire Safety, Not Super Bowl Ads",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-11/california-s-kim-says-insurance-should-fund-wildfire-safety-not-super-bowl-ads",
-    "date": "2026-11-11T15:53:22+00:00"
-   },
-   {
-    "title": "Marsh Says Fed Should Ease Up on Banks That Insure AI Loans",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-11/marsh-says-fed-should-ease-up-on-banks-that-insure-ai-loans",
-    "date": "2026-11-11T15:45:30+00:00"
-   },
-   {
-    "title": "Chile Trucker Protest Over Fuel Prices Imperils Farm Exports",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-11/chile-trucker-protest-over-fuel-prices-imperils-farm-exports",
-    "date": "2026-11-11T14:16:11+00:00"
+    "title": "US-Backed Lithium Americas Hit by Rising Costs on Trump Tariffs",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-11/lithium-americas-shares-sink-as-us-backed-mine-costs-rise",
+    "date": "2026-11-11T14:53:13+00:00"
    },
    {
     "title": "China Books French, Argentine Wheat as Global Prices Slump",
@@ -215,11 +220,6 @@
     "date": "2026-11-11T13:28:45+00:00"
    },
    {
-    "title": "Saudi Oil Output Surges to One of Highest Levels in Years",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-11/saudis-tell-opec-output-they-surged-26-to-new-war-time-high",
-    "date": "2026-11-11T13:00:06+00:00"
-   },
-   {
     "title": "US Treasury Futures Retreat as Markets See More Fed Hikes",
     "link": "https://www.bloomberg.com/news/articles/2026-11-11/falling-us-bond-futures-offer-no-relief-as-fed-hike-bets-grow",
     "date": "2026-11-11T09:52:45+00:00"
@@ -230,9 +230,9 @@
     "date": "2026-11-11T08:29:31+00:00"
    },
    {
-    "title": "Latest Oil Market News and Analysis for Nov. 11",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-10/latest-oil-market-news-and-analysis-for-nov-11",
-    "date": "2026-11-10T23:01:04+00:00"
+    "title": "Gold Declines as Traders Assess US Inflation, Fed Remarks",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-10/gold-holds-loss-near-4-000-on-hot-us-inflation-fed-remarks",
+    "date": "2026-11-10T23:33:04+00:00"
    },
    {
     "title": "US Stocks Climb as Wall Street Gets Fresh AI Fuel: Markets Wrap",
@@ -242,9 +242,29 @@
   ],
   "Reuters": [
    {
+    "title": "dcms.ns - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPV1hXNU9FSU1CTEY4bEtjdnBmNWxTNGZFWFZYZHlJMHRzZTRCVGxVajN5VDR0YTg3cGdlU2gtMWRYdjZnSVpIMG5NX05KaTRTX0VEeDEwbTFPTkxEaHFKdHBxUUk4ZjhHak9kLW1LdURYNGtscEZBUlhQZEpkVHRJOEMyMllrM2pXdFQw?oc=5",
+    "date": "2026-11-11T16:36:20+00:00"
+   },
+   {
     "title": "インドネシア副大統領が辞任、学歴巡る疑惑で 政情不安増幅も - Reuters",
     "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5sRUxuNEY2dHRKNWlGVndHV3d1RzA4V0FyWDZ4TXFaQnJEWXBWbUN0S1FLd0lRNVFFUVJORDQ3dnNmVDd1eUFqeWNtSmZwTVJMemNjNHNTVlZhZ3dQby1kWDRCTGlxcC02XzR3cWtVZU0ycnE3N19iWUpoXzZLUQ?oc=5",
     "date": "2026-11-11T14:32:16+00:00"
+   },
+   {
+    "title": "8289.T - | Stock Price & Latest News - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPMFV2QVFTaVdRdlRvb3dMR2VFVTRnaDktU3czbGZqRjlxMjZ1eVlmeTZPV3Z4NEhWSG5uaXJTeVZSRFptaU5CNGlkZjZIanB1V2h2bDM3Q1ZQWWkzakJvTXZzZjFzLUVrZ3ZURFdCc3FYcHFGZ29lVGp0empCX1N6UHNFcXdLdw?oc=5",
+    "date": "2026-11-11T14:26:42+00:00"
+   },
+   {
+    "title": "GOOGL.N - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQlVJNTRRT2JZY3NDT1RsaTVzZWxFLUZpMlZIV0ZzWHNFNEhQZkpPVUVOdjhvQ01HRHpqV0VHdk9oRjMzZVhsZ3RaV3NBY3kyUk9aT1NjRGFNNktUa2JLNThGR1BXUnNsd2JCaDBZY2I2Z2tzMjhpdUw4QVVOd2lxc1pSOTdRRzZ4b3pV?oc=5",
+    "date": "2026-11-11T13:40:49+00:00"
+   },
+   {
+    "title": "FTS_pm.TO - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9GS2czeGpaWGJrTkhJMmdadmg2cVd6TWo3Qk9aSWFzeUhXWGNYMTkzWUxzNXZRbjlxMzNVSzI3ci1yV0hSVG5scjZ6Zk9aVDRaQURaakNBYURRMGVWcVl0Vg?oc=5",
+    "date": "2026-11-11T12:55:20+00:00"
    },
    {
     "title": "中国人民銀、景気下支え強化へ 内需拡大と供給最適化図る - Reuters",
@@ -255,11 +275,6 @@
     "title": "ドイツ軍、中国製無人機の使用中止へ 安保上の懸念で - Reuters",
     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPb3luczJyeERZcFVtcEc1NjZ3NkprdF9vZnprSk45ZGtYN1RocUh0c3NLaE01Zm82NmRqZU5XaFRRZHdNbTVCMWM1eGlBc2RiTURUMHhrSlVscTA4Z0hHU1hSTk9XQUYwSEJnY09pZWljSllQYmxTNTI2TDhEOGRsNGVRbkJjeGc?oc=5",
     "date": "2026-11-11T10:49:44+00:00"
-   },
-   {
-    "title": "日産4─9月期は397億円の最終赤字、中国先行き不透明 通期維持 | ロイター - Reuters",
-    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE14M0RxLVRNMUdxQWp0bGRPbEZKRG1mOEZzdkN3ekZVV0NyRzB4cVdtZmlqcnRjWkxtWTdWcXZaRnJsTWxTeFZ3VC1xSHJ1MTNKd0NJTGJzOWR1YUhOTHhYSWt2b2xXU2w5ZFFZSmJTTWJ1eVRiZUJQSlc2b1RJZw?oc=5",
-    "date": "2026-11-11T09:48:32+00:00"
    },
    {
     "title": "市場に細心の注意払い、安定的なマクロ環境確保を城内氏に指示＝首相 - Reuters",
@@ -285,6 +300,16 @@
     "title": "2916.TWO - | Stock Price & Latest News - Reuters",
     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQQVVwbzJoYW42SmVPQno2WkExTTZrYnRqUTROYldnakVtaWZVRjZubEdTcTQ3dEFRNTV4aEdmSU5qS3VVX2NaS253QndyejBNYklyc0lGQ1pIbUVCbXhiUUJrQjZJdmF1NkpMbkcxMkRGaGFBLU5QQTBNNy14LTIyZXNIdDZ3TEVXMmVoag?oc=5",
     "date": "2026-11-11T08:30:32+00:00"
+   },
+   {
+    "title": "サイバーエージェント、26年9月期は増収増益 アベマが黒字化 - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1JclJ6NmtNVEQ5Q25HMEZWR1NWa3E4QUZqc1BVdHhKZXdSQ3FxQ1RfOGtVa2g5MHBaS2k3REVkc1F4M1JZS3oxMl9JMkN6bUUtdGs1Y1dhcnl2THFWZFp6aEdDNlRvNGZmampoYU9md2FlcTVWQzNzT0hTc1hEZw?oc=5",
+    "date": "2026-11-11T08:19:37+00:00"
+   },
+   {
+    "title": "アンソロピックＩＰＯ、日本向け募集の発行額4739億─5528億円＝届出書 - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE15S25jTFZ2MENFYXhfbmJ2ZnZBeWtrX2JvNFVIUEcyWml2V2FZSjh0UFBlZ3c0YmdFckpmb1FOZkdjUkRXSnc0WHNiOHZzVldUZzA2TnJNaVJFaUp5RW1MZnJ4c2dBTnp3NXI2aW5ZUnFYY2RoTHhCVUxhQVAtUQ?oc=5",
+    "date": "2026-11-11T08:06:08+00:00"
    },
    {
     "title": "米台関係強化へ新制度、米連邦政府職員が台湾で最長1年勤務へ - Reuters",
@@ -327,14 +352,14 @@
     "date": "2026-11-11T07:26:00+00:00"
    },
    {
+    "title": "日産4─9月期は397億円の最終赤字、中国先行き不透明 通期維持 | ロイター - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE14M0RxLVRNMUdxQWp0bGRPbEZKRG1mOEZzdkN3ekZVV0NyRzB4cVdtZmlqcnRjWkxtWTdWcXZaRnJsTWxTeFZ3VC1xSHJ1MTNKd0NJTGJzOWR1YUhOTHhYSWt2b2xXU2w5ZFFZSmJTTWJ1eVRiZUJQSlc2b1RJZw?oc=5",
+    "date": "2026-11-11T07:11:00+00:00"
+   },
+   {
     "title": "ダイフク、発行済み株式の1.77％・400億円を上限に自社株買い - Reuters",
     "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9HZzctaTVYX3VZcnJiUzRlQjJHeU16LXV1US1RdG1PS3I0ZmpGcDBnUmVwSm5vSUkwV1NuLXIwQ1RldFNsRlhWNlltWk1lck1JUEwxZF9ZVEVEdVJHSnQ3QlFsQk5iQm9qUU5ZWkFzWUZFbnozSzVsMkt0SQ?oc=5",
     "date": "2026-11-11T07:08:00+00:00"
-   },
-   {
-    "title": "バルト3国、ドローン警報解除 ロシアとウクライナは相互に攻撃 - Reuters",
-    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQb1k3ZWFYQzJBM3JVUy1ya1otdU9IYXc4Q0NqYVZfRl9uZFJ5NkMxZTFGNS0yOWF4WmhDOHZ5aE5zZkJZSW1qX0hzTlhjUmtPeXZmaGJMdEV0UjhJRW9DSnVldmhYUHc3dHZvcnlId1Z5YWNHSGJOMlhFWDhUSURKTTFONG5Ldw?oc=5",
-    "date": "2026-11-11T07:06:00+00:00"
    },
    {
     "title": "ＪＳＲ買収による財務悪化、キャッシュ創出で正常化＝三井化学ＣＦＯ - Reuters",
@@ -347,16 +372,6 @@
     "date": "2026-11-11T06:36:00+00:00"
    },
    {
-    "title": "ATHEX COMPOSITE SHARE PRICE INDEX - Reuters",
-    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9JWjFqbXVWbmk5NG5YeDgzalRxZDI3YlZpMmFlcHhaS3lMcXZkZXYtdHlvbUZhQ1Q3cFJSVTl3ODBnUlgwQWNYWVRKMnVYZVd0REgwVnJjMURvZw?oc=5",
-    "date": "2026-11-11T06:33:32+00:00"
-   },
-   {
-    "title": "名鉄、発行済み株式の3.06％・100億円上限に自社株買い - Reuters",
-    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1Ld1ZJS1VXY2VQNUg4dlBUdWZNZjRsWnowMnpJVWg5enlxM0NpdmU0QURhWmIxUGF6OERQZFVUUFZvRUMzV2N6TTV4Ul8xZ2hOMUZpQ1NtQ3ctS1ZZU2dmZXRTUGs1SkJKd3ptejRMd2FPeTZZRWYzSTREVQ?oc=5",
-    "date": "2026-11-11T06:11:00+00:00"
-   },
-   {
     "title": "サッポロビール、発行済み株式の1.8%・100億円上限に自社株買い - Reuters",
     "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5iRmVEMUt3dmdCa29rYUl0MFZweHNLaWRRS2tGUEJJMlVOQkVzS0JLUjhrbnZwM1E0cE40RnZkSlhCLVg0QnR6LVVZaVlJVnFiUHA4NXhPTmJweTMycHZWSzlqWGZQME1oQ3JScm9SN1VqVF9xeHJkanJtdGxoQQ?oc=5",
     "date": "2026-11-11T06:10:00+00:00"
@@ -367,29 +382,14 @@
     "date": "2026-11-11T06:05:00+00:00"
    },
    {
+    "title": "中国軍関連大学がエヌビディア「Ｈ２００」購入、米規制に抜け穴 | ロイター - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPOHNSUUJWZ0JyZmM2SEtZUUFUS0hzU3R3Z3lFYUdmdGI0ZmRYZEotSGxQb2NPSWEtWnRUT3MxNEhjTWczcFN2b0VPZzJNZEJBY0QySHhoVjJIN0ZlZHVEbDU2T2FfRXNIYW1aQkFNT0NPamtyemhfSjF5RHprUVNrSmI3VGU?oc=5",
+    "date": "2026-11-11T05:49:00+00:00"
+   },
+   {
     "title": "ＣＰＩで米利上げ予想に変化、ゴールドマン3月追加予想 12月0.5％リスク - Reuters",
     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQR01EQzRib1czVXg3amRodmZxSENfbkp0OUJ0U1RHTDlpTVZMdXdka3dfRnVwVHFLS3NDT0otQ2M1eU5YbGFsd1pCZklMTl9ReEVnUmI5RTFHd3kxT1RpaTBEempyR2Q2Zk1Rc29MdVdMWmhJVjVJSUtVdXkyTmhXdGxySjd6QQ?oc=5",
     "date": "2026-11-11T05:24:00+00:00"
-   },
-   {
-    "title": "ベセント米財務長官、軍基地に転居 イランの脅迫受け＝関係筋 - Reuters",
-    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSWpOVEExMTBzSkZiTF8ySUFwVWdtY3BtZkp0Rl9WT3BDSXhzTDNDN2NtWVVWYWdhTE1JZmRURjBrZUlzWkFpdlhVbkFmbnBpMEkzVDExWmdBdG1qZzQzRUJPRlhsbFNfOVJjWld4eGVKSnhyWU5EMU5pZHVDYTI4VGNrMHRhVnM?oc=5",
-    "date": "2026-11-11T05:06:00+00:00"
-   },
-   {
-    "title": "三井化学、今期純利益を530億円に上方修正 ナフサ高騰で - Reuters",
-    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1xYjhQQXc5WHp6QS1lMnlMdDFMb2M0amdXTDRzTnBpakdFaUNyVC1uQzRuTWtRNzJkUmY5V3dPRFUwSmxRV210ZzI3cVNRNWlONm5KWWNDNmFOcmkzOTc3M3BVeTFzd2lUTzczMC0yVWtRaTFxcVUtWFdnOA?oc=5",
-    "date": "2026-11-11T04:50:00+00:00"
-   },
-   {
-    "title": "加バリック、北米事業のＮＹ上場申請 金鉱業界で注目のＩＰＯ - Reuters",
-    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBqc09xc2tHNG1fS0piTy1DeU5TMS05TEVBZEp0RXRxRFF3OFdYTmFoeUhzWlFxSjBhaDJfc1FUc2J5cnlyZjItQzVfZnBzb01UVThjM1ZPNU13Vk5veldGYjlBZXVtd3BEakpWdnVCN1VYWDRzT1U5WkMtdUc5QQ?oc=5",
-    "date": "2026-11-11T04:48:00+00:00"
-   },
-   {
-    "title": "ＥＮＥＯＳ、通期純利益予想2000億円上積み 原油高や市況改善で - Reuters",
-    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE52MGd2d0VSSk5DcGFTV1ppS2t3enRlYXIwMkpfMHVCYTFUMExWOEd6ajRaZm83ektKUzFsTi1fOEU3VVQzY21fSGNCTHBoTVRSVWVPcDZtM2k2ZE1BTzJrYWFJWVgwM2xKaU1BS0NRUFZuZS1mYkJQVEpJcw?oc=5",
-    "date": "2026-11-11T04:46:00+00:00"
    }
   ],
   "WSJ": [],
@@ -465,6 +465,11 @@
     "date": "2026-11-11T10:05:00+00:00"
    },
    {
+    "title": "天皇皇后両陛下と愛子さま、皇宮警察の武道大会に出席 - 日本経済新聞",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBLejU0QXg0TFE1WkNfN1N1dmlHMnNrNGx2NURXNjFuY05NaDdndHN1a3ZsSFo3ektvYnZCMXlxTy1YTDBJWmlKZ1d2VjdOaEJKclRtaExzTUE5RlRKTDBKNktySmF2YkNJS3VpYw?oc=5",
+    "date": "2026-11-11T10:02:49+00:00"
+   },
+   {
     "title": "決算:三井化学、27年3月期純利益54%増に 市況頼みから高機能材にシフト - 日本経済新聞",
     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB2TENCY3Rmbl9oV3VWS3Z3aExVU3pBZWE2eWk3N0JLU1paQTZieERBTDNiZGs5cVBHbUJSbVN1ODJpbU9EempPMEt5TExOZ2RxTFlBTk85cEk4TWVMOUNleW50enRTSHBPR0FBcg?oc=5",
     "date": "2026-11-11T10:02:43+00:00"
@@ -538,11 +543,6 @@
     "title": "東洋大学、年内入試で「基礎学力テスト型」廃止 27年度総合型選抜 - 日本経済新聞",
     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBRMDZocVI3X0ZxYmxoUE5tUXQ4cnBmbUxJMThBZk8yQklmamlvejdacFFEWVZnNzJaMUpzaDV6RkJJQnZlS1ZNNlVqcHVTamdIeTZsQlRqWTlZSXBieEdRQjJBcFFoSExpdkNHLQ?oc=5",
     "date": "2026-11-11T06:58:13+00:00"
-   },
-   {
-    "title": "ケリー米元国務長官「米国民、気候変動を重要視」 COP31で演説 - 日本経済新聞",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBzczB0QWJQV1ZkNFdSWDV0Qk1uZEpUWmV5MGRGVEhScUpJdXJsWURVNFpfdEpIdmVfVENtOFlYVDhhb2pkaDRWNnBIa1RCWTNqdndQaEFNN2duRmpCc1BDOVlPWG5HREdnQ1loRA?oc=5",
-    "date": "2026-11-11T06:38:05+00:00"
    }
   ]
  }
