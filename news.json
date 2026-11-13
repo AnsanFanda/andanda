@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T18:18:19.799131+00:00",
+ "updated": "2026-11-13T19:27:05.905548+00:00",
  "tabs": {
   "要人発言": [
    {
@@ -41,6 +41,11 @@
     "title": "【独自】日銀の９月利上げ示唆で介入 米国、植田総裁発言を評価 - 山陽新聞",
     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE40WTJaT2hIYm5CeElZMHlwQm15ZjhBZUdPNkN4WkR3MExUWjdCN3oxTVJxanRrTktaNkFfQTJmbHlmMFBkbldOTDIwMzhraG1Eamc?oc=5",
     "date": "2026-11-13T04:51:41+00:00"
+   },
+   {
+    "title": "「欧州の交渉参加が重要」ゼレンスキー大統領 米特使と会談 最新の国際ニュース【随時更新】 - ABEMA",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUkxtMHFBMEdzYnNjRm1RY1V1Y3hyQi1hZmE4aWFETFp3Uk1hZzNETnUyR2pSbWNBT09ta1g5UGV1TW1fZFJmV3Yxa0tyUkxxYkNWeWkzSWs3SmFTNU9COGFKaWRiOW1iS0h0MTlSSDJsY21hT2x1dUM0N2hxbjN6MHNIRHpDclkwOS1LV2U2a2JoQjZIYUpVUDdXVnhVZ1pnTXRlYVNIM1hpYTBrNnMxYi1LS1E?oc=5",
+    "date": "2026-11-13T02:59:12+00:00"
    },
    {
     "title": "2人目の“不倫疑惑”報道も エヌビディアCEO辞任発表 トランプ氏が後継指名？ - ABEMA",
@@ -100,6 +105,26 @@
   ],
   "Bloomberg": [
    {
+    "title": "The Other Way the AI Buildout Pushes Up US Rates",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-11-13/the-other-way-the-ai-buildout-pushes-up-us-rates",
+    "date": "2026-11-13T19:17:56+00:00"
+   },
+   {
+    "title": "Chile Mulls Private-Sector Role in Codelco Mines",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-13/chile-mulls-private-sector-role-in-codelco-mines",
+    "date": "2026-11-13T18:54:32+00:00"
+   },
+   {
+    "title": "Customers Buying NVIDIA Dip: Guild",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-13/customers-buying-nvidia-dip-guild-video",
+    "date": "2026-11-13T18:32:08+00:00"
+   },
+   {
+    "title": "Nvidia Eyes Worst Week Since Trump Tariff Selloff as Huang Exits",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-13/nvidia-eyes-worst-week-since-trump-tariff-selloff-as-huang-exits",
+    "date": "2026-11-13T18:24:41+00:00"
+   },
+   {
     "title": "Indonesian Billionaire’s LNG Plant Gets $140 Million From Canada",
     "link": "https://www.bloomberg.com/news/articles/2026-11-13/indonesian-billionaire-s-lng-plant-gets-140-million-from-canada",
     "date": "2026-11-13T17:30:09+00:00"
@@ -135,24 +160,9 @@
     "date": "2026-11-13T16:55:53+00:00"
    },
    {
-    "title": "Dollar Poised for Best Week in Over a Month on Fed Hike Bets",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-13/dollar-poised-for-best-week-in-over-a-month-on-fed-hike-bets",
-    "date": "2026-11-13T16:44:22+00:00"
-   },
-   {
-    "title": "Investors Weigh Nvidia Succession Plans as Calls for Investigation Grow",
-    "link": "https://www.bloomberg.com/news/videos/2026-11-13/bloomberg-surveillance-11-13-2026-video",
-    "date": "2026-11-13T16:41:00+00:00"
-   },
-   {
-    "title": "Ecopetrol in Talks for 10-Year Venezuela Gas Supply Deal",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-13/ecopetrol-in-talks-for-10-year-venezuela-gas-supply-deal",
-    "date": "2026-11-13T16:35:57+00:00"
-   },
-   {
-    "title": "Stocks Fall as Chip Rout Outweighs Inflation Data",
-    "link": "https://www.bloomberg.com/news/videos/2026-11-13/stocks-fall-as-chip-rout-outweighs-inflation-data-video",
-    "date": "2026-11-13T16:16:01+00:00"
+    "title": "H&R REIT Holders Nix Sale to Blackstone and GO, Rebuking CEO",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-13/h-r-investors-vote-down-sale-to-blackstone-and-go-rebuking-ceo",
+    "date": "2026-11-13T16:06:06+00:00"
    },
    {
     "title": "Third Chicago CFO’s Surprise Exit Sparks Credit Rating Fears",
@@ -160,9 +170,9 @@
     "date": "2026-11-13T16:04:20+00:00"
    },
    {
-    "title": "Fed’s Collins Says Higher Rates Are Appropriate ‘Soon’",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-13/fed-s-collins-says-inflation-fight-trumps-housing-woes",
-    "date": "2026-11-13T14:10:00+00:00"
+    "title": "US Stocks Slide as Dip Buyers Grow Tired of AI Trade Surprises",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-13/us-futures-gain-with-microsoft-outage-producer-prices-in-focus",
+    "date": "2026-11-13T13:19:12+00:00"
    },
    {
     "title": "CSN Shares Fall to 10-Year Low as CEO Vows to Ease Debt Woes",
@@ -175,19 +185,14 @@
     "date": "2026-11-13T08:22:26+00:00"
    },
    {
-    "title": "Bond Investors Expect More Pain After Week of Soaring Yields",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-13/treasury-yield-surge-shatters-hopes-worst-of-bond-rout-is-over",
-    "date": "2026-11-13T06:00:17+00:00"
-   },
-   {
     "title": "Emerging-Market Assets Dip as Chip Rout, Fed Rate Worries Linger",
     "link": "https://www.bloomberg.com/news/articles/2026-11-13/em-stocks-eye-first-weekly-gain-since-september-as-tech-rebounds",
     "date": "2026-11-13T04:53:47+00:00"
    },
    {
-    "title": "Compass Sues Multiple Listing Services, Upping Antitrust Row",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-12/compass-sues-multiple-listing-services-ramping-up-antitrust-row",
-    "date": "2026-11-12T22:48:32+00:00"
+    "title": "Gold Set for Worst Week Since June as Fed Rate Hike Bets Mount",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-12/gold-holds-drop-to-near-one-year-low-as-rate-hike-bets-increase",
+    "date": "2026-11-12T23:58:45+00:00"
    },
    {
     "title": "Stocks Fall as Chip Rout Outweighs Inflation Data: Markets Wrap",
@@ -202,6 +207,16 @@
   ],
   "Reuters": [
    {
+    "title": "マイクロソフト障害、ＩＴ大手への依存浮き彫り 電話やファクスで急場しのぐ - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQVzVfcXlJVkRkRWhVWW41QUJLbDJOWkdFdkc1a0gtRFJQRUdsc2lEWXZ4NXpNeUczSFkzTU83SXBhVGNUbDROSGxYcnBfWDZmc1YtTXA3NmhJeGp1UHJBNU45SExrQ1d5OUdnQnBjWWVXMHlIdzRfS3M4ZV9pVmVKaXBibnFYdw?oc=5",
+    "date": "2026-11-13T18:19:46+00:00"
+   },
+   {
+    "title": "韓国、朝鮮半島巡り中国に建設的役割要請 中韓外相が会談 - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOVFBodDJOalpTWkpmOGQ2bG5qSWZGaEdTZHppblM4M0lxZlBwZ1I5NzJMTDdvdXFUM19FOVRiU0NSa01zQ0liekZwWjRCY0dZMDhBbFhic1Iwb05xVDVLd1BSUFZDaTZ1Q0g3dEVVbE5hSFVhX1I4eFFkTGFYdFFZMlZXRQ?oc=5",
+    "date": "2026-11-13T18:00:22+00:00"
+   },
+   {
     "title": "ダラス連銀総裁、市場支援手段の強化提言 金融政策との整合性重視 - Reuters",
     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZmdOb19yeWlZOEpvOHRxZ0dMVXFKeXFxamg5OGFmaFpEZkc2Wi1vLVNCaGRIQnBVekt0RmpJWVpXYXlrS2c4RWJyTjNvWWo5MEdJajNOTFllUS00WW01ZVhhM0hwbFEzUXhTYkk0dnktQjA4S3ViUEwweVFQUzhGZDhiUER4YkZDSFE5SzYzYVdhOHNycDR4QzZzMA?oc=5",
     "date": "2026-11-13T17:47:43+00:00"
@@ -212,14 +227,9 @@
     "date": "2026-11-13T17:07:29+00:00"
    },
    {
-    "title": "中国、韓国とＡＩ・バイオ医薬など多分野で協力拡大の用意 外相会談 - Reuters",
-    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOVFBodDJOalpTWkpmOGQ2bG5qSWZGaEdTZHppblM4M0lxZlBwZ1I5NzJMTDdvdXFUM19FOVRiU0NSa01zQ0liekZwWjRCY0dZMDhBbFhic1Iwb05xVDVLd1BSUFZDaTZ1Q0g3dEVVbE5hSFVhX1I4eFFkTGFYdFFZMlZXRQ?oc=5",
-    "date": "2026-11-13T16:11:45+00:00"
-   },
-   {
-    "title": "メガスピード禁輸リスト追加、4政府機関支持も商務省動かず＝財務長官 - Reuters",
-    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQRC1CQUdVYm5xeVFsVjNEQjRKQl9pc3NhdkZBMS1DWU04VWZGc2lJMDBGTE9hNlRoSDJER3V6M2J1ZmtvY2xrZkZaUElfMXVjQURJY3pvWENEZ1Q1d2JwbzZRTEhJMWNkVk9TMkVZc1dabFNDU1gxV0tKck1mRmFrWWpJdW95cWdjLVE?oc=5",
-    "date": "2026-11-13T15:44:31+00:00"
+    "title": "米シカゴ連銀総裁、インフレ圧力「広範に拡大」 ベセント氏と対照的見解 - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQazhhdzBHekNlcWtOdGkyVkRKVERjcFNzQ2JaajA3TThRaGpTbE5reTkyNXVYTF9mSkd4VzI1dzRJLUpTbWdGdVRjT2RkYTJLRHBOREJnUUtjazE1ZENteVpMaWRhVjItbFZ2TTdBZWdQclIwNDdnMkcyQkdQdlB3VmRjWlhLM1Fwenp6OVEyMFg0a2J0MjJ4ajlsQQ?oc=5",
+    "date": "2026-11-13T16:43:31+00:00"
    },
    {
     "title": "米10月ＰＰＩ、前年比6.5％上昇 22年11月以来の大きな伸び - Reuters",
@@ -327,6 +337,11 @@
     "date": "2026-11-13T06:08:21+00:00"
    },
    {
+    "title": "公的ファンド、ＡＩ投資で経済変革主導へ＝ＰｗＣ - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBCbGRLdkdkamtJZzFhVlp1eU9ORWlNeGY3Z2FzOHF6T2hESThTR2hyMTM2VTZORk9wVlpqM2xueUk4WWd3LUgtVUtfUXZjMGlRVmdXZG9SRkFjeFZCQlVPZ0ZSaW50UE9WeDRJQWxGTEljb3REanBnOUl0eUhIQQ?oc=5",
+    "date": "2026-11-13T05:43:00+00:00"
+   },
+   {
     "title": "フアンＣＥＯとアリス氏の親密な関係はいつごろから？ エヌビディアを揺るがした2人の接点を、写真と映像でたどる - Reuters",
     "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQLWhKcEZ0bFI5Y2VrdTJrcElqTTBvZ2t3SFpxVmZaamQ4R0pqOVNBaUV2UDlvc0Fld09Ed29la3BUYVh3aGNiNzlFbVVOZFFOUFpINjhQdW03dkMwdU5LZlQyRV9WejFucllrVXJyOWFySlZDb3hwWDY3OW5GR1pON29EZF83REYyaWFjZDMtcEU4ODQ?oc=5",
     "date": "2026-11-13T05:24:39+00:00"
@@ -340,20 +355,20 @@
     "title": "保有ＥＴＦ売却、現時点でさらなる見直しは想定していない＝氷見野日銀副総裁 - Reuters",
     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOdzRtTGJUX0pTbTBMekgyWDBMMTZNOFBfQ0FaeUZTTEFzenFQdEZ0TDFnWEdMcnFMQkxSeEx5WElvc1JBOHRWaW40N0cyOTdmY0RvaWF3aldmeWV6bnk0XzBEaEl4cDFXY1hKU0Q2aWVXNVlvRlhmMkFSMTlvNWVvT3pSNWhfRUdlbk1SOVQxS2w?oc=5",
     "date": "2026-11-13T05:15:00+00:00"
-   },
-   {
-    "title": "マイクロソフト大規模障害、アジア時間も継続 一部で復旧も - Reuters",
-    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxObWRSaWc0eEJHMW9OLTZmY2dIRndCNFRORTJlQlNRTHl5WFNCMUZuQXBEa2RkU1pzMlFiM0JVQndmVE1iYmpSZm8wX1pBdmxtUm1od25sQVFXT3pUTWt6YXExVTZ4blM2TG4yR2RhQ2FvaC0tdnliX3R4Z01sSGhKU0xrQmRaMFd3NUFOVlFXa1E?oc=5",
-    "date": "2026-11-13T04:54:00+00:00"
-   },
-   {
-    "title": "大林組、今期純利益を上方修正 国内建築の工程前倒しが寄与 - Reuters",
-    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPaHhGbGplUFdieXJnV3lXYzVkRUJ2MHBYa1ZfYmg3LW5hb29zbDVER2lqeU1RV1loMlJ0ekZMLVl2YWluYzkxeW9YSVU1RXdJRFY0WTJrbDd3dkxyTGRXU0tzMjlhT1ItNHc0ZTFHQ3hlVG5GVGxtMjJMU0Q2NFZlOWFOSjd4a3ZmSWRHVVExak8?oc=5",
-    "date": "2026-11-13T03:54:00+00:00"
    }
   ],
   "WSJ": [],
   "日経": [
+   {
+    "title": "ロシアGDP、7〜9月期1%増に減速 製油所攻撃や高金利が重荷 - 日本経済新聞",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBHdTJQSkI0MVlYUmo5ckQ5aW1EWkZwWTRxUmx0UnRjS1BnY3lmSEZkQWJFN2kzY2lYakt5VndoUDc0dnQ4UVdRVkdFVkRlMHFfcnNJYzVJOFVSM1UyN3NqUWQxdDJydWVBWWhlVA?oc=5",
+    "date": "2026-11-13T17:50:26+00:00"
+   },
+   {
+    "title": "NVIDIAファン氏「AI投資の要」不在に OpenAIや新興支える25兆円 - 日本経済新聞",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0zX0UzN1gxRW1MNlNOdGFKMmQtYW9pdnVQQ1pLb04yTlBWNS1udU5FVnhNX1FPMGpUQS1OODVGeXkxQng4QllaVFFkeHJzTmx2NDhRR3VBZVhGVG50MGJ0N2RTaE0yd2NKMDBvMg?oc=5",
+    "date": "2026-11-13T17:00:00+00:00"
+   },
    {
     "title": "10月米卸売物価、3カ月ぶり低水準 燃料費映す指数が低下 - 日本経済新聞",
     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1nTlBsLThSV0FYNkxydERFRGpLV29JWkpicXRZWGdnZTNISkNGZUVZVUVJWDl2WnJVdDNEMkR0eHlvLU1pRzh2eENSQ3dwZ3Zfajhnekh3NTdHX1lkNF9Oc2JsaDQxOUxtU3k5RQ?oc=5",
@@ -370,16 +385,6 @@
     "date": "2026-11-13T15:40:29+00:00"
    },
    {
-    "title": "京成スカイライナーの予約システム、最大337万件の情報流出 - 日本経済新聞",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0yRlpyMTl6ZFQwdEp2azNVeXNJMVI1ZHNQVWNTT3dtVnk0cnJ5cV90VmRPeks0SXpKMzRyYWNjZHFSNkNqbEdHVTctc2lURVU3UE8xTUFJVUtqTGVOWFJmZi1YVFZPS3dYdWRqeQ?oc=5",
-    "date": "2026-11-13T14:22:42+00:00"
-   },
-   {
-    "title": "北朝鮮、国旗の縦横比を初めて変更 「金正恩体制」を強調か - 日本経済新聞",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE81MHZDWFZmNTlQemlnZ2xFNkxoVWdvdmp1dGFoOWkyRmUtVnVINnY0MVB3aDlFYWpGLXlxeDh2Y0JIMFhsWGpxRDM2UjM2WTA2djBVRHZEY1JWRmF3cTRuTXNfYXRmYjdmU0p2NA?oc=5",
-    "date": "2026-11-13T13:00:25+00:00"
-   },
-   {
     "title": "スパイ疑惑の女性の企業、NVIDIA半導体を上海に納入か 米報道 - 日本経済新聞",
     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5hdlFpdkxUNjdablJqWXVFQktJaW5HMnBfV2NjZUJVZ2NZQ2dvVm84TjJ2MlNnVkpPV1BwaXFITjg4SFFJU1BjaVd1Q2IxcGs0bk81NzNBcTZOZTRDM28yeFpYU05menI3UHhoQQ?oc=5",
     "date": "2026-11-13T12:51:40+00:00"
@@ -393,6 +398,11 @@
     "title": "「白い恋人」模造品の製造拠点摘発 石屋製菓が注意喚起 - 日本経済新聞",
     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBONEwwUWxVUFljb1RvclJab2ZhNFpidmdzVlFtTFVSZFVRMmUzck5MOXFtVjg0Z0k1VENoTld4bDJVbVJmSWcycjFWTkVNQ0dLd1dXWW5TbC1PRDdnLWVjRjhWUWMyZzlpV3djVg?oc=5",
     "date": "2026-11-13T12:35:48+00:00"
+   },
+   {
+    "title": "GMO、AIサーバー投資196億円縮小 高性能品へ切り替え計画見直し - 日本経済新聞",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9ici1mTnFGeUFGVHBWc1JNc24yM0JNam1HUGlqaGg4cG9VNWRXUnpkR096bDltU2NCU0xmbFRNR1RnSWliZHg4MnRhOS1NY005Zzg3Z1UyUUFhZUNQdmJHbTgybi1rX2xHOXFNRw?oc=5",
+    "date": "2026-11-13T12:22:34+00:00"
    },
    {
     "title": "マイクロソフト365障害、「サービス全体で復旧進む」 - 日本経済新聞",
@@ -418,6 +428,11 @@
     "title": "防衛費「5年間で50兆〜60兆円台」 財務・防衛両省調整、財源に制約 - 日本経済新聞",
     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9takNGaU5Md3ZjZzhveGltYTV0REs5VlF4MFk3Q1VvYmRhNTBabWxYVXRBSGE3S01IdnpzRjZxRndKUjFFeGQtaGpCcGxDVmo4V2FudFNvd2NqTWVyck1kZlB3Vnc4eEtNWXRSOA?oc=5",
     "date": "2026-11-13T11:30:00+00:00"
+   },
+   {
+    "title": "マネックス証券、免許証画像など1592件漏洩か 不正アクセスで - 日本経済新聞",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBGQXQwaVR3VlVhb2VPVVE3ZW45VUQxQ04xQVh6dThVQzRYdG1yNjhzVWhmdHIyeVNNOTZNNHVrNWJZLU1sUkN4NGJsaC1MQTVBT2ZWaEo4a3ZrS0M3YmxYWU0xYzc4NDU3ZU9aVA?oc=5",
+    "date": "2026-11-13T11:24:25+00:00"
    },
    {
     "title": "決算:東芝、4〜9月の営業利益最高 AI需要でHDDや送配電設備がけん引 - 日本経済新聞",
@@ -493,16 +508,6 @@
     "title": "決算:三越伊勢丹の減益幅縮小 27年3月期の純利益14％減、高額品が好調 - 日本経済新聞",
     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB4SlhGMTdHRERrQ3Y4OGNrZkhPVHVIVTBNTnZ6bnA3dTVnWDhySjFBcEhIcllnVUwwcndkQjVpMk5PM3hMdlVfMWJKTVhtb3FmUHY3S1FaZnZ1U2FsNlRmV2dHMGctdWdsWDVveQ?oc=5",
     "date": "2026-11-13T08:24:12+00:00"
-   },
-   {
-    "title": "自衛官の給与増額へ改正法が成立 「高卒2士」の生涯賃金3億円超に - 日本経済新聞",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE15RTNtSjljWVV6X2NqcDUzOEZWZ0QwTnF4dTFTejBsMGFZYU5RdFVhMEpVMnM5a0FrV1VneGV3WDVfc01NbmVUeVJsT0RrVzJ5YVhjdnh1d3I5bzZLVlFqRjAyZ210amxCVGkyTQ?oc=5",
-    "date": "2026-11-13T08:08:33+00:00"
-   },
-   {
-    "title": "ワタミMBOが映す外食転換期 酒離れで各社「脱・居酒屋」へ - 日本経済新聞",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0tTkRpUUo1bzM1bnJMVGZ5aS1GUGRwXzBLMWVpZkZiN3U2RVEybC1TOFhRWkNyY0htQmlkUFkzQ3BLajI3UzBIUHpVWm1PZmlkN1BsX19LVVBET1NkaF9vY3g4cVhMZU1BT2RvbQ?oc=5",
-    "date": "2026-11-13T07:53:30+00:00"
    }
   ]
  }
