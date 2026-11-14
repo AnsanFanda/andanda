@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T21:31:35.589121+00:00",
+ "updated": "2026-11-14T22:33:34.213093+00:00",
  "tabs": {
   "要人発言": [
    {
@@ -89,6 +89,11 @@
    }
   ],
   "Bloomberg": [
+   {
+    "title": "(Digital) SpaceX Catches Starship in Novel Landing",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-14/-digital-spacex-catches-starship-in-novel-landing",
+    "date": "2026-11-14T22:25:41+00:00"
+   },
    {
     "title": "Juicy 6% Yields Gain Appeal After Nvidia Drama: Credit Weekly",
     "link": "https://www.bloomberg.com/news/articles/2026-11-14/juicy-6-yields-gain-appeal-after-nvidia-drama-credit-weekly",
@@ -183,16 +188,11 @@
     "title": "Centrica, Equinor in Next Round of Germany’s Uniper Sale",
     "link": "https://www.bloomberg.com/news/articles/2026-11-13/brookfield-consortium-progresses-to-next-round-of-uniper-sale",
     "date": "2026-11-13T19:53:07+00:00"
-   },
-   {
-    "title": "Trading Firm IMC Plans to Double Staff in Hong Kong",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-12/quant-trading-firm-imc-plans-to-double-staff-in-hong-kong",
-    "date": "2026-11-12T00:00:00+00:00"
    }
   ],
   "Reuters": [
    {
-    "title": "米、ＮＡＴＯ加盟と引き換えにドンバス割譲打診か 領土で譲歩せずとゼレンスキー氏 - Reuters",
+    "title": "米、ＮＡＴＯ加盟と引き換えにドンバス割譲打診か 領土で譲歩せずとゼレンスキー氏 | ロイター - Reuters",
     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQOFVLODJVTFoxeVlLLVRMcmtLSDFJalNHb2M4SXRhUl93REhiUlM0UXFZTVg2czFlXzFJRkFxM0J0QXcxc0IwV0hvcjIyYmFEWHJRemNtWjhTTmlxdHdhZFpySGVyR19lVmNyQnpmUFdJQndDWHZSZ1UydTItTWh1QWFFOE5GZw?oc=5",
     "date": "2026-11-14T20:57:50+00:00"
    },
@@ -220,6 +220,11 @@
     "title": "Cop out? Campaigners criticize poor COP31 showing from G7 leaders - Reuters",
     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB6VW02V01zVXZEWnFsN2hHQzVaaVAwMnEzUTBLaW1Rb1VkZDhrUTBOVGRYLTVTazFVb3hDNnB1RXl3U1hIazEteUxmMlZ6RFBRSV9fUkwzVENCMUJrYkVMd25rdUVrQmFnVFRz?oc=5",
     "date": "2026-11-14T13:26:58+00:00"
+   },
+   {
+    "title": "5371R.TWO%5EE01 - | Stock Price & Latest News - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5Jd2taWEtBdFpKRzMyLVdTX1VCM3FfcENxQ0NEeFp3cWUzdlQxdnNWYnBsMjRmWjA1QTJfMmR0eVdHMEVWUkh6eVItWHpVNzNwb3ZIOHBBVlhuSDEyU0tiaUY4czJlVXEyc3FEbXFzaU5mbDZGUDdVQ2tQT014dw?oc=5",
+    "date": "2026-11-14T13:01:23+00:00"
    },
    {
     "title": "QQ.L - | Stock Price & Latest News - Reuters",
@@ -335,11 +340,6 @@
     "title": "トランプ氏、19日に中ロ首脳と3カ国会談へ ＡＰＥＣに合わせ＝報道 - Reuters",
     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9uVk1RWkFfVWU5SWREQ3FiNE0tbWRoZ2g1X3c1cnJKVXV3RDkxSjNKdFZUU0oxRkF6dFdtNm5ZbmlJWUZLdmg0WFhjNHB0QkhnZENXd3BhOTBIdnd0MnFxQzF2eHhHc1R3YTVkZk5PbmtiaEs1bExyT3lIVmQ3UEU?oc=5",
     "date": "2026-11-13T22:46:28+00:00"
-   },
-   {
-    "title": "TRD.L - | Stock Price & Latest News - Reuters",
-    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMWZYMG5MNmtHWjd3TkQ5VmRwOWN5NU1zSTRwNGFKZXh3dExYcXZRV1FiWGVTMVE0ckNUc1NfM1dQc0I5VnZMRG91aTRDX3NZLTBjYW5tRDFEdHo5LTVjbWloNXRVMlBoQTZOQXlZQlVXR09jQS05N1U4S2VKbENfX29YOUsyRkY1?oc=5",
-    "date": "2026-11-13T22:40:54+00:00"
    }
   ],
   "WSJ": [],
@@ -348,6 +348,11 @@
     "title": "南スーダンが12月予定の総選挙を延期 「準備期間確保」と説明 - 日本経済新聞",
     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1IQ2RkdXpBTHowNnUwaWxqTGZWaEI1NFNPR3hhTEgzU2xPN0NMN2FqbDBtcnh5WGpMSmpjSnl0RUZBOWZZRklLV1VDdUFUcEI0T09GbUtGZXg2STN4MVc2dFQwMjloZkljQVRWXw?oc=5",
     "date": "2026-11-14T21:14:44+00:00"
+   },
+   {
+    "title": "Challenge! CROSSWORD -NIKKEI The STYLE-|2026年11月15日 - 日経ビジュアルデータ",
+    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5CT0tGRWtueWVSRG1tZHVFRHBGcjZDNmhybTAyTUUycXVobGE5TjIwYnpOeDI4NnNXZlNlMzkwVzNGZDZHN3hMUkJTYU16VkhiUGZJWGNaSW10MTZHMnJhMG1zYkFsa3FYdzNaMzQ4djF5N1ZiM1lMUA?oc=5",
+    "date": "2026-11-14T21:14:09+00:00"
    },
    {
     "title": "なぜNVIDIAは工場を持たない？ 巨額投資続けるキオクシアとの違い - 日本経済新聞",
@@ -360,18 +365,23 @@
     "date": "2026-11-14T20:00:00+00:00"
    },
    {
-    "title": "大画面「IMAX」急成長 ゴジラやアニメ推し活、映画館の特別さ求め - 日本経済新聞",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5XUDExMzItVkRkTW1GeHJ4NVptMC1SZUF0MlViNmEyU3FYMjNMOWZZTGdGUVVrQ2hiQlVMa2hrbFBoeDF5eGNfN1ZaQXBOM2RZeDNFdmgza2VXem5TVjNSMDB0cnlmT3BBaDdjYw?oc=5",
+    "title": "金利の上がる世界「バブル抑制を」 日銀やIMFの元幹部が警鐘 - 日本経済新聞",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9lTnRnNWdERlBSS1BVdGY1X25DZy1vckJqUld1UmVRbExSS3JrTEVWODZhb3FhQVRtTGYxN01lQ2c3dTlZbndGMTdsbjUwYUZ5Z1E5OG00TUgzVUJ5bElTdnczUDJYMGZYSHhLTg?oc=5",
     "date": "2026-11-14T20:00:00+00:00"
    },
    {
-    "title": "消えた企業家精神 吉川洋氏が問う「日本再生」 - NIKKEI Financial",
-    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdUFyVVJPQ3dCYUlHdHhicENNZW9BRUkwdzA4RWFGc3JxeG1aWURKZExESUZiWHcxc3ZfQXVIRHF5dXdMTG84bkRVQTg1dHprRGUteldYam8yY0ZSWEVTb3Y1UFdIRHdXWkstMWpIekRrX1VVUkhKQzRRVHdHNmYtQ3M1RTMtTVd6bktyWHR1OE45SHRNaHI2Nw?oc=5",
+    "title": "「脱リフレ」まだ信じ切れぬ市場 言葉より行動、日本買い再開の条件 - 日本経済新聞",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5EeUgwVHRUZ2drNkdFaTRHM2h3c2RDdXBKRVQxdjJ2bHlFelpuRVk0QUxrdk5CN0RzekhJOU1tdzVudmxNTVZtUmpKRjhwbW1peXdCM3loaV9zb2lDWGVYWkRFRnBDajktLUdnTA?oc=5",
     "date": "2026-11-14T20:00:00+00:00"
    },
    {
     "title": "ポピュリズムの帰結、初の消費税減税 「政局と市場の混乱」背中合わせ - 日本経済新聞",
     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9MQTJhM1R6d253eEVaV0ZGWi1LbU11cG0wVEUxbzJOOE5iTUI3TzAyNG9WUEtKM0w3TzBYTDV1Yk40Q1pOUWJxX3drY1V6aHYyNlZYZkRvZ3A1U3oxYjl0QWtGcTJHZGdzMjVnTA?oc=5",
+    "date": "2026-11-14T20:00:00+00:00"
+   },
+   {
+    "title": "消えた企業家精神 吉川洋氏が問う「日本再生」 - NIKKEI Financial",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdUFyVVJPQ3dCYUlHdHhicENNZW9BRUkwdzA4RWFGc3JxeG1aWURKZExESUZiWHcxc3ZfQXVIRHF5dXdMTG84bkRVQTg1dHprRGUteldYam8yY0ZSWEVTb3Y1UFdIRHdXWkstMWpIekRrX1VVUkhKQzRRVHdHNmYtQ3M1RTMtTVd6bktyWHR1OE45SHRNaHI2Nw?oc=5",
     "date": "2026-11-14T20:00:00+00:00"
    },
    {
@@ -387,6 +397,11 @@
    {
     "title": "ヒット商品番付55年、あのときは 消費を動かしたモノ・コト・ヒト - 日本経済新聞",
     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5MVTBCYWVsaVBrZDdGalluU1hhQkptaGpCYVFyakRsaE1PSlZWQXFDQWhQMXlMRjZ6dV9XR0xCU2RaTEZkMGY4SnRXWS1GMEo3emhpOF9VazFOWTVCNXBlN0R6UXRxb2tpQl9nLQ?oc=5",
+    "date": "2026-11-14T20:00:00+00:00"
+   },
+   {
+    "title": "大画面「IMAX」急成長 ゴジラやアニメ推し活、映画館の特別さ求め - 日本経済新聞",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5XUDExMzItVkRkTW1GeHJ4NVptMC1SZUF0MlViNmEyU3FYMjNMOWZZTGdGUVVrQ2hiQlVMa2hrbFBoeDF5eGNfN1ZaQXBOM2RZeDNFdmgza2VXem5TVjNSMDB0cnlmT3BBaDdjYw?oc=5",
     "date": "2026-11-14T20:00:00+00:00"
    },
    {
@@ -425,13 +440,18 @@
     "date": "2026-11-14T17:00:00+00:00"
    },
    {
-    "title": "15日のプロ野球 - 日本経済新聞",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB0U05UZHZyU3J5R3dlSjk4LUxETktDSFJVTFk0UGNEMlo0U0pOSldhc243Z2V1VW52UmtsZGNCTEc0UkNqSmotUWZXYXdyN0hSTFNkMWpGcUk3dVV4RThteE56TjNJem50UnBmRg?oc=5",
+    "title": "サッポロ黒ラベルCM、2本柱に 「格好いい」に加え「飲みたい」訴求 - 日本経済新聞",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1vQjY2bzkzTWpWaDhmTGtzZ1lIb2xBUW9yQlBZejB2X0p4SWJoV3BKR2RuanBmRDlJaVhIcGNyLU1td3RtOXEzLWpxWm1Yck8xdzQtY3F0SGxXcHI0V3dvWjNGUDJSdHJ6ZTVqaQ?oc=5",
     "date": "2026-11-14T17:00:00+00:00"
    },
    {
     "title": "NVIDIA17日決算、ファン氏辞任の衝撃 カリスマなき成長に懸念 - 日本経済新聞",
     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE81aFJUQUZiZ2xyeVA1TjVrYnJlbmtLa1J5OHh0b0pjcmo3QlFCMUQzazVDWmZqVHJoVzVnbllEZ3hNVnB2T0dKOEVlR2dIQkdqSEN1RXE2bFJpdGlCbW5DejF0YWhIM3NHQ1dsSw?oc=5",
+    "date": "2026-11-14T17:00:00+00:00"
+   },
+   {
+    "title": "15日のプロ野球 - 日本経済新聞",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB0U05UZHZyU3J5R3dlSjk4LUxETktDSFJVTFk0UGNEMlo0U0pOSldhc243Z2V1VW52UmtsZGNCTEc0UkNqSmotUWZXYXdyN0hSTFNkMWpGcUk3dVV4RThteE56TjNJem50UnBmRg?oc=5",
     "date": "2026-11-14T17:00:00+00:00"
    },
    {
@@ -473,26 +493,6 @@
     "title": "久保建英、真価示す一撃 W杯ブラジル戦欠場の鬱憤晴らす - 日本経済新聞",
     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBrVkNrMFlueFNFaHd4OXFCanNkSTlfQ1dVSGVlNWhMVkllRWM2cTBDY3ZhODFlNWdSQUdGWFJPYkdBNHc3MTJzZUlhMWdLUkM1Y0Y0WnhZV3ZkVm03SEJpbEJUeFV2bXdENUw1UQ?oc=5",
     "date": "2026-11-14T15:30:00+00:00"
-   },
-   {
-    "title": "星野陸也ら日本勢は予選落ち 米男子ゴルフ第2ラウンド - 日本経済新聞",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBYYk9fTXRFNXZfSEs2RW1SQjJPaEc0NTBTbi1IM1RHcXF0a1lndUVkN3Z3ZFVFZGJSc3c5bDlBeWJyMFlBemkzUXgxT3hWUEVYQUdSVE5MMW1OSnd1bllCczVMdG04YWV3RFdQOA?oc=5",
-    "date": "2026-11-14T15:00:47+00:00"
-   },
-   {
-    "title": "春秋（11月15日）「ブラッサム」の情熱 - 日本経済新聞",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB2VjJSMU85eDFkak53ODJCbHFjU3Z4aGhhMzRUcnRJa29SMVRIQlFMUXBZOWV4SkhzcE1JWkFXWi1kQlplbW95Q3lpQnNuMThrakFKUzZlM1dSSEl3b3J2OGt5aE5XZVhNUVVwRg?oc=5",
-    "date": "2026-11-14T15:00:00+00:00"
-   },
-   {
-    "title": "パン・パシフィック・インターナショナルホールディングス、最終増益 - 日本経済新聞",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE03enE4d2ZySXZEOVNGWWYzdnMtOUdKd1Y5T1NDNnA2OEhPem5INjA5akNqMjFiWThXaFdEa2ttVVNhOXJuaEVodFZUcDRJcTN0WloxaGdCNGloZmQydXBIQUMxUGhsdjNwS1JlMA?oc=5",
-    "date": "2026-11-14T14:47:39+00:00"
-   },
-   {
-    "title": "14日の高市首相の動静 - 日本経済新聞",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE05VVRhUGlYTmNnZjJIbTVWYkJVVXBzaFdWR1lld09BTlAxTUxlUFRBZm1SUDVVRTZudmctRm53bzdaa1VjYUUtMGlqemZneW5sTWhfTjM2RWxlRGdqa3hvRVZNd2RibWFINzh5cQ?oc=5",
-    "date": "2026-11-14T14:18:57+00:00"
    }
   ]
  }
