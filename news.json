@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T05:48:58.727349+00:00",
+ "updated": "2026-11-15T06:55:42.226086+00:00",
  "tabs": {
   "要人発言": [
    {
@@ -83,6 +83,11 @@
     "date": "2026-11-14T09:38:38+00:00"
    },
    {
+    "title": "パブロフラードでロシアのミサイル攻撃後、Proliskaが活動 - Mezha.net",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNR1JxdXh6VzU2eUxpWkxCMEhwZngydXJ2X1ZDODZVaE1TcV9zRnl2ekRrZ1BrZlFmeVFvRWVBd1YxTTVrUlJMcTBkOFBHN05GRHk3amhBdi1iQk5SUjRYT251MmVWWkZocVVXb1ZJbnlZTGlNSzJSTXgyMDFWYmg5YVZGczl1TU83T3ZXa1VyeWtaX3pRZl81N0puTmhtUEE?oc=5",
+    "date": "2026-11-14T08:54:00+00:00"
+   },
+   {
     "title": "トランプ氏、新たな挑発がなければイランへの攻撃を控える可能性 - Mezha.net",
     "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNaUs2Ymp4dnhBZUlYVGRrV1kzTDMyYjRmMXNXYUFOS2FOc29WT3VzMjdlbGx6Z2c3N1M3LWdvemRKR1pIbnBXVC1xY3FEUmhQWXg0ZHdYT3R2d3lIRW8tR1FaUnE1NVl0UG5tbTAzUE9sOVd4Y05rMll6Zy00TUFsZG9fek1NSzdMaC1UUDVIaWFiOGtJcnc?oc=5",
     "date": "2026-11-14T08:47:00+00:00"
@@ -116,11 +121,6 @@
     "title": "【分析】移民巡るトランプ氏の奇妙な発言、MAGAを挑発 非正規移民の合法化に前向き？ - au Webポータル",
     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBXRkpCYXdtTUpYYUdEY2NVQU5HQ1o5dkhmNGk5ZUdGc05Jd0dkSTVOUS1fd1hya2JmOEFMMjU1aVJpRjh5NEdoTGxmMjJTLWVCWkhUODJqN1BYRW9TSmcwZ2pmR2QzM2tYYzAxdFpn?oc=5",
     "date": "2026-11-14T07:50:00+00:00"
-   },
-   {
-    "title": "マイクロソフト Outlookなどの大規模障害 全面復旧と発表 最新の国際ニュース【随時更新】 - ABEMA",
-    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNREJWNDMwWThLUnUzLTdYMnFqTEZXOGtJeXZZRG1oWU5xeGhCSzB3RG1OQlIzQ05sblR1VXhRWDRMM1dENHBvS1BpUEhLZUd4TmhERWhMT2RyMlVXZVg4V2ttVzlkWUF4VzZsdVVCRzIxSlo4MDgwRkJvNkJIQ1M1S0lYOWFxTlU5OF9UazFnRmlvbVFmYlhOR05acFlYNGhxbjNlWHFwSGhuZE1vUV8zaHlOWWI?oc=5",
-    "date": "2026-11-14T06:54:06+00:00"
    }
   ],
   "Bloomberg": [
@@ -227,9 +227,29 @@
   ],
   "Reuters": [
    {
+    "title": "韓国の税理士試験、首席合格者が生成ＡＩによる不正を自白 超小型カメラとスマホで「ほぼ満点」 - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxORVFiaHlWbnVjUHdsUkdRNl8zRmVGQ1VIODJFZkxuMDVDN3ZVcmRadldLajBxd293RnVEb0loY2l3ZWVfVHFHcmNaZFdOY3p3bXdBRWNiaFFUNnJPdVUzZ21OckJ3SGlwdGY2WjBZbVA2YVpMeWhVSEM0U0hqa3hINGJwTQ?oc=5",
+    "date": "2026-11-15T06:20:00+00:00"
+   },
+   {
     "title": "フィギュア＝世界王者マリニン優勝、山本は7位 スケートアメリカ - Reuters",
     "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRFEwS0p4U05jaGFMMjFkR3pmenJxYUplQjRLTHRjazV2bVVKeWRMX1g5X2YwWUhBUk1rbVMyUHJNTGtZVlgxbW5pVFZpM3BXX0stdklhSVdDT3R1eXkzNlNnLWRtNUtYRDExMFMyUWpDaWk4TTZaWUtDMUhGMHl1UkVSaw?oc=5",
     "date": "2026-11-15T05:01:00+00:00"
+   },
+   {
+    "title": "Completely wireless charging becomes a reality at CES in Las Vegas - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBSNS16aU41Q3A1TDdyNW05WXFNdnBwUWI1TXR2dUd3SGJXa2FBRHpIY08wcG9uZ2lyb2lxRmc3dE9oa0ZYWHpwV2J6ZkNsa0gxNW4yTkRsSndhcVE?oc=5",
+    "date": "2026-11-15T04:57:05+00:00"
+   },
+   {
+    "title": "Sunken tanker could be leaking heavy oil - China - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5DN3AybkZHV2doOFk2RGVhRUs4bDBGcDFPNlgzX3p0eTZqWlV6a2ZyWGRDYmd4WG9KTGNQRnF2RkZiNE85Y29RRVkzanluOXh2VFNYa0QzWGlkQnc?oc=5",
+    "date": "2026-11-15T04:57:05+00:00"
+   },
+   {
+    "title": "New year, little cheer for Brexit Britain - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4waUJfSXVmdjB5SXJFS1VBN04tQkZIcnIxRWJxMDlPNkxSN3BJSjVrdDg2d0ZPd0tNOWNzV29GZkNlNlFSR1dRSDdUZmNUQnNlNjREN2d1S2JLU3c?oc=5",
+    "date": "2026-11-15T04:57:05+00:00"
    },
    {
     "title": "Breakingviews - COMMENTARY: コラム：世界の製薬大手、次世代肥満症治療薬の開発で中国に照準 - Reuters",
@@ -355,39 +375,24 @@
     "title": "Migrant caravan marches through Mexico amid Trump tariff threat - Reuters",
     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE90dTZDLVNyUFE4SnVZSnBhaEw2UTZFMkRodmZRTVAxZVRLUXNFY1ctNDgydTBGbFRiYjM4OG9VdURqQmUyc3lyQjBoYTVCQldWN2g3c0lVMmtXazR4WTA3TFZvN2JCaVM2MVM0?oc=5",
     "date": "2026-11-14T14:27:33+00:00"
-   },
-   {
-    "title": "Cop out? Campaigners criticize poor COP31 showing from G7 leaders - Reuters",
-    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB6VW02V01zVXZEWnFsN2hHQzVaaVAwMnEzUTBLaW1Rb1VkZDhrUTBOVGRYLTVTazFVb3hDNnB1RXl3U1hIazEteUxmMlZ6RFBRSV9fUkwzVENCMUJrYkVMd25rdUVrQmFnVFRz?oc=5",
-    "date": "2026-11-14T13:26:58+00:00"
-   },
-   {
-    "title": "QQ.L - | Stock Price & Latest News - Reuters",
-    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1LYk5MWXoyNEFPV2NqcVZoWEJxMmZfcFA4WlFOSzk3b1BlZXl0VG80US1iNzBfb01jcGdHNXNKR0xnT1NSTUlfQmViOGdhZlFZaHJaVDJpZ3VwYVRpNGQzVUZWcHBXVEU4WlE?oc=5",
-    "date": "2026-11-14T10:22:23+00:00"
-   },
-   {
-    "title": "クアッド首脳会合開催へ、17日にフィリピンで ＡＳＥＡＮ会合に合わせ - Reuters",
-    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNTzBlcFhYNWlnSkZDalh5VDlVcl9YV3hKSXlSLXJjR2ZWZERLdXp4UWRZTjJzeVZ4c24zU1BJdGVwMU9uMEQxU2c0ZGZzSGdBalZTYk9jNk9mcTFacENaR0VqYV8weTdtWWl0WUVhN3paLUwxdzRaVjYtQXUxeU5BMkVjSFZMVVU?oc=5",
-    "date": "2026-11-14T09:59:44+00:00"
-   },
-   {
-    "title": "014160.KS - | Stock Price & Latest News - Reuters",
-    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9lV1R3Mllfa2NhZlVNOV81alB6ODR2R1dGOGkySE1LTjlqa1ZrU2VTUVBsdkdQOGgwWnl4dVpqeUU5bDY0bWRnbTdtMlh0OGw3TVJ4TGQ2WUVMVlBNS2VfakZtWQ?oc=5",
-    "date": "2026-11-14T09:24:42+00:00"
    }
   ],
   "WSJ": [],
   "日経": [
    {
-    "title": "桑木志帆が優勝 初の年間女王 伊藤園女子ゴルフ - 日本経済新聞",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9tUWhva2dpV0Y3ZDhwRVNEYXp2cW1pSC16Q2gxWkw1WG5BWjdxSFhvNlh3MWNnMDZIWjhyUV9PUjJ4U3V0S0l1Z3Qwb1MtREQ3MGlnRlN2a2pzWkRjZGhzdWRTS3IyVVlMX1htRQ?oc=5",
-    "date": "2026-11-15T05:10:58+00:00"
+    "title": "米新型戦闘機F15EX、常駐配備の機体が到着 沖縄の嘉手納基地 - 日本経済新聞",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9wNlJfdDZueDh0Y0tLX2o0aUIyaVliNGJyQ3dkMXprdUhQLXBOMlVBaEVRZnJIT1duZVdhTFQwNjl2UTRqdEFRLWMwVmVrWnd4YndDVjB4cVRHTzJIang3NERNc3kyQnI2WXM3NQ?oc=5",
+    "date": "2026-11-15T06:50:53+00:00"
    },
    {
-    "title": "沖縄の陸自15旅団、新装備の16式機動戦闘車を公開 年度内に師団化 - 日本経済新聞",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5aRXFGbVIxb0NKNFMtekZjcjRZZnBOMWVrNEpFODFMdEtzZmJDQUJ6WGhtNnVmQm1oejE0dHVHTmc1STBneDh1cUN4b0t1NHByQ05xYS1sdHQyc2JSZWNlYzI3OXR0TEt5NHF1Uw?oc=5",
-    "date": "2026-11-15T04:40:20+00:00"
+    "title": "日系コンテナ船ONE、3年ぶりに紅海要衝通過 海運正常化に前進 - 日本経済新聞",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE51VHNVMWlFcDZ6dGpFdnFjb1pQTGhKcGZHMFdlNWVQYnQ5bzNMUTRSWDBVTFRyTHgzdWRYQm5UcFJwR3k4RGJZUkFsSmxGZ1hNX0F4N2NUWW51SmR1OG1fZ1NaeWZETU1LQ2dpbg?oc=5",
+    "date": "2026-11-15T05:18:49+00:00"
+   },
+   {
+    "title": "女子ゴルフ桑木志帆、初の年間女王 伊藤園レディースで今季5勝目 - 日本経済新聞",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9tUWhva2dpV0Y3ZDhwRVNEYXp2cW1pSC16Q2gxWkw1WG5BWjdxSFhvNlh3MWNnMDZIWjhyUV9PUjJ4U3V0S0l1Z3Qwb1MtREQ3MGlnRlN2a2pzWkRjZGhzdWRTS3IyVVlMX1htRQ?oc=5",
+    "date": "2026-11-15T05:10:58+00:00"
    },
    {
     "title": "三井住友VISA太平洋マスターズゴルフ最終成績 - 日本経済新聞",
@@ -415,7 +420,7 @@
     "date": "2026-11-15T03:22:13+00:00"
    },
    {
-    "title": "フィギュアスケート:スケートアメリカ、中井亜美がSP首位 今季世界最高得点 - 日本経済新聞",
+    "title": "フィギュアスケート:スケートアメリカ、中井亜美が今季最高得点でSP首位 山本草太7位 - 日本経済新聞",
     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9xa2VuZ0VfUGMtUWNneFgwWTJLc3hieXkyVWI5bXktSnlFV01JS2drWDNxZHhtdWNBcERCbW5zN29XTnBlUjZ4alMzXzhtbFdDV2ZyU09QME1OWWVIM2VHdjJYRUZ4WVV1WTdQNQ?oc=5",
     "date": "2026-11-15T03:12:10+00:00"
    },
@@ -450,6 +455,11 @@
     "date": "2026-11-15T01:47:05+00:00"
    },
    {
+    "title": "吉田優利、2打差3位に浮上 米女子ゴルフ第3日 - 日本経済新聞",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9EWVBBeEtGaW5MYWRUcGpGNDVHMTA4S2k5QVhtOFpCVEN3S3FHNDBDZVNHTGQyUnBwekg4NWUxcTlTR29MUmwxM0Z5NkY5dkVSWmJtSWVHVVRsZ1pTSnJxVUljZlhRNEI4QXg0Qw?oc=5",
+    "date": "2026-11-15T01:46:56+00:00"
+   },
+   {
     "title": "ポルトガル30超の都市で数万人デモ 住宅価格高騰に不満訴え - 日本経済新聞",
     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE01Z25jRUZMX1JZdWVxczBDMTNvM0RPelJiT3E0dGFRVi1IbmVoaXQwTkZPWlBUNVQ1WlNXRVNvNkRRQ1VuakJpdGRSeVRLOXljR09MZDlNZXFlT2J2c1hfUVlsZVlHZlhlVGFudQ?oc=5",
     "date": "2026-11-15T01:40:54+00:00"
@@ -475,9 +485,14 @@
     "date": "2026-11-14T21:14:44+00:00"
    },
    {
-    "title": "Challenge! CROSSWORD -NIKKEI The STYLE-|2026年11月15日 - 日経ビジュアルデータ",
+    "title": "Challenge! CROSSWORD -NIKKEI The STYLE- - 日経ビジュアルデータ",
     "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5CT0tGRWtueWVSRG1tZHVFRHBGcjZDNmhybTAyTUUycXVobGE5TjIwYnpOeDI4NnNXZlNlMzkwVzNGZDZHN3hMUkJTYU16VkhiUGZJWGNaSW10MTZHMnJhMG1zYkFsa3FYdzNaMzQ4djF5N1ZiM1lMUA?oc=5",
     "date": "2026-11-14T21:14:09+00:00"
+   },
+   {
+    "title": "iDeCo加入率1割に満たず NISAより仕組み難解、金融機関も敬遠 - 日本経済新聞",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9PZFBjSl9BMHp4bGJVVHlkWDd3YzBNcGp2UGpiVFBuWmQ5TVpEdmxlbE1sbm1EcUpJcm9DOEgzSV9XdHQ1cGcyMUNvUFgycjZVUkxWWGZrVUVmVDFPRjc5dEZDbzh3endCQkZQbA?oc=5",
+    "date": "2026-11-14T20:00:00+00:00"
    },
    {
     "title": "50超えても「仕事が楽しい！」 回り道で見つけたスポーツ×気象の価値 - 日本経済新聞",
@@ -495,38 +510,23 @@
     "date": "2026-11-14T20:00:00+00:00"
    },
    {
-    "title": "「ファンと共に去りぬ」の現実味 AIデータセンター過熱投資に一穴 - 日本経済新聞",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE04c3Y3NFhkVzJpVkxQb3NTbmdIWFB4M1JaWnhOXzZCNjMxX25INks2YWpFMlJpNS1NUXBpNi1RZjB5ajZ6RC1lQnA5Nk95WXFOOFRvS3VsdURaZHh0YTJERjQxaTFfNFcySDN3Qg?oc=5",
-    "date": "2026-11-14T20:00:00+00:00"
-   },
-   {
-    "title": "大画面「IMAX」急成長 ゴジラやアニメ推し活、映画館の特別さ求め - 日本経済新聞",
+    "title": "大画面で上映「IMAX」急成長 6階建て並み大きさ、配信時代に没入感 - 日本経済新聞",
     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5XUDExMzItVkRkTW1GeHJ4NVptMC1SZUF0MlViNmEyU3FYMjNMOWZZTGdGUVVrQ2hiQlVMa2hrbFBoeDF5eGNfN1ZaQXBOM2RZeDNFdmgza2VXem5TVjNSMDB0cnlmT3BBaDdjYw?oc=5",
     "date": "2026-11-14T20:00:00+00:00"
    },
    {
-    "title": "サイバー人材、企業の9割「不足」 攻撃対策の専任者「ゼロ」半数弱 - 日本経済新聞",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5aM3pycnhpMFFUTFBUYWVkaDEwYUFYOVNsN0RjWV9Gc3NuVEhJVV9jN3R2NmtGdHppcUc3Q1dXcG1Wc21QN2NwRGFjQlkwbUVnaFJnZHRsLUE5RlkyMkhGNDR0aGRadmJJYkxhdQ?oc=5",
+    "title": "ヒット商品番付55年、あのときは 消費を動かしたモノ・コト・ヒト - 日本経済新聞",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5MVTBCYWVsaVBrZDdGalluU1hhQkptaGpCYVFyakRsaE1PSlZWQXFDQWhQMXlMRjZ6dV9XR0xCU2RaTEZkMGY4SnRXWS1GMEo3emhpOF9VazFOWTVCNXBlN0R6UXRxb2tpQl9nLQ?oc=5",
     "date": "2026-11-14T20:00:00+00:00"
    },
    {
-    "title": "ポール・スミス再建、売るのは服より「物語」 ヴェンタース会長に聞く - 日本経済新聞",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1KUGppNDRiV0w4Zk1PdnFzaFZpcmUzX2lmWUEwUTRXbGJPd1ZfQlVWY0hJZWdMMWtYbHNCbGx5Z1p1cjA2Z0t0Vl82TEpJekgzdGEyRHVua3FQY1BBWnZBaWNVSVFOVzM2eERFSg?oc=5",
+    "title": "｢メタボ健診必要？｣ 医療費削減効果に疑問 日本版DOGE候補にも - 日本経済新聞",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBtVHlxQmd3YkJ4c2JndnNieWl1Sm52b1h2Yk9tTFV3R0lCbjdDdlNnNGVRdzJQVjl3LVdaMnRGVnVrS1d0Uy1qV0xzNktLdkZVbm03THNhU1NJaVpaNkRLQnE4d2IwSjQ5ejM1cw?oc=5",
     "date": "2026-11-14T20:00:00+00:00"
    },
    {
-    "title": "マクアケ、ネット販売の壁「さわる」で突破 ガジェット試せる店常設へ - 日本経済新聞",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5LczJQUFdQRV9HY0RQOVpSdU9YUURXaWN3cEpZUjZIaVFIb1BUeERIR3NHQjd3ZzJDU216eHp4M3ZjdjVITVFQTDZwcERWRFMtblhkblJIX3RTSHhBZWR6cEVqaVZOU1NhTUdCbQ?oc=5",
-    "date": "2026-11-14T20:00:00+00:00"
-   },
-   {
-    "title": "iDeCo加入率1割に満たず NISAより仕組み難解、金融機関も敬遠 - 日本経済新聞",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9PZFBjSl9BMHp4bGJVVHlkWDd3YzBNcGp2UGpiVFBuWmQ5TVpEdmxlbE1sbm1EcUpJcm9DOEgzSV9XdHQ1cGcyMUNvUFgycjZVUkxWWGZrVUVmVDFPRjc5dEZDbzh3endCQkZQbA?oc=5",
-    "date": "2026-11-14T20:00:00+00:00"
-   },
-   {
-    "title": "豊田通商、「脱炭素への貢献」を事業収益に計上 従業員の意識高める - 日本経済新聞",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9MSGpidDVPOC03Xy13X2Z5NTNyTnBtVGlBWTh6UHZlUk5MWkNKVDFyb0dZZ0hVbnlIcnVST1FjSkZKTERQbWZyQl96dVhmN2huSlAtMHZBVWtLTUFBNnFDc1V1X3liLXppcHNCLQ?oc=5",
+    "title": "「ファンと共に去りぬ」の現実味 AIデータセンター過熱投資に一穴 - 日本経済新聞",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE04c3Y3NFhkVzJpVkxQb3NTbmdIWFB4M1JaWnhOXzZCNjMxX25INks2YWpFMlJpNS1NUXBpNi1RZjB5ajZ6RC1lQnA5Nk95WXFOOFRvS3VsdURaZHh0YTJERjQxaTFfNFcySDN3Qg?oc=5",
     "date": "2026-11-14T20:00:00+00:00"
    }
   ]
