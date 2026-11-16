@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T22:19:06.847590+00:00",
+ "updated": "2026-11-16T23:15:14.463141+00:00",
  "tabs": {
   "要人発言": [
    {
@@ -44,7 +44,7 @@
    },
    {
     "title": "明日の為替相場見通し＝ウォーシュＦＲＢ議長の発言など注目 - 株探",
-    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8tSkJXQzJQRjVVUnNOY2dJVkNSenJfVWNtOHJUUHNkRGpkTHFsQVQ4bThQYTFST0xVR2t0RldodHRNLUttV1N4Mk1fT1FJM05GTzhLZVc0OV9wV2NfQjZkOQ?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE13TTNrQTd6OFBKR3FhTjd3S1NGMkQtX3pCcjBrU29vN21ZMGdXOUJvWWtHREhHZFQwWkJCenV4VU1SbENsMjFSN2N2VWxRY3plSVE?oc=5",
     "date": "2026-11-16T08:43:00+00:00"
    },
    {
@@ -90,6 +90,71 @@
   ],
   "Bloomberg": [
    {
+    "title": "Learfield’s Cole Gahagan on Economics of College Sports",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-16/learfield-s-cole-gahagan-on-economics-of-college-sports-video",
+    "date": "2026-11-16T23:10:49+00:00"
+   },
+   {
+    "title": "Bilt CEO on the Launch of “Neighborhood OS”",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-16/bilt-ceo-on-the-launch-of-neighborhood-os-video",
+    "date": "2026-11-16T23:07:21+00:00"
+   },
+   {
+    "title": "Latest Oil Market News and Analysis for Nov. 17",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-16/latest-oil-market-news-and-analysis-for-nov-17",
+    "date": "2026-11-16T23:02:55+00:00"
+   },
+   {
+    "title": "Citigroup Targets $5 Trillion in Wealth From Rival Banks",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-16/citigroup-targets-5-trillion-in-wealth-from-rival-banks",
+    "date": "2026-11-16T23:00:00+00:00"
+   },
+   {
+    "title": "Brandon Copeland: Tale of Two Cities in College Sports",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-16/brandon-copeland-tale-of-two-cities-in-college-sports-video",
+    "date": "2026-11-16T22:58:51+00:00"
+   },
+   {
+    "title": "Measles' Comeback Could Be Just the Start",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-16/opinion-measles-comeback-could-be-just-the-start-video",
+    "date": "2026-11-16T22:53:58+00:00"
+   },
+   {
+    "title": "Ex-Robinhood Software Engineer Pleads Guilty to Illegal Trading",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-16/ex-robinhood-software-engineer-pleads-guilty-to-illegal-trading",
+    "date": "2026-11-16T22:53:33+00:00"
+   },
+   {
+    "title": "Ending Alzheimer's with David Cameron",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-16/ending-alzheimer-s-with-david-cameron-video",
+    "date": "2026-11-16T22:42:15+00:00"
+   },
+   {
+    "title": "Wells Fargo Sees S&P 500 at 8,200 By End of 2027 as Profits Slow",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-16/wells-fargo-sees-s-p-500-at-8-200-by-end-of-2027-as-profits-slow",
+    "date": "2026-11-16T22:32:15+00:00"
+   },
+   {
+    "title": "Billionaire Rinehart Boosts US Defense and SpaceX Holdings",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-16/billionaire-rinehart-boosts-us-defense-and-spacex-holdings",
+    "date": "2026-11-16T22:26:51+00:00"
+   },
+   {
+    "title": "China's Long-Term Auto Bet is Winning",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-16/china-s-long-term-auto-bet-is-winning-video",
+    "date": "2026-11-16T22:22:31+00:00"
+   },
+   {
+    "title": "Asian Stocks to Fall Ahead of Nvidia, Anthropic: Markets Wrap",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-16/stock-market-today-dow-s-p-live-updates",
+    "date": "2026-11-16T22:06:51+00:00"
+   },
+   {
+    "title": "Pizza Hut Sells $1 Billion of Bonds Tied to Franchise Agreements",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-16/pizza-hut-sells-1-billion-of-bonds-tied-to-franchise-agreements",
+    "date": "2026-11-16T22:03:53+00:00"
+   },
+   {
     "title": "JetBlue Rushes to Calm Workers Spooked by Bankruptcy Fears",
     "link": "https://www.bloomberg.com/news/videos/2026-11-16/jetblue-rushes-to-calm-workers-spooked-by-bankruptcy-fears",
     "date": "2026-11-16T22:00:16+00:00"
@@ -120,78 +185,164 @@
     "date": "2026-11-16T21:31:41+00:00"
    },
    {
-    "title": "RBNZ Flags Growing Private Credit Risks in Real Estate Finance",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-16/rbnz-flags-growing-private-credit-risks-in-real-estate-finance",
-    "date": "2026-11-16T21:17:24+00:00"
-   },
-   {
-    "title": "Anthropic Fervor, Vanguard's 'Hot Sauce,' \"ETIFs\" Emerge",
-    "link": "https://www.bloomberg.com/news/videos/2026-11-16/etf-iq-11-16-2026-video",
-    "date": "2026-11-16T21:06:58+00:00"
-   },
-   {
-    "title": "Braskem Creditors Shun Company’s Latest Offer, Discuss New Plan",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-16/braskem-creditors-shun-company-s-latest-offer-discuss-new-plan",
-    "date": "2026-11-16T21:05:34+00:00"
-   },
-   {
-    "title": "Anthropic IPO Is Creating Luxury Home Buyers, Says Realtor Serhant",
-    "link": "https://www.bloomberg.com/news/videos/2026-11-16/anthropic-ipo-is-creating-luxury-home-buyers-serhant-video",
-    "date": "2026-11-16T20:45:34+00:00"
-   },
-   {
-    "title": "Uruguay Central Bank Keeps Interest Rate at 6%, Maintains Expansive Policy",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-16/uruguay-central-bank-holds-key-rate-at-6-says-policy-expansive",
-    "date": "2026-11-16T20:36:58+00:00"
-   },
-   {
-    "title": "ETF Market Saturated With Degen Products: Nadig",
-    "link": "https://www.bloomberg.com/news/videos/2026-11-16/etf-market-saturated-with-degen-products-nadig-video",
-    "date": "2026-11-16T20:16:04+00:00"
-   },
-   {
-    "title": "Goldman Forecasts Gold to Take Two Years to Recapture All-Time Highs",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-16/goldman-forecasts-gold-to-take-two-years-to-recapture-all-time-highs",
-    "date": "2026-11-16T20:15:45+00:00"
-   },
-   {
-    "title": "Active Delivering Alpha In Bond Fund: Vanguard's Righi",
-    "link": "https://www.bloomberg.com/news/videos/2026-11-16/active-delivering-alpha-in-bond-fund-vanguard-s-righi-video",
-    "date": "2026-11-16T20:07:16+00:00"
-   },
-   {
-    "title": "Nasdaq 100 Tumbles for Third Day With Nvidia Earnings on Horizon",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-16/nasdaq-100-plunges-as-nvidia-earnings-anthropic-ipo-on-horizon",
-    "date": "2026-11-16T18:51:04+00:00"
-   },
-   {
-    "title": "Lula Worries Slam Brazil Markets From Real to Corporate Debt",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-16/lula-worries-slam-brazil-markets-from-real-to-corporate-bonds",
-    "date": "2026-11-16T17:41:36+00:00"
-   },
-   {
     "title": "Brazilian Real Leads FX Losses; EM Stocks Sink on AI Uncertainty",
     "link": "https://www.bloomberg.com/news/articles/2026-11-16/emerging-market-stocks-currencies-ai-concerns",
     "date": "2026-11-16T06:14:58+00:00"
-   },
-   {
-    "title": "Latest Oil Market News and Analysis for Nov. 16",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-15/latest-oil-market-news-and-analysis-for-nov-16",
-    "date": "2026-11-15T23:03:50+00:00"
-   },
-   {
-    "title": "Stocks Fall Before Nvidia Earnings, Anthropic IPO: Markets Wrap",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-15/stock-market-today-dow-s-p-live-updates",
-    "date": "2026-11-15T22:11:32+00:00"
-   },
-   {
-    "title": "How Ethiopia’s Gas-Car Ban Sparked an EV Boom",
-    "link": "https://www.bloomberg.com/news/videos/2026-11-02/how-ethiopia-s-gas-car-ban-sparked-an-ev-boom-video",
-    "date": "2026-11-02T14:03:58+00:00"
    }
   ],
   "Reuters": [],
   "WSJ": [],
-  "日経": []
+  "日経": [
+   {
+    "title": "NVIDIAファン氏復帰の奇策、OpenAI再現狙う トランプ氏「構わない」 - 日本経済新聞",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBQdE0ycU9PbzZyaWltLWE3R2RpVEZHSDB1ZGNVS2lWSzBQTTlSaElTVXRGUklWTndoVjBmeGI5OE1leXNPR0FiRXZxZWNDOG1BWk5laGI5S25UUHZSM2JVRm1DdDNOeVoyQ1hueQ?oc=5",
+    "date": "2026-11-16T22:39:53+00:00"
+   },
+   {
+    "title": "ゴールドマン、2027年も強気の理由 「割安」巨大テック株に復活の芽 - 日本経済新聞",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBxeDNXUl9NVXJBUmpvYmpEMVhwWjIxNThuWVJUTDgyV0QyS2FWVW5ZUFp4Nm1jRkxiSEVhRlN2Mlk3RlgwdFZUYWE1R3lOUGwybVpjZnNtZWNkZ1BvbG93eG9rZ09laVRhOU12WA?oc=5",
+    "date": "2026-11-16T22:24:49+00:00"
+   },
+   {
+    "title": "バークシャー、7〜9月に金融株を売却 アルファベットは買い増さず - 日本経済新聞",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1YUWFlUjFIejQ2V3prLWdIbVluMVVoUV9hYlFSQTBCUFRIU3RRZm9lNWF3ZkFJZVBzSHhXTHNucWhwOWdFQ2pHajlsV1dkamVsem0zV0M0MmtNT1VKS3FhcjU5eG5FX1RlRTdzWA?oc=5",
+    "date": "2026-11-16T22:16:22+00:00"
+   },
+   {
+    "title": "ナスダック2%安、ネオクラウド総崩れ ファン氏退任で「循環投資」逆風 - 日本経済新聞",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA4UEdZVEdkbEJlWnBiTTMzM2hJcVhpQmhGdG9keGZNZmxtTFJiODc2Vi16MXoxZDNna1NFUW1IMV9QbUtSWUpkVjU4QzVRX20yRmxuNjRzRk5KSV9fbUs5YncwdXpHbWFXb3JZbg?oc=5",
+    "date": "2026-11-16T21:22:18+00:00"
+   },
+   {
+    "title": "Amazon、通信衛星の主力ロケット打ち上げ失敗 対スペースXに暗雲 - 日本経済新聞",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBvdzF5MTZZM01aUlNHM1lTNWpjcFhKUGQ0MTRTTzJnWXd0Z2ozdlpPUTJYMHpMRkQtUC12LWgtdXdzNVBaa2pQYjNveHk1R1h0S0N2MTVzaFFzOXJONV9XT1NrSXkxTUNtOXc5Tw?oc=5",
+    "date": "2026-11-16T20:33:07+00:00"
+   },
+   {
+    "title": "全米の空港で離陸停止、L3ハリスの機材が原因の可能性 当局が指摘 - 日本経済新聞",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5PaUdqWkhWX0RhR0lraEtld21zSFVoN243dlQtcmZZOXZoMzV4VkhGbGlMLXctVzB2M0huaG1XUGFPUW1fSEVHTjlBd2V4bUtkQlJLZ1NuS2xtT0V0bE9rSUlfTHFsY211U1FsQw?oc=5",
+    "date": "2026-11-16T20:01:23+00:00"
+   },
+   {
+    "title": "宇宙探査機ボイジャー1号、地球から「1光日」到達へ 最遠の259億キロ - 日本経済新聞",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5NY3dQelJZZ2pEQXZITXEwN1JFcG84YU1IZWZKQWxiUy1PV0QtX2R5Y3pld19PbzhsNkRWb0hPZXRuT2JsSmJiTVU2eFZKdm41SmExMEl1UnBObnRkNzhmamlHcWVuWnFCdk56WQ?oc=5",
+    "date": "2026-11-16T20:00:00+00:00"
+   },
+   {
+    "title": "住宅・子育ての負担軽く、27年度税制改正 中小企業賃上げ税制廃止案 - 日本経済新聞",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBYdUVxMFhmNnRDSVVSTFdfT25nX1R0bW83ZEg0UTdmbV9scTFuQ2dhb3dqN1k0NGlpWGpJN3JqS1VMWFBOMTJwSktJdEVXOWZfdEZiMVEwcVgydVdTOXRIc2FNVzJSVnUycDBIYg?oc=5",
+    "date": "2026-11-16T20:00:00+00:00"
+   },
+   {
+    "title": "韓国で広がる「株式依存」 損失でも売買やめられず、医師に相談 - 日本経済新聞",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9xM1RIRHB0a29YaGlBWmx5MTI2bXNxZUdpRVZmQWJVN2l6YXZ5MXVNYjRaM1B6WkU0ZFpDelhXd3dibnF4NG9GYlltWTl5Q3VLNWFJOXA1R2xHSWRnbWpma2xsZTBTd1F3QS1GSg?oc=5",
+    "date": "2026-11-16T20:00:00+00:00"
+   },
+   {
+    "title": "メタのAI責任者に聞く 「Muse」の狙いと今後 - 日本経済新聞",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAxUjQtVi1wcUV3djBicWJYQXd2Y050UG1pN2pnaExXVWpfMEItMGxDYTlQRU5OTDNkVDZNQ3ZfUXNqdUQzVTExbkl6YklQVFprNHpQVnlzaHFKU0NBQU14VWNycUwtVnVMY2lMVQ?oc=5",
+    "date": "2026-11-16T20:00:00+00:00"
+   },
+   {
+    "title": "武蔵精密工業の大塚社長「中国向け車載部品、設計から現地化」 - 日本経済新聞",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE41TjFoZVNLZ1lGTVpMQ3cybm16QndkRmdOUVE0UkhydDdnMHRzU3FUa3ZBdFctTzJjNlpCanlvdTFWWHlZaHpBT0N1dV9DS24xZWozLW9nbXp4cVBiaVkzV0o2UkN6ZHVDUFdHcA?oc=5",
+    "date": "2026-11-16T20:00:00+00:00"
+   },
+   {
+    "title": "高市首相を「呼び捨て」にした中国 原潜とNVIDIAを結ぶ糸 - 日本経済新聞",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE80RE9QZmd2OU5uemtYTzlKeC1mWWZXcnJZdjNHei1TaVJKUl9qaF9wWlc0Tmt3ZjRabnJFcmFmeW9XWkpoU0lzb1h5MWo1S19FWU9iWkFzV2NnWi02dHFQLWFOUllGd0ZfbVZ5Mw?oc=5",
+    "date": "2026-11-16T20:00:00+00:00"
+   },
+   {
+    "title": "アンソロピックのすべて AIの新たな旗手、平均38歳「創業者セブン」 - 日本経済新聞",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5wS2NrME9lUUVZaU9PQjE5bGhpeGVjYVZTMkdEZ3JpUTFXN1B6bU85SHdqMkdMVjBGLWVRcmJRckdLdVhQdm5iTmlHYkYtZE52Mm1GVkNRVEhTcjUxOUYzLVFFbVpjVC1INmdaYw?oc=5",
+    "date": "2026-11-16T20:00:00+00:00"
+   },
+   {
+    "title": "人気パソコンゲーム襲ったワナ 正規版起動でウイルス感染 - 日本経済新聞",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE41NjZRXzZiWHRlbWl1V05vakFCSlAxVVVBWmtpTFpEVGVHTGwwUTgyVzhXVlA5NFhpQnVUa1Y4OExjSGxTU0RLTkZ5T2VySENoVVl3a21hdlJzMThpWVJIUU45ZDdzTEtFMS1BeA?oc=5",
+    "date": "2026-11-16T20:00:00+00:00"
+   },
+   {
+    "title": "ゼンショー執行役員が語る働く魅力「店舗は経営者早期養成の場」 - 日本経済新聞",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9xNkhsXzNsc2t5VjhCVUl2cDdrd19Feks5MFN5cWE1R3pYR05Yc2IxVThXdHlONTVsQkVLNzM2eEg0c3VoQlRmUVc1V3NOMkQxUi1BNllJMExMb1JJZ1lpNGVMSktkeTBzZ3dRMg?oc=5",
+    "date": "2026-11-16T20:00:00+00:00"
+   },
+   {
+    "title": "チリと防衛協力の文書、将来の装備品移転検討へ 首脳会談に合わせ - 日本経済新聞",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA3Y2FJV25EQmkwdWlibUtvakJjeThlV2FYNlJGRl9ENzJfaXhib0FGSTEzSXZ4VmhXYjdMcl9tNlN5OTctbG4wWDZoVjliUzR6Qi1NVFBkTUYzRlhUYklkcGJaUGVqcTdzd000Vg?oc=5",
+    "date": "2026-11-16T20:00:00+00:00"
+   },
+   {
+    "title": "伊藤ハム米久HD社長「胃袋は増えない」、減税需要 機動的に対応 - 日本経済新聞",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5kUWRUcmhGTUh3a3dEbGNXdlFJM2h6R1FfRnRaOWRsYTNQUEtUc2dPYzA0REV4a3hmTnZVV0gzck1NYzAzVlM3bXNJZnhoTExhb0hzS1dqeUQwLWExSFJ0YUkwXzgyOXVkNW5Fag?oc=5",
+    "date": "2026-11-16T20:00:00+00:00"
+   },
+   {
+    "title": "日米豪印Quad、トランプ氏初参加へ 重要鉱物で中国依存を低減 - 日本経済新聞",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBwVzJlQjh6RDkyMUVtTTg5WDNLazNUem84NFlCVEpjcHNJZDhqNmc5a3BVM0p3WlBzRTctT2x6b3g0MEFnQXRkeTJHLVBsMUJLQVlzcDVqN1ZyN1JrRXQwLVpBV0tQVEwxcGUxaQ?oc=5",
+    "date": "2026-11-16T20:00:00+00:00"
+   },
+   {
+    "title": "サムスンが頼る日本マイクロニクス メモリー検査器具1位、30年増産検討 - 日本経済新聞",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1kdkVsNlpfU3FudjdycERaN1R2cVFlcGhVbkhGZm9lSmNfbHpadUFjLS1MUjkyZFJObG5oYVdYTWIxckRxSWdWb2pEYWtLMmFwa2hlSGdNeGtfTklmUHY3X3hrZ0s3VF96RHJscQ?oc=5",
+    "date": "2026-11-16T20:00:00+00:00"
+   },
+   {
+    "title": "営業に配置転換「私は必要ない？」 SHIFT、突破口はAI導入で伴走 - 日本経済新聞",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB1Rk9neWgxUWFqeGhYZlNYeEJpSndNZWNuVzhESmFyY1pUY29fOU14VkRiQnNPZEhlWkJpd2xpWFVwZGtoSUwxV2lzSWNaRVZHVllkNWdjMVlmYUE0cXZ2VGt6VUp0RFZsTklBaA?oc=5",
+    "date": "2026-11-16T20:00:00+00:00"
+   },
+   {
+    "title": "地銀再編萌芽期の景色 - NIKKEI Financial",
+    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1VTU1qNVdsRms3LTBWcVY1eWpkSlk5Rng2UVRrQWF1dmpsMjJmTVlIb25iMkU1VU1yNHdBcUpiemk2T1JlU2s1MnZZQ24yeWRtOFNSX0ZmeGxiVGkwSHgzVGNpcDlKRWNKTm9aS3h2M1VrSGs?oc=5",
+    "date": "2026-11-16T20:00:00+00:00"
+   },
+   {
+    "title": "猛暑の次は長雨リスク 揺れる農水省のコメ政策 - NIKKEI Financial",
+    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1zclc0NGl2VzF3MEdfM2FWNUZZVk5ZTEZUczhkQUVDUHpqbTA0T3lfTHB3eEZOQjBzSHZCNU9scmxGeUl2eFZYd3BUcm5Rc0Y1dE5ucWJxeTJjZ3dmVjRqZ0ppc0tOUXpuLUF6VmZpVTEtbU0?oc=5",
+    "date": "2026-11-16T20:00:00+00:00"
+   },
+   {
+    "title": "トランプ氏、NVIDIAのファン氏復帰「悪くない考え」と見解 - 日本経済新聞",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5QRG51bks0bWxoT05TcDJ6dW96WmZUWmZkWkZ2amtPbXE1MEpMQkVvYklXbnJXWjJFb3V5YllvWU9pMl9JSEtzZk1BYVJOU2k0MVdEZElIYnZ0aGRXM0lKSWRCbHZzcVNOVER3ZQ?oc=5",
+    "date": "2026-11-16T19:48:09+00:00"
+   },
+   {
+    "title": "ビットコイン下落、最高値の半値6万ドル台 「極度の恐怖」広がる - 日本経済新聞",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9RMXhEQXBHWnVGWFVISmJDLVpRaWhDXzhiY2Y4R0FqeHZsTl8zRzZObmdkbExMbnV4dTF1OHdnY1I3VjNPRmotZ0x6MURQOGNoZzhkbHRyR0t5Rm1Pekt5eVgwR3ZjM3lMS0UtUg?oc=5",
+    "date": "2026-11-16T19:43:17+00:00"
+   },
+   {
+    "title": "米商務省、中国による半導体の「遠隔利用」規制 NVIDIA疑惑で - 日本経済新聞",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9qU0xSc2dtbGQ2N1FHOU1ZQmZrWHF5V2kxMzlZSjNMbXA2bDdLMmplUV9JdWE1MGlQdGVWdnlhUWhvRjJuUzE5dWlac0xsWWxxTGhtWHB4cTZUOFl0eW04Xy1jZkktNDdDMXk4ag?oc=5",
+    "date": "2026-11-16T19:36:30+00:00"
+   },
+   {
+    "title": "JPモルガンでオンライン取引障害 米国の複数行に波及、ソフト不具合 - 日本経済新聞",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB5TlhpT1YtNmZLRldNTUFqWkpndnQybURXOTZ0cXU4dWdyTlRNclN3dFBrWWZzdnZYTHVkS2hUSTRPdzk2S2FxTkV0Z1lwd0VfSDVoR0NkUE1meDNLZkNoQVI1YzNpX295NlVZaw?oc=5",
+    "date": "2026-11-16T19:18:32+00:00"
+   },
+   {
+    "title": "AIが全自動サイバー攻撃、Googleが観測 無料ツールを悪用 - 日本経済新聞",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE16M0VQbkdXQVhiWjZ6TUk4V3AtOHdNODlRVVJ0U1BTMjdGb3BncFRkUnJkdFJuNnE2UENnUV9wYUI4OEJVYVBTM2JIczVhT3N5RlhER0xCejZPUy1wMS1tLWNHcTNEdl9QeS1kQw?oc=5",
+    "date": "2026-11-16T19:15:46+00:00"
+   },
+   {
+    "title": "「AIネーティブ」な法律事務所、半年で倍増 米国中心に定額料金浸透 - 日本経済新聞",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAwT0pyRm5mTFRsOFRmeHFOcmxYdm9Xblg0SkxHdUNuNzIzUmVBSk1uUmhHVlRteW9kS295UDBGUU0yWUZiV01DbTV3TzlNVGdqUWJiNFcyUFBQd2xBcVdLcjkzOGZza1VmWjZrNA?oc=5",
+    "date": "2026-11-16T19:00:00+00:00"
+   },
+   {
+    "title": "米中ロ首脳「共同声明を準備」とロシア高官、 中ロは18日に会談へ - 日本経済新聞",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0zc1k1MTVGVXo5aGhjRDBZSWgzZWNFVFVaSVRBUjRCT3ctVlNveFRoYTRqRnpPVW1FOXV6ZjlWXzhaNlV2QjV2ZVNuS1ZINjdPdVdvZHUtc2lSSjZnUlE2OU55MENSVzlVR2R6eg?oc=5",
+    "date": "2026-11-16T18:11:29+00:00"
+   },
+   {
+    "title": "テスラ、独工場に5300億円で新棟 自動運転車「サイバーキャブ」生産 - 日本経済新聞",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1VMEdQb2dCSU9OdDZXRUJONWR4Ui1DQ2ZycEZvcnlvVHVJeVJLNnM4WDhJR0NsR1VmbkJqS2VTX2MxQTFzaFo0Y0VXUkhlNkFCZ2MzVGNEWWlocF9SblRNbEoyalNpbzNULTEyWA?oc=5",
+    "date": "2026-11-16T17:30:14+00:00"
+   }
+  ]
  }
 }
