@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T04:29:45.473737+00:00",
+ "updated": "2026-11-22T05:30:29.277798+00:00",
  "tabs": {
   "要人発言": [
    {
@@ -68,11 +68,6 @@
     "date": "2026-11-21T09:22:48+00:00"
    },
    {
-    "title": "ゼレンスキー氏「プーチンは人殺し」 トランプ氏の“友人”発言を批判（テレビ朝日系（ANN）） - Yahoo!ニュース",
-    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBDbm1EUjNpSy1IRks4dHdTRjF1NnljWE5pdGVTYlZyck92NFY0RlVDMTJHZnN2NGxtQlJEZm5FVi1MZ0t1NkxmSHpYc3o3QlFBa0dTUnJneVNkb2E0dWVpU0ZhVW94RTd0aXhQdWdWRTMxemY2ckRzb0VZMkNjaDg?oc=5",
-    "date": "2026-11-21T09:22:48+00:00"
-   },
-   {
     "title": "【分析】記者会見でルビオ氏とバンス氏に明暗、トランプ氏はルビオ氏を引き立て? - CNN",
     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9fcHRDUUVibHRqR1ZLbjV3d1p1LXVLeEFQLXo4cGt0NTdINkJFcmEtWTllM2dKTU53ZzRDYXZKT2N6dVA2eHZ2R3VIcWg5MWxi?oc=5",
     "date": "2026-11-21T07:40:00+00:00"
@@ -104,6 +99,11 @@
    }
   ],
   "Bloomberg": [
+   {
+    "title": "China Investigates CNPC Deputy General Manager for Corruption",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-22/china-investigates-cnpc-deputy-general-manager-for-corruption",
+    "date": "2026-11-22T03:36:34+00:00"
+   },
    {
     "title": "Australian Opposition Calls for Changes to Gas Reservation Plan",
     "link": "https://www.bloomberg.com/news/articles/2026-11-22/australian-opposition-calls-for-changes-to-gas-reservation-plan",
@@ -195,17 +195,22 @@
     "date": "2026-11-21T11:44:46+00:00"
    },
    {
-    "title": "How AI Is Forcing China to Reshape Industrial Policy",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-21/how-ai-is-forcing-china-to-reshape-industrial-policy",
-    "date": "2026-11-21T09:00:13+00:00"
-   },
-   {
     "title": "China Military Bars SF Express Over Procurement Misconduct",
     "link": "https://www.bloomberg.com/news/articles/2026-11-21/china-military-bans-sf-express-from-procurement-over-misconduct",
     "date": "2026-11-21T05:00:48+00:00"
    }
   ],
   "Reuters": [
+   {
+    "title": "ＥＵ加盟国はロシア人の入国制限強化を、デンマークが提案 暗殺未遂受け - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOV3lpWEdXX2wxOXBQWkl1TGpOaUhRZW1nYm5TZ0J3UE5wTm9LMl9kUXN6OFQ3T2czYzNKVnZNWXBSaks3a3R2VHpITF85REFQMlV1QVU4RFFidDJsbGpvYTQ0R2V6R2pFdWNiTWtIVVhpMGZwQUZZNURlRkctVlE1TXhYYm1EZw?oc=5",
+    "date": "2026-11-22T05:20:00+00:00"
+   },
+   {
+    "title": "ＮＢＡ＝クリッパーズ3連敗、八村19得点8リバウンドも及ばず - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNeXlvYWtsV0dHNkZ4VGpyUDVQTG8wSWE0akttTUNIbTFYSVZDS0F5V25RMlZfckwycEx2RkQ3RmhKVWQxS042TkFnTzhmalJ1S1NQVG9KSWd2RzI5UzVEdUNxVzNiTGM0UVQxT1ZySkM0dWd1UUN1ZTcyS0hmLWV2V0RZOA?oc=5",
+    "date": "2026-11-22T05:18:00+00:00"
+   },
    {
     "title": "テニス＝ＡＴＰファイナル、決勝はズベレフ対アルカラス - Reuters",
     "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZVRGbDJldE1va052MUFjX3ZoZnlpZ0FxcEdSbVlNdG9tc3JneFZEMkowZ3REeFYxbTVzT2ZJT1REMUpNSTRLM09EWUlOZkh3djllWk4zSThtNVhOVEg4V3YyWVpGUWtzREFBR3l2NmFjMndzSzdCNWVFbWZLc2RoM2N4emRldkh2YVM0?oc=5",
@@ -247,16 +252,6 @@
     "date": "2026-11-22T02:35:00+00:00"
    },
    {
-    "title": "SIKEF.PK - | Stock Price & Latest News - Reuters",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1EdXNMWHh3dVg2TlhDVW1IemJidWstTEUtTnozaVM4UFFUdkMxdkI2SkhhTDlNeC12Q0l4cVRVV1pxRGVad0VKUzJKclRIb3hVak9VOXBNajFmUDVYbkwtSUZPYy1Ed0lTaGJkUg?oc=5",
-    "date": "2026-11-22T01:30:52+00:00"
-   },
-   {
-    "title": "6661ol.TWO - | Stock Price & Latest News - Reuters",
-    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0zWURBTlNlN2tvS3p0QTcwX2k1RzR4QUs4RWp3aWRDT2hGcGNJcVBvd0hOaVh3Ymx1UjVSWDhzeG5ObHZPbUlydVVsUlczbVJlcE1nZkNfLWZOc2ZncUhpMmxCVmFUUzV5R29BZGxfRQ?oc=5",
-    "date": "2026-11-22T00:50:14+00:00"
-   },
-   {
     "title": "ゴルフ＝ＣＭＥツアー選手権、吉田が首位と1打差の2位に浮上 - Reuters",
     "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOT2RzakRVM21WSFZvVnNHMm12RWtXQWJCM204aGlReVo5ODdnQjl6SnI0YTFJcUNsUmJpcEJsckk4YUtSRk5zLVpoUUdaLVp4cy1KNWdGeFVIOFlfYU5wOHRzUVh3VVpwa3c3QXNJNF9UaWQ4Y3N0eE4tam9EVEhpbVdDZw?oc=5",
     "date": "2026-11-22T00:31:00+00:00"
@@ -272,14 +267,14 @@
     "date": "2026-11-22T00:23:00+00:00"
    },
    {
+    "title": "6142.TW - | Stock Price & Latest News - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9GT2psR2Nfaks0RFJERUptQUxuQjBjaGQ1VXlkS0pSX05BaGwxYm90YWQtSVZ1RkJleWxuVEpDUk1zdFozR2txU1h0WEMxb2QzOUxSMHdNR1BmUko3Tlh2T3FkYw?oc=5",
+    "date": "2026-11-21T23:43:19+00:00"
+   },
+   {
     "title": "066310.KQ - | Stock Price & Latest News - Reuters",
     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE55QVUzbEhfZ0F3UzZOUVhvLVNMTXZKNmdsczVIV2dLNW5zRUM4V19lNGZzNWdGNjlPWW1uQk0zVnFHUWhWaXJtdFF5SXNXTnpSbG5xTXlibDBYWWU4OEwtMXl0cw?oc=5",
     "date": "2026-11-21T23:36:57+00:00"
-   },
-   {
-    "title": "Breakingviews - COMMENTARY: コラム：英国のニート問題、制度見直しだけでは解消せず 景気とＡＩが逆風 - Reuters",
-    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOclNsc1hPUmxlcEhuTFQ4Umd6VEp0WE9oMkJFSGhULUw0VTNfbG5sbVlndk9EODduaXdwdTVBSXJoZGd4Vmd1eXBST2h0VVg2cXk0Nm9mYXExUTVuVVFtTmg0S3BHT0RqZkpjLVJyZzRhZ25YTTh0dHkwNThSNWZQbWlEelFQZjU0Wm56NU9nSTVfRDE4WkE2cw?oc=5",
-    "date": "2026-11-21T23:12:02+00:00"
    },
    {
     "title": "Breakingviews - COMMENTARY: コラム：英国のニート問題、制度見直しだけでは解消せず 景気とＡＩが逆風 - Reuters",
@@ -307,9 +302,9 @@
     "date": "2026-11-21T21:25:43+00:00"
    },
    {
-    "title": "601225ta.SH - | Stock Price & Latest News - Reuters",
-    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1GNkRxamRPeDdieGwtTXpHMVVUQ2xRZFJwQ180b0puRFlBN211eTFsb0tlS2hjb2x6ckp1SEtlZkdidTUwQjg2MG1iV1MwTVhQWjdPUjU4WnQwS09BampBZmg2ZDVmeUV4OVEzYnNtUWc3bFZkZWNz?oc=5",
-    "date": "2026-11-21T20:03:49+00:00"
+    "title": "BENXX.AX - | Stock Price & Latest News - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPM1czN290ZXNyTmd4dXh0bmRYM1U0UVhERW5sOTR0Nm1pVzdVVzJFeWRDTGdRSFR6azh5d091MXg2bGRYcjZtQ3VqdTU5a0k1b3drR2VUdkxkaUVzcmxBb2d4cS1IS3V2MDh6eFpXc19xUWVfYnBvc05ObXNqUVFpcmpDRWFvYVU?oc=5",
+    "date": "2026-11-21T15:14:30+00:00"
    },
    {
     "title": "ＡＢＢロボット事業、ソフトバンクＧへの売却頓挫なら上場も 中国阻止で - Reuters",
@@ -342,23 +337,48 @@
     "date": "2026-11-21T05:54:00+00:00"
    },
    {
-    "title": "ＥＣＢ主要ポストに仏独の経済学者、スペインのデコス氏が総裁へ - Reuters",
-    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE11TDRpVFN0WUZfeWZUaXM5NXFMTG9BdFhUM0hJTERER3FodnhScGgzRzQzYVJoWmlfU18tYlFzQzhwbV9mQ0JrSi01alFlUjlJejlDa00wQ1p5TUYyZGZFLU9CS3V3ellpZk4tclRDRVpoREFKVWI5TVhaSVhYZw?oc=5",
-    "date": "2026-11-21T05:23:00+00:00"
+    "title": "(.VIX) | Stock Price & Latest News - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1nc1U1cktGOWl6TWhoOUtXMndLQVdLeENBN2xyaC1iSTY4d2s0eXlUa3lWSTNiVnJRQTVrWndiRHNqQlhiTnRXXzh5Z1ZMYmNudW9lMlk2WDY?oc=5",
+    "date": "2026-09-17T13:57:24+00:00"
    },
    {
-    "title": "ＮＢＡ＝ハーデン51得点のキャブス白星、サンダーも競り勝つ ＮＢＡカップ - Reuters",
-    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxORnQxb0FsTDVSTTAxUHM1WjdTOFVhdGd4Sk1hYXlJTXFjQWRaVDdYM2NTaXRGM0tFZW5mMzFEVm0wX2h6eU1iY21LcUtNREJoYVV3V1JPZ2JLbjNka1JlMW4tNkJnenRzVEpiUVlZUHZyUFdXWVVnQTJHTld5LS04WFVhWQ?oc=5",
-    "date": "2026-11-21T05:18:00+00:00"
+    "title": "(.TWII) | Stock Price & Latest News - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBMR2RuQ2VjUnAweFZXeW50Sk9KZDNHWWRzakx2SFREdTlRQU5TUlNUakdjSDhGdUg5U1cweGxEMm1xYkdrdzhwS3dDWDlBeGN4QzR3MS1VX1VVdw?oc=5",
+    "date": "2026-09-17T11:14:41+00:00"
    },
    {
-    "title": "KR7373220003.TXEA%5EG24 - | Stock Price & Latest News - Reuters",
-    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPd0o1b19pZnRld2lXVThSeVJWRVJvWXo0MmxDVXlzMzdKWllqanBmeURvYUIwZXo3N3dqcHlvQThVZm5JLVIySEFiU3cwZEM5TjNTT1BlcWhIWWFmQ0pNUGdLZDFScWo1UHZEWEhUWTlCcXdHMG9nUldqbm0wODUxVA?oc=5",
-    "date": "2026-11-21T04:33:09+00:00"
+    "title": "(.SOX) | Stock Price & Latest News - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4xbWVOMnJZR3JmamFDMWplWHhQV1NaME81Q2hjazU5eUZfOG55cUpBcmUtWE5NZFAwdXg1dElXZ0FON0xTZmtpbEdFTlNCRFlTeU1DLUEtMjk?oc=5",
+    "date": "2026-09-16T22:20:10+00:00"
    }
   ],
   "WSJ": [],
   "日経": [
+   {
+    "title": "マレーシア副首相、ロヒンギャ難民のトルコへの移住巡る投稿を削除 - 日本経済新聞",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ob1Rua1R4T0JMWUItZ21mSEp0MGxFVnhJNm5hczczUEJ2S0xIVkRaVkxVRnAtUnVqNVlJT3pNanFORlRQUDBfaThKSUxkWml5V0gyZDRTRnh6alUwOTliRWhLTThpMTZDRk1pcg?oc=5",
+    "date": "2026-11-22T05:15:38+00:00"
+   },
+   {
+    "title": "八村塁は19得点8リバウンド NBA、クリッパーズ3連敗 - 日本経済新聞",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5hSzJmZkNvNzhCaVFGckF4dzZoMW5aMXhDUDRLc0hzcnJRV28za0FmekRQS1AwSmdvdFpHYUQ4SnFhSVRZUGZVXzlLWkthVk1tTEdiWDNSMUJONnVzSjhBMHRvTEg3a1I2M2c?oc=5",
+    "date": "2026-11-22T05:13:12+00:00"
+   },
+   {
+    "title": "ボクシング山中菫、判定負けで王座統一ならず 女子世界戦 - 日本経済新聞",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBsU09Vd2VJeVhpWkNPcDZzRFZpYmNlWkJoTndLOTRydWc4dTlaSHBFaUFNZ0xCMDlKV0NyMm1zTldENnk3QWdHQmpqd1RSeTh3REZyT0V2RWFSaUg2T0JmYzFsMXo1clFSTkZoRg?oc=5",
+    "date": "2026-11-22T05:05:41+00:00"
+   },
+   {
+    "title": "プロ野球:ソフトバンク祝賀パレードに30万人 リーグ3連覇、2年連続日本一 - 日本経済新聞",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE54ZEFOakw3VURIY0FaMWZVakw5MmkzRUFENml2RmJGRExJZ3hZLWRoSXJZYldaN0trVEdWbHo2QjNrQTg2SkZheUxtUUhmVk1oWURoeXB0SlZxZ0RiQ092WXZOdjZ5QTM2ekE?oc=5",
+    "date": "2026-11-22T05:02:31+00:00"
+   },
+   {
+    "title": "皇室が担う国際親善「私も受け継ぐ」 愛子さまが示した5日間の旅 - 日本経済新聞",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5IY3djTGE4V240QWlOVFBOREx1UG5iQVN0Y0doWDgxNGJJcVJSQTg5SVVLSmV1elVJcDNDbDhyRm1WTEZvZExCRDE3akZNZzQ3OWlPelU3NDB1dDR3U0U4ajZ6WVVqbHA5TEhuVg?oc=5",
+    "date": "2026-11-22T05:00:11+00:00"
+   },
    {
     "title": "大雪で孤立状態の福島・裏磐梯、一般車両の通行再開見通し立たず - 日本経済新聞",
     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBEOVlGM0tLWXdEWE1JczFWNmd0Y0UzZUtwNjdYbEFHSDFpV2MtNXZjT2pMQm1pOEJNOXdBVHNTZTVjbFBFYWFxVHNobmR1WjJ1dHIwYld4Tk05Rks5RXQ3SmstV2FjblQ5b3FfSQ?oc=5",
@@ -378,11 +398,6 @@
     "title": "六花亭のカード情報流出、住所や氏名も 不正利用を確認し見舞金用意 - 日本経済新聞",
     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBxOTIxMEh0eThlUC00TVE4am80UWktRW9NVmpRYkM5RkV2T0ZNcGZuNzZOVzR4S2RpNXJBNHBGWGJsMzZMbDFDZVR5NkhqUUcwY1dvQncyODdiM3BFSVlHb2NFMDAxek1LRlVIMA?oc=5",
     "date": "2026-11-22T02:05:24+00:00"
-   },
-   {
-    "title": "愛子さま、3世代の友好親善示すシンガポール訪問 「私も受け継ぐ」 - 日本経済新聞",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5IY3djTGE4V240QWlOVFBOREx1UG5iQVN0Y0doWDgxNGJJcVJSQTg5SVVLSmV1elVJcDNDbDhyRm1WTEZvZExCRDE3akZNZzQ3OWlPelU3NDB1dDR3U0U4ajZ6WVVqbHA5TEhuVg?oc=5",
-    "date": "2026-11-22T02:00:00+00:00"
    },
    {
     "title": "米男子ゴルフ秋季最終戦、悪天候で第3ラウンド順延 - 日本経済新聞",
@@ -435,8 +450,8 @@
     "date": "2026-11-21T20:00:00+00:00"
    },
    {
-    "title": "住宅ローン、金利上昇で結局どっち？ 変動or固定を失敗しない選び方 - 日本経済新聞",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5lZnUxQXJkX21YNW15TUtYWHVTODNJcTM4eVdYaUlpN2NnTVJfakRJN2N0YzFrSGpVdXJWSTFPMUh3c1h4V1ByaVZPcjhPSXQ3Wl9Mc2FIeXRGbW4ycURnY2N0dDBKWWpZRlQyUg?oc=5",
+    "title": "アンソロピック、AI経済圏の主導狙う 安全と成功の「頂点めざす競争」 - 日本経済新聞",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB2amdmdWJLTWtHSHFhOUszcGdVUTE3N1FDeWZFOWFNVU5Lal9jamp1MmFxaUF4S2daMHdwMm9UbXlnSXlhbjlVeFUyMm9uWVdGazdhT2FWWEF3TWJiUktzMDl5cHVNVFBZWUhHdQ?oc=5",
     "date": "2026-11-21T20:00:00+00:00"
    },
    {
@@ -445,8 +460,18 @@
     "date": "2026-11-21T20:00:00+00:00"
    },
    {
+    "title": "住宅ローン、金利上昇で結局どっち？ 変動or固定を失敗しない選び方 - 日本経済新聞",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5lZnUxQXJkX21YNW15TUtYWHVTODNJcTM4eVdYaUlpN2NnTVJfakRJN2N0YzFrSGpVdXJWSTFPMUh3c1h4V1ByaVZPcjhPSXQ3Wl9Mc2FIeXRGbW4ycURnY2N0dDBKWWpZRlQyUg?oc=5",
+    "date": "2026-11-21T20:00:00+00:00"
+   },
+   {
     "title": "iPhone Duo分解、画面不具合はヒンジ要因か 原価率は最高水準64% - 日本経済新聞",
     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8taW1xM1NyWGRpNzV4eWFVNlZzMFdkOHhpdDVBMzkyT2Jwc2NHMjBrZmc1bEhicVFJRmUxVzlFNHVFWloxNzhyYk5XTThzUDhmWHNaSEdTZHQ3TktJU0hlUGZIUTVCQ3RGc3VhSg?oc=5",
+    "date": "2026-11-21T20:00:00+00:00"
+   },
+   {
+    "title": "キングジム、日本のコンビニ文化をお土産文具に 佐々木ゆりのさん - 日本経済新聞",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9iZEpiNVVIV1lkY1c3T1pjb1VncUtpWUpTWnczVDRWVVZZeUpmYk9zMlNOX1N1cXRqLVd3bVQtdkowTnRoNVFVT2RDQm1OWHdxd3kxVHJBZExKeGFTclhpbGpVd0hyS2RSclk3Zg?oc=5",
     "date": "2026-11-21T20:00:00+00:00"
    },
    {
@@ -470,43 +495,13 @@
     "date": "2026-11-21T20:00:00+00:00"
    },
    {
-    "title": "韓国クーパン、台湾でEC3強を猛追 「会員は海外送料ゼロ」武器に - 日本経済新聞",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBNZXBSa3g4WDdyQ1lBMEdMeGZlbmpqZXNXMGg1ODZSZmk3NHFSdUlIenRUVjFDTWdwS0JTUHBnWjhBSjdfOTJtR1lXWWdneFBfcVo2T24tc3M5aW9HTmgwVWlnSENrd21MMlNOaA?oc=5",
-    "date": "2026-11-21T20:00:00+00:00"
-   },
-   {
-    "title": "ライオン採用責任者が語る社風「変化を楽しみ、挑戦支える」 - 日本経済新聞",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE01MUlNc19saC1veWRJdGdfblBVSUgzRVFaTWViQ1VoOFotUTI5MmhCbC04alM1V1U5ZGIzSEtyaDM4UGl6b1ZvYU9uYmJZbnhNRm44MDExZU8yWVhpeWJnVHNoNFBXRlhMQjlyXw?oc=5",
-    "date": "2026-11-21T20:00:00+00:00"
-   },
-   {
-    "title": "京都府の西脇隆俊知事、スタートアップ育成「素地は十分にある」 - 日本経済新聞",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4wcWJIZ1pTMkNmSndXdWN4VlZiNDlzX3lJYWhFcWFFR3AxaWtNQU5MV3VuenJEdks0eVQ2b1FYcFhCUGxZVlpTSzh6Tnl3NGRPQ1dPeS11VUduSF9WNGdaX3VOaGJsNHhOQWo2TQ?oc=5",
-    "date": "2026-11-21T20:00:00+00:00"
-   },
-   {
-    "title": "京都経済同友会・榊田隆之代表幹事「インド進出、人材育成が急務」 - 日本経済新聞",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBDcEl6WklfX3VtOFMxQnh5MkgzeGpxbk1yU3JDVnhBRHN0VVRZOWs2OEdCbENoakhtdV91MmRzVFI5NGd4ZFZ6cnFiVC1vdGRvTW9YYUFmNERqdXFTUEpfNFI5bS1oUTcwMnItdw?oc=5",
-    "date": "2026-11-21T20:00:00+00:00"
-   },
-   {
-    "title": "負担増す奨学金、金利3%到達 企業拠出「返済不要型」の拡充必要に - 日本経済新聞",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5uWE9nN3VTNjRwWkJXZ1JzekNmSnVlcXlhcUdpR01jV2dQVU9mNlRSNUlqNGxQVGdHTUgtNDhIQ0ZzdkxiUTUwS3NuMmlZTGlOVWp3Y0pZc2I4ak5wQUk0RFdfd3lacnpmVzlPNg?oc=5",
-    "date": "2026-11-21T20:00:00+00:00"
-   },
-   {
     "title": "SCREENやオムロン、インド市場に続々進出 半導体関連や医療に商機 - 日本経済新聞",
     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1Mdndoa04tTXFWUHV1Qkt0VU43NkhmRkdjMmJkZDNpMHVVbk4yeWpMYWxjNFVNU1RvU3UzU0dqRlE2NEVrWU1nMzkyRVl2NXJ3ZVhBMHc1TU5Vb05VNVNaSHpGWVRwSVdPQXhWSg?oc=5",
     "date": "2026-11-21T20:00:00+00:00"
    },
    {
-    "title": "若者の愛着消費、コメダ・カシオに順風 限られたお金で「濃い体験」 - 日本経済新聞",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5MaVlIMDJqWW8wdHk3RGFWbWZWb1Rad3dUNV9mODFSNHFKRUszSEI3WF9LUUhZTk1fT2JQLW9rbTdSWlVhSWl4LWNJRzBYWUZ2S1hZQkZqT2ZUX1l3U1ZyRUpFWlhZU0p0cEoybw?oc=5",
-    "date": "2026-11-21T20:00:00+00:00"
-   },
-   {
-    "title": "バスケBリーグが収入1000億円、不祥事のアメフトXリーグとの分岐点 - 日本経済新聞",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1uRGdzWGl2cktqR2Fpa2lYaFphWXNfRTRNUzJhb0s4cmZkdG14YkkzYmxPLTdaVjhud2JhX0xYRFVfQUVYUml1N3JacnU3TGsxVU9yMTFJeW95OXh5MUJ1dDhFSktCc3FtczJrbg?oc=5",
+    "title": "韓国クーパン、台湾でEC3強を猛追 「会員は海外送料ゼロ」武器に - 日本経済新聞",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBNZXBSa3g4WDdyQ1lBMEdMeGZlbmpqZXNXMGg1ODZSZmk3NHFSdUlIenRUVjFDTWdwS0JTUHBnWjhBSjdfOTJtR1lXWWdneFBfcVo2T24tc3M5aW9HTmgwVWlnSENrd21MMlNOaA?oc=5",
     "date": "2026-11-21T20:00:00+00:00"
    }
   ]
