@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T12:29:37.806392+00:00",
+ "updated": "2026-11-24T13:52:27.322984+00:00",
  "tabs": {
   "要人発言": [
    {
@@ -11,6 +11,11 @@
     "title": "木原官房長官、皇室へのオバマ氏お辞儀写真「やゆ」トランプ氏への対応問われ「コメント控える」 - 日刊スポーツ",
     "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9JX1lFQ2lxUHFfc05NYWxHeGxyb2pSMU1MLVJGRTZ5a0QyTDNoZUN4cTVpRmdvcThtNHNoLVF5ZWMxRFBGV3lOYVlJXy1YTXBmWGpMWDZYTzdHaDJNN0FpdjZyU3kzeTlCNnM3bWU2ZG9VT1pRaExMddIBgAFBVV95cUxNcDJZakh2UTdBeEt3NlpCTWk0UWhQa2VhVHAtTy1OeGp6ZXdDel9uclRjOGNLNS1hbzJ2blFQRmE5eTRObXdxRko3Sk05RFNWZW9rSXJqcXdzd3dpZHkyaHBkS3c2dzRsRkdfOUxiRWZkczQwMlZYLTBiQlFhTXc0Rg?oc=5",
     "date": "2026-11-24T06:33:08+00:00"
+   },
+   {
+    "title": "トランプ大統領が上皇ご夫妻へのお辞儀でオバマ氏を揶揄 政府は「コメント控える」 - khb東日本放送",
+    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1IX2tjelIzdVE1SktjOFZsZG14Q0lLSzNIRElLdTM3TDRSa2VRV3dpZzJzMVRMQzdGOGRNVjNjS0Rrc0Z1cS05SllGQlRqMjA?oc=5",
+    "date": "2026-11-24T04:07:46+00:00"
    },
    {
     "title": "トランプ大統領が上皇ご夫妻へのお辞儀でオバマ氏を揶揄 政府は「コメント控える」 - テレ朝NEWS",
@@ -63,6 +68,11 @@
     "date": "2026-11-24T01:23:00+00:00"
    },
    {
+    "title": "エヌビディアCEO復帰、トランプ氏「私の介入は重要だった」 取締役会に直接働きかけ - CNN",
+    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1oMjFGSGZMaXcwZEdtSGRBNHJ4OGhGazluTF93MkQ1U2dSY0tGa1psMW9KVFVEcEpaSjJzcUcyT1I5UnVmUmd5UFRBZkh6WkhyMjZYVzRINA?oc=5",
+    "date": "2026-11-23T23:24:00+00:00"
+   },
+   {
     "title": "エヌビディア、フアン氏のCEO復帰を発表 トランプ氏、介入を強調 - AFPBB News",
     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBoUC1QN2hsNi1ZSGdlUUpBX2NBaV8zNWtGUkpDZHIzLTRtem1MUVBwTHFZTkpSTjQ0WnZ1b0F1N19mckp4cXVjam9neXNGSmExRkHSAVRBVV95cUxPVVRnTElqTG1fR193Vjh2Sm9JMktBMjRENjZ3V25LRUF0TlhQSnUyS0ttMzk4Qm5QTmhPajhqVGpuWEFOdFJVS2tNR1JHVDhBY3RRNTQ?oc=5",
     "date": "2026-11-23T22:15:00+00:00"
@@ -80,9 +90,49 @@
   ],
   "Bloomberg": [
    {
+    "title": "Market Timers Get Schooled as S&P 500 Swings Rip Up Playbooks",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-24/market-timers-get-schooled-as-s-p-500-swings-rip-up-playbooks",
+    "date": "2026-11-24T13:41:59+00:00"
+   },
+   {
+    "title": "Turkey Frees Ex-Minister Arrested in Fund Scandal After 18 Days",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-24/turkey-frees-ex-minister-arrested-in-fund-scandal-after-18-days",
+    "date": "2026-11-24T13:40:02+00:00"
+   },
+   {
+    "title": "DRC Reinstates Cobalt Export Ban",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-24/drc-reinstates-cobalt-export-ban-video",
+    "date": "2026-11-24T13:00:53+00:00"
+   },
+   {
+    "title": "Behind Binance Hack, a Reckoning Over Who Controls Crypto",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-24/behind-binance-hack-a-reckoning-over-who-controls-crypto",
+    "date": "2026-11-24T13:00:07+00:00"
+   },
+   {
+    "title": "The Oil Market Is Talking About a Surplus Again",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-11-24/the-oil-market-is-talking-about-a-surplus-again",
+    "date": "2026-11-24T12:38:42+00:00"
+   },
+   {
+    "title": "Fund With $21 Billion Favors Africa Local Bonds, Adds to Uganda Bet",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-24/fund-with-21-billion-favors-africa-local-bonds-adds-to-uganda-bet",
+    "date": "2026-11-24T12:26:19+00:00"
+   },
+   {
+    "title": "AI Returns Matter More Than Nvidia Drama, Says Goldman’s Bell",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-24/ai-returns-matter-more-than-nvidia-drama-says-goldman-s-bell",
+    "date": "2026-11-24T12:23:51+00:00"
+   },
+   {
     "title": "Ousted BP Chairman Manifold to Join Aggreko Board Amid US IPO",
     "link": "https://www.bloomberg.com/news/articles/2026-11-24/ousted-bp-chairman-manifold-to-join-aggreko-board-amid-us-ipo",
     "date": "2026-11-24T12:14:38+00:00"
+   },
+   {
+    "title": "Stock Rally Takes Breather as Nvidia Euphoria Wears Off",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-24/the-opening-trade-11-24-2026-video",
+    "date": "2026-11-24T12:13:30+00:00"
    },
    {
     "title": "Arabica Drops as Exchange Stockpiles Surge Most in 28 Years",
@@ -90,19 +140,9 @@
     "date": "2026-11-24T11:54:19+00:00"
    },
    {
-    "title": "China Probes Fourth Politburo Member in Major Leadership Shakeup",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-24/china-probes-politburo-member-and-shanghai-chief-chen-jining",
-    "date": "2026-11-24T11:36:08+00:00"
-   },
-   {
     "title": "Huang’s Return Hits the Reset Button for AI Bets",
     "link": "https://www.bloomberg.com/news/newsletters/2026-11-24/huang-s-return-hits-the-reset-button-for-ai-bets",
     "date": "2026-11-24T11:33:33+00:00"
-   },
-   {
-    "title": "Nvidia Market Whiplash Far From Over, Says RBC’s Wu Silverman",
-    "link": "https://www.bloomberg.com/news/videos/2026-11-24/nvidia-market-whiplash-far-from-over-rbc-s-wu-silverman-video",
-    "date": "2026-11-24T11:20:17+00:00"
    },
    {
     "title": "Anthropic Breaks Below $83 IPO Price in Premarket Trading",
@@ -110,29 +150,14 @@
     "date": "2026-11-24T11:19:24+00:00"
    },
    {
-    "title": "Forced Buying Aided Biggest Rally Since April 2025, Nomura Says",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-24/forced-buying-aided-biggest-rally-since-april-2025-nomura-says",
-    "date": "2026-11-24T11:02:40+00:00"
+    "title": "Mercuria Hires Alex Humphries as Global Head of Fuel Oil Trading Ahead of Eni JV",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-24/mercuria-hires-alex-humphries-as-global-head-of-fuel-oil-trading-ahead-of-eni-jv",
+    "date": "2026-11-24T09:53:13+00:00"
    },
    {
-    "title": "Grocery Prices Are on the Rise, Just in Time for Thanksgiving",
-    "link": "https://www.bloomberg.com/news/videos/2026-11-24/grocery-prices-are-on-the-rise-just-in-time-for-thanksgiving",
-    "date": "2026-11-24T11:00:55+00:00"
-   },
-   {
-    "title": "Lemssouguer’s Big Unwind Offers Glimpse Into Complex Credit Bets",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-24/lemssouguer-s-big-unwind-offers-glimpse-into-complex-credit-bets",
-    "date": "2026-11-24T11:00:00+00:00"
-   },
-   {
-    "title": "LME Speeds Up Procedure for Listing Metal From New Plants",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-24/lme-speeds-up-procedure-for-listing-metal-from-new-plants",
-    "date": "2026-11-24T10:57:13+00:00"
-   },
-   {
-    "title": "LME to List New Aluminum Brand as Historic Squeeze Deepens",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-24/lme-to-list-major-new-aluminum-brand-as-historic-squeeze-deepens",
-    "date": "2026-11-24T10:10:02+00:00"
+    "title": "Xi Plays Long Game on US Chip Retaliation After Nvidia Whiplash",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-24/china-halts-critical-minerals-ban-to-maintain-truce-with-us",
+    "date": "2026-11-24T08:56:34+00:00"
    },
    {
     "title": "JPMorgan, HSBC Trade New London Digital Gold for First Time",
@@ -150,14 +175,9 @@
     "date": "2026-11-24T07:11:59+00:00"
    },
    {
-    "title": "Rand Lead Losses in Emerging FX as Mining Stocks Slide",
+    "title": "Rand Leads Losses in Emerging FX as Mining Stocks Slide",
     "link": "https://www.bloomberg.com/news/articles/2026-11-24/emerging-market-stocks-rally-as-huang-s-return-revives-ai-trade",
     "date": "2026-11-24T06:26:44+00:00"
-   },
-   {
-    "title": "Treasuries Advance as Cheaper Oil Eases Inflation Concerns",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-24/treasuries-advance-as-cheaper-oil-alleviates-inflation-concerns",
-    "date": "2026-11-24T04:42:33+00:00"
    },
    {
     "title": "Copper Erases Nvidia Bounce as Stocks Come Back Under Pressure",
@@ -165,31 +185,56 @@
     "date": "2026-11-24T02:38:19+00:00"
    },
    {
-    "title": "Gold Edges Lower as Investors Weigh Fed Outlook, Equity Gains",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-24/gold-holds-gain-after-nvidia-s-rehiring-of-huang-sparks-rally",
-    "date": "2026-11-24T00:06:57+00:00"
-   },
-   {
-    "title": "Latest Oil Market News and Analysis for Nov. 24",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-23/latest-oil-market-news-and-analysis-for-nov-24",
-    "date": "2026-11-23T23:04:12+00:00"
-   },
-   {
-    "title": "Stocks Turn Lower as Nvidia Euphoria Wears Off: Markets Wrap",
+    "title": "Stocks Fall as Nvidia Fades and Trade Fears Return: Markets Wrap",
     "link": "https://www.bloomberg.com/news/articles/2026-11-23/stock-market-today-dow-s-p-live-updates",
     "date": "2026-11-23T22:06:46+00:00"
    }
   ],
   "Reuters": [
    {
+    "title": "イスラエルがガザ空爆、ハマス治安部門幹部を殺害 ネタニヤフ首相称賛 - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBCcEFNR3ZmMzd5NlA5VmJRV214N0xIWjh3MEYwOWVteUFZcGY1bHNlWUEzNk9aLWVZdzY5eGp1cU00XzZjU2VJQU0temFBV2w1NHdYalB3ZjQtZTRtOV9LWjVSeWVJTVhFMERVWmhkMnlqb0czZWJjY0ZvYlRyQk0?oc=5",
+    "date": "2026-11-24T13:36:47+00:00"
+   },
+   {
+    "title": "独ＩＦＯ業況指数、11月は予想上回る上昇 今四半期の景気拡大裏付け - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPNVpzYWx3bEdfWnYzU3ZlS2ZxNzFlTlpnT3k2ZElfbmF0U1ZTcmF1eVpZb2o2REZJMTNaeU5HcDZaRWlDaGNEQTNaTU90UElsaDR6Z0x4cmh1SG5JdVJ1djE3Rk9sOS1qVnJfMHhVMlJpd096OWc1Unh1TkJDQmRabDdsSUU0SzgxMlE?oc=5",
+    "date": "2026-11-24T12:15:08+00:00"
+   },
+   {
+    "title": "エヌビディア取締役会の独立性に疑問の声、調査完了前にＣＥＯ復帰 - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPc0RmdE9tLWJzblQxT1daWm1yWUNGc2NSX1VqQVVsUXNjZ2lyS0hYNElPNnIzVjRONnJvUmxGVkdRU290d0tiWWJJZTFOVjc1RUdRcXdnelBpU0JmRFFjQUJJMks2eEFWc0R0Yk9KMndrcm13NHhrZTlVa1hocnE4ZDJLQk1KeHFmZUQ0?oc=5",
+    "date": "2026-11-24T11:55:43+00:00"
+   },
+   {
+    "title": "中国の神舟２４号、25日打ち上げ 「天宮」に初の外国人飛行士 - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOUlZCRk5kam5Gd3NaSHFQZ3drd1l2OWZGM2VtemRrZDItUThEOFppNjlrTjdxYVBWenJmMnRKR0dwLXd1TGstS2xta291Um9pUnFGaXp4Nlp3VFNOSG9rcVRoa2cycFBVMF9IYWlMRmZsSHJ2RWVMMzBHTUhCUU9QNU5NMWJTYmVCSnh1dGw3SmNmZw?oc=5",
+    "date": "2026-11-24T11:07:21+00:00"
+   },
+   {
     "title": "イラク、クルド支配地域の油田を連邦政府管理に 緊張高まる恐れ - Reuters",
     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObHFhRUtpcnFnZzRPbGRyTDY1dWsxQWRWVVJDZC1FN3lFZkE4Ul9RMWJQLW5UX2JTMHpQQXhLODkxTS05UDdnZDR6aG0yTnJBVWY2ek1QOGVubUNPbnlZbDgzMmhjWllvMmxlLUJ4bDRuZ0VtRWtLY1drTktjdXZCR0tLQ0wwUkpVNHBWZkZ3?oc=5",
     "date": "2026-11-24T10:49:48+00:00"
    },
    {
-    "title": "ＥＵ、中国や日本などからのハイブリッド車輸入に一時制限 - Reuters",
-    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNQ0Ric0xzUkJtR05UNm1nbnVRY2lGc2lfNEhLVjRrNXlNX2pnaUkyelVHdkEyYzIyd3lpZDJPdjR1Ul8zZm9RTTd0NUUtcUp2VFFTT1ZzUEotS19JZjFUNVd0elFzLThLUl9fZ2pNaHBEajktZ0R1MVAxQnRnVm9KR3JTbFJNb28?oc=5",
-    "date": "2026-11-24T10:35:43+00:00"
+    "title": "(CMBB2501.HM) | Stock Price & Latest News - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBKUEVjT1dtVTVGR1h5SjZDWmVBS3V6RGxQbTltdFF0QWZ1ajZiOERYekotUjlKS0dTT19rSlNqUHJ5bzdtR2RaN1hqcW9QT2RnRkZMamE1VzR2d295WVhRV0ltaw?oc=5",
+    "date": "2026-11-24T10:01:36+00:00"
+   },
+   {
+    "title": "ANXO.AX - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5zOGZVdWhrRHFRdmJPX3NXM3d1ZDdTTUU3cEFsWldvVFRha0F3Y2lvdFBCbVJCQVM3Q2NtQzFCRnlqekE5aC1nVFUxcERBZm44QzZ5T3doYUJYOTRJS1E?oc=5",
+    "date": "2026-11-24T10:01:21+00:00"
+   },
+   {
+    "title": "片山財務相に26年度2次補正予算の策定を指示＝高市首相 - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNR3pFLUc1LU1PUVdyNzFfMzFJTGx0Sk14czJPUHROZmlpemROU3hKUnBuQWZCTHljMjAxOWlidjlFaEFUUnQ1bHBuUmUyYXlnNl9YLWtyRTJicF9JYkNjMzlfb0J5OW9zNHJqQ2hUaGZhSWgwaEdmeHdSQjNXeGZfZmNUVQ?oc=5",
+    "date": "2026-11-24T09:51:43+00:00"
+   },
+   {
+    "title": "足元の消費足踏み、物価高や自然災害が影響の可能性＝城内経財相 - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZGJzUFlLbW1qcE1zTGctYlhpV2tvc0M1UTNXeVJzVGlGaVVONmxwcTRYeTFqbFVkWHFrOG5JOE5WcUo5aWJNU3YwVDRNQ0tCODYySGxaV0czck84RkVHVGpoakVkS1R1WURCM3JSNDhES3NJVTAzcmpPNVFWSTl1YnZDRQ?oc=5",
+    "date": "2026-11-24T09:34:10+00:00"
    },
    {
     "title": "ケータリング世界最大手コンパス、主要上場先をＮＹに変更へ - Reuters",
@@ -197,14 +242,9 @@
     "date": "2026-11-24T09:30:09+00:00"
    },
    {
-    "title": "台湾、「英雄」フアン氏復帰に沸く 主要株価指数も9％高で反応 | ロイター - Reuters",
-    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOLUZUandwSVUtektNVjM1WEZka0EtdVRmRnM1YXVhbi04cmRWRjZCR19pYkZ3Wnk2RllYdjdlWFlsdTB1d2lEdFI0WW9XVzdVMEhCRW04aVpJaWtmZE95OEtRV1U5SzlVMTRkMk9ybHhPRnFXaGtRSG1WMDg0eTRBUXQ0cUQ?oc=5",
-    "date": "2026-11-24T08:31:10+00:00"
-   },
-   {
-    "title": "TRIl.TRE - | Stock Price & Latest News - Reuters",
-    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE15eDEzeDdKQjlrdDJRZ2RrYm9BZDF2Nm5wMXQtVVpqamhwS2xqNFU2VGJRZFpEaFNTTi1iRXNTX1NpRHY2NG01dGRfTWlQV2tJU1N1LWoxSEV2U0JQOFRZWmVqYkZ5dkpCQmpVRDl2N1hkUQ?oc=5",
-    "date": "2026-11-24T08:21:57+00:00"
+    "title": "インタビュー：日銀は来年2％まで利上げか、経済・株価絡み判断難しく＝安達元委員 - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB1UGVsa2Mta3lfZFBnbmlERTJvcUR0Rm5DV0ZQeWUtWG02VkxfTzRaaWlXQU9BSFVGYjczdTBmb2FuVUlaV185V1BHVW5ZZjRZYUFKa1E3MEZ1aHgtejlsREo3aDN1eC12RllXel9IV2NuWUhZdk1lSzNmeElKUQ?oc=5",
+    "date": "2026-11-24T09:29:43+00:00"
    },
    {
     "title": "基調判断の表現変更、「総じてみれば」追加 個人消費を下方修正＝11月月例報告 - Reuters",
@@ -217,8 +257,13 @@
     "date": "2026-11-24T07:48:00+00:00"
    },
    {
-    "title": "仏製薬サノフィ、米インスメッド買収へ 410億ドル - Reuters",
-    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdEx5dnQ3QnBueXREY2RwdjJPa19oNzRtTXhQMFRzLTB2dkduZVRpbFc0SzFuNjF5M0VIWTdMeUFNYnh1dTI3WGFtQ1R2Sk40cW5nLVM2STY3ZF9SdnJpSFJJS3ljaW5aeFFrRkVXYl92UnlteHRzTW94aFozV1pfdkhOS0xGXy1zR2lQSzNsZXJZaGRYNW00bnJR?oc=5",
+    "title": "ＬＩＸＩＬ、一部建材・設備機器を値上げ 来年4月受注分から - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1VcHpiVkw2a1hpX0FaMGFyM2pCYVRjV1FReHFxRVdpR2VwOEhIeDk1UlFaNDNqQlo4cS1vSTY2WlRnTGtUR3VkWmFLT2J2MFFPMTYxWlVXYlZMdmo0S1czMExwc21pM29LLVBxUXJtVGlVVVRYZXFCR2Z6cUk3dGs?oc=5",
+    "date": "2026-11-24T07:39:00+00:00"
+   },
+   {
+    "title": "仏製薬サノフィ、米インスメッド410億ドルで買収へ 呼吸器分野強化 - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOSG0wSGdESjRPTGwwc0F3d2lEajl5N21iekpaMFlyeEVFeEpzcGFIS2hqSmJjOXhuZ2JWZV9GMmZUa2plaVp4QktMclczYWRyWmh5TmNiZS1aRUF3aUlrLTF4aG01SXM5NEN6a25nckNJaFJZTFNFTUZ2T054WlR2QWdTOXkzeThYNldTOUNTeUNMUQ?oc=5",
     "date": "2026-11-24T07:24:00+00:00"
    },
    {
@@ -227,24 +272,14 @@
     "date": "2026-11-24T07:20:00+00:00"
    },
    {
-    "title": "814.SS%5EC94 - | Stock Price & Latest News - Reuters",
-    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQzNibVRoUUZmZjJYMmgwVTZodEo0cEw1Zk1qUmN2SDgtTk9HMVdJRzN4NjRsdnNrbjdnU0Z0YmJVMHYtX2I4cnlZMmRFU201ZV8xWGVVdkYzYzZkb0hMQ25QdHlIQ2lEVC1QT2VCQ0hxVm8yWDJLdDZER2V5ZjdvMWZlUmZULU5CZDJoQ21ITQ?oc=5",
-    "date": "2026-11-24T07:12:44+00:00"
-   },
-   {
-    "title": "013120S.KQ - | Stock Price & Latest News - Reuters",
-    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1YbVd4cmdNNExwUW52SkxXYXFDTzVpZm5zTE0xcnhWZzlTVUtVODR2a1NSUXUwS3pQOVlhODJ0aUJhbGxoWnBNdlNYMnc3Ym5MeWc0UGdCaFpKNmZ3X0tmTmkyekZDdnNJS0lCclBZc2Q?oc=5",
-    "date": "2026-11-24T07:10:31+00:00"
-   },
-   {
-    "title": "300315ta.SZ - | Stock Price & Latest News - Reuters",
-    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1DdDIxemJsalFNeURueU5haW9OVEY3dGtIR2VmMzlxZmhvcy16SlhzUVpJbE9sLVBYem42NG5SaHRGcDFFeS15cmFpX3BqSTRIZmlGWXN4STdzNEpWVEtSdUl3QzAxdFBGZHQzM2lJdmFnMG9CVlNF?oc=5",
-    "date": "2026-11-24T07:06:35+00:00"
-   },
-   {
     "title": "ＩＣＣ分担金を年内に全額前倒しで拠出へ、高市首相が赤根所長に伝達 - Reuters",
     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5wYkdwS1lBNEctS2Vxekc0am9EOG1CaWhZTHYtUmd6QmtzWmVOc1YzVUlVZVR5bTVHd3o2aWZreVVsZlF6cU11ekRuRFhKOGlhbkp2alRJbnl0MW5vQXJWSzlUU1MxVlJreTVwVXRFa2hMcWdWbm43ZUc1bUk2a1U?oc=5",
     "date": "2026-11-24T07:06:00+00:00"
+   },
+   {
+    "title": "東建物が固定資産取得、2700億円 渋谷2丁目西地区再開発で - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1MSk9saV9iUldqS1gwa09Eb0RHckRsbDBwWHNQdVpEQTREaWV0Yk1CTTRPanFhMm54VDl1aWtxM3VyNEtLWm1TUHpld29Nc2pYRnlobnJ2RW8yd0xNb0tvWmVLVUkyaklrMzlKR1lRWXl2T1RhZDVBb2hhTWxUeG8?oc=5",
+    "date": "2026-11-24T06:59:00+00:00"
    },
    {
     "title": "日経平均は大幅反発、エヌビディアＣＥＯ復帰受けた米株高が支え - Reuters",
@@ -252,13 +287,8 @@
     "date": "2026-11-24T06:54:00+00:00"
    },
    {
-    "title": "ENPH.S - | Stock Price & Latest News - Reuters",
-    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNNGp3Zk1POGZrTkdPZ04wcUsxekJsdmM1V0dXeGJNM3FWLWExRkQyS3lPNUpFM0VvWmlOWHNpNTRQVFROUzhBRkI1SFVqZEFqRjhLdEZmMU81NERVaVZsaTNIczVaeng5Mlh1Sk1vc1UzX0dzTVVObC1GenBxYzJUbTF3eHQxbTMxZkE?oc=5",
-    "date": "2026-11-24T06:53:13+00:00"
-   },
-   {
     "title": "アルメニア、正式な和平協定締結へ新憲法草案 アゼル側も歓迎 - Reuters",
-    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPdVJfbjV0dkVMbU5Bcml4allYd3ZKX1FydzA3ZUliWVluSk5iVHNPOWV1MEFmUW96ZmFDdTYwNS1aY0xoUTVzNVRvOVdMaXJuYjgwRHhBUzl1bVZ3TG5obDZFcU94WFVZeW1WOTVPX2VkMkpLV245NzljOTNQcXJvajZZWFRLVEE?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9lT0VUMkw4aEZSd19UT1VySjIzekVlcDFmQjhsYmVORGxKN2ZPQ3NsQ2puSnRFTjZ0UldsRTR2WGdETUFheGlaYWFfYlcyQVozTzJ4TEZ1UU16NE8wanBfRFJvNXNmQlNGWHJTM1pjNkw4WmQ2UDNYREJTdWpoNVU?oc=5",
     "date": "2026-11-24T06:50:00+00:00"
    },
    {
@@ -267,14 +297,24 @@
     "date": "2026-11-24T06:41:00+00:00"
    },
    {
+    "title": "午後3時のドルは159円前半へ小幅高、リスク選好の円売りは弾みつかず | ロイター - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1YampKcUllRzZPVUxuMEFDcFlybWxGTWx6ZzM1LWpUQktQRnBYdXdIYTVMY2dYc2VUcExCdURYaTBWR1BBN1FWZGNUVkpWN0hwajk1UVhuN044NkNzSDY2WVVOSzUtUVBnakNwdGF3THRxS3BiUmtnMWFSRmFMdw?oc=5",
+    "date": "2026-11-24T06:20:00+00:00"
+   },
+   {
+    "title": "10月スーパー販売額1.4％増、気温高く衣料品は不振＝チェーンストア協会 - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNbWczZGN2eUVwcmpWUnFPQWdBV1h4Y1I1MF9xa0RybXd5WHFkajJYOUFlTzZWSzZMUm82YWx3V1RKeUlheTBqOGdZalMxY2FOU2p5bTF4UzV6bGZ0NjRCdWt6eVc1TjBiTTdJN3BwUjZvR0hHZDAzREZGMU1ncE9PTEExX1Jkdw?oc=5",
+    "date": "2026-11-24T06:16:00+00:00"
+   },
+   {
     "title": "10月の欧州自動車販売、ＢＥＶが引き続き押し上げ | ロイター - Reuters",
     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPUTVVOFMyLVNuNWZBbGRaZnNGVU1FaTgtU0FvOTg1OEtONkRpR090aGhWNjFzYzRGTlpjVWNnOFRHNnRDN2JQQ0gxMzZSaFgxWXdnSWR1cWE1ZDQ5Zi1vMlNXMHN5Wkg4aWRRMk1nXzRWbGptSVBJVDYwbUNnRFBNbDJrNnhvQQ?oc=5",
     "date": "2026-11-24T06:02:00+00:00"
    },
    {
-    "title": "TBLol.TZ - | Stock Price & Latest News - Reuters",
-    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9mNHV3WVZ3bHFndTYxVi1fUVkweGliNU9YN0piYVZja1lwUXl6Y05KSjdxLWNEeWZLRVduS1ZDd2V2QVRwNEFwRE5tNzBySmJMVGlmd1RpVnNDZ2V0UXRKOWtNSVM?oc=5",
-    "date": "2026-11-24T05:49:35+00:00"
+    "title": "コラム：ＦＲＢ利上げの見通しとＡＩ経済、米国出張で見えた強気派と慎重派の議論＝井上哲也氏 - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTjZPd3dtOGFnVHJZYXYwc1YycEtadDVQMHJiSXpldmZ3Z1lBOHZxd0VZcnBMeXlHY0Q5V1pjY01Hdk95VlhFazhuamEtdVp1ZEhqM19lSUp0b3ZvQ25iSGNMZE85cHJuNE9VeXN5TGNNUF9seGVpbjc4bWVkdXBma25DSGtua3dPMnF2RFJ3?oc=5",
+    "date": "2026-11-24T05:59:00+00:00"
    },
    {
     "title": "タイ自動車生産、10月は前年比35.2％減 洪水で操業に支障 | ロイター - Reuters",
@@ -282,62 +322,47 @@
     "date": "2026-11-24T05:48:00+00:00"
    },
    {
-    "title": "MKLHol.KL - | Stock Price & Latest News - Reuters",
-    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5DQk4yU2x5WXdTNW1CSlZhekRFY0w3elJ2RjY4aTNxZldibUdmUzNzSUJ2TVZNTmgzVTVpcHc2eEtQYkU1MzhwUVhZMGIzNUJXR3Q5Mjc4eDNvSXNtcVdYdEE0TnZYVHlXUDhWVnZlbw?oc=5",
-    "date": "2026-11-24T05:46:05+00:00"
+    "title": "ヘッジファンド、週間損失3％超 昨年4月以来の大きさ - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPNnZZNnphU0FEMFJ0NGZRclNkSjFuLWpURzZlbkpoTTVac2k0eUMySngybkZielA5d0IxS29yTFRwU1lsZ1ZhdzJINDhHOEFYS2ZuajBkODIyUmp2aUhybi16bGs5LVRhMENPVlFfTkNNTFE4SmJfZFRDdXk5cjBMQ0Mwazg0UQ?oc=5",
+    "date": "2026-11-24T05:46:00+00:00"
    },
    {
-    "title": "BSDEta.JK - | Stock Price & Latest News - Reuters",
-    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9fZnFMNTRpTFBkZFk2XzBpSktOQjdEUU5XMlkyNGI4T1BrZ3NXdklxT1NwcXhKY2dlRW9BQnkxNUhzNzBOeWdDc2NxZ2NmYlItajhfNDUwaGt3UHJlWHRWOVZaRmk5VTU3YVFyeXZ5ZVBoSXN1?oc=5",
-    "date": "2026-11-24T05:46:01+00:00"
+    "title": "サウジ、禁止解除の「ＧＴＡ」人気沸騰 皇太子主導のゲーム投資も拡大 - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQZ0dNeDVNOWhVajJOSnpxRl9PLUhCSGhDS2xjVU9Ua2ptQW0xTmd0VnRwelZXZjhLY3VFSF9BYlVnZWVtWHdrUVJ1UHZxOGJxQkdTZkpOLXpfaEVpTUEtemZiWjJaZU5EdVpsNmtvT2VtQUtqM0FwbGlqcXBNdGRtQnpLNWVNZw?oc=5",
+    "date": "2026-11-24T05:21:00+00:00"
    },
    {
-    "title": "EQR.Z - | Stock Price & Latest News - Reuters",
-    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBaaXJqNklld3JwUU8wME5FMDdqME5YYmxWSFIwVmNrOF9Mc0VmbzF4NkU4ZFBuN1FYTU5ENHc3T2JIVXFfYWJPZzVjdjd3UVdxdi1WZG1UdGw1RzFHbE1rWk1ZcUQ0UVRTVWN0NlB2bw?oc=5",
-    "date": "2026-11-24T05:39:14+00:00"
+    "title": "米メディケア、追加13医薬品の薬価引き下げで支出45％削減へ - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBmZWpTNzc2eU81YTJlaHNJZDk4bGcycGRjbXowazltUzh2TEtmcTJzWm84ZDVFNVJMR1duLTgzMVIxMkRzcVp0WU1mMzJYQWpFWVpwbkUxT3NNRVVvMUFGdjhwTkotRE1iRHNtZWtNUGJXU1ZvUmFJMDZFd1lMakk?oc=5",
+    "date": "2026-11-24T05:10:00+00:00"
    },
    {
-    "title": "HIAEt0.NS - | Stock Price & Latest News - Reuters",
-    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1IdVlLZUk2a3BxTkUteVFxeWREMjk5UGFCNmwxSTJ3Zk5hUUVQSllUdW5URjFMV2t3MElMRk4yUWhvZGVLRmpPVGVSbHlpbkY2N1c1Q1hPY1pVU1gtbjFoUldpNmJrMEFWMW1FZ09SeGRHSGEy?oc=5",
-    "date": "2026-11-24T05:37:16+00:00"
-   },
-   {
-    "title": "VTX.NED - | Stock Price & Latest News - Reuters",
-    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9DSXE5UjBIR2hrSjRUem9GYkdYUnpmc2NRMF9BMy1Nc1BKN3NBcHl2LS14NUdDVDcxYXBmTTlkQVRhYXZUUFlId1lPT1VtMmNTczljNWpfOFJDN2J4UnFGSTMwQWZJWXpoR2tsNGNveHQ?oc=5",
-    "date": "2026-11-24T05:21:40+00:00"
-   },
-   {
-    "title": "3948.CHJ - | Stock Price & Latest News - Reuters",
-    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9BenlPdEYyWHc4UFRZY2w4c3IzLVBOaDlhVlJXVUtIQ0l2Z0lfLXpINGt4eEhZdUhXeHZwTXRGTlBMMWZ0elp1VlpXeS16TmJZZFVVNGhpcEcxU3dPNTdPTlI3ZDgzYXBjVDNxREh3?oc=5",
-    "date": "2026-11-24T04:52:04+00:00"
-   },
-   {
-    "title": "焦点：米年末商戦、衣料品からスキンケア化粧品までＡＩツールで値引き抑制 - Reuters",
-    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPdVRnX2xCREV0VGN1YktrMnhETEpXcDFMZy1GeDVNYTRtdkhnSllzOWVvNkdnTEhaWTRrVHVWMVg2M1llUGpLVE1QWG9TZng4X0x4TlZaUW5GczBIQmRaN0hyWGw1dzdQYnFhVWd6eWI1OHl3d19GcW1aZzhueXQ3RElFRnRjUGo2aDZRenlzTXRFUQ?oc=5",
-    "date": "2026-11-24T04:38:00+00:00"
-   },
-   {
-    "title": "BLBDxq.L%5ED06 - | Stock Price & Latest News - Reuters",
-    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPdHNad3dsU2xZYlVNVVRKUDAzSTN3b1d2UmxXZl9NWWd6NW05YXl5bnNQLW9LZHhZSXJxNDV6QUdGTFhFN2JiSHNRM3pQY0w3WEs3bklxejJZaXh1NjhNR29TREVENkRrejRwRE5jdVJ1VWN1bG1QWnp0NlZOdmgxOTctdllodw?oc=5",
-    "date": "2026-11-24T04:36:18+00:00"
-   },
-   {
-    "title": "BEMPY.PK - Reuters",
-    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1lSFlDVlVQWVNRc1pwMzB2bzZyV2szV2FNUjBQb1VHbzhuRHNtMk1zQzNaRUxTSktWcWRyRlI5YTIyaTRWUXlMMmtsaW1aallBTzlJUDhqemx3WmxURDRia2ZQQzNkdWhFTFpnRWRvNHFfVjNMMF8xWEhzN1VEZw?oc=5",
-    "date": "2026-11-24T04:35:09+00:00"
-   },
-   {
-    "title": "BAACqf.BO%5EJ20 - | Stock Price & Latest News - Reuters",
-    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZ05BNlZoZmlUaVhqd0hzN0NSdk1UWGVBWklHd19yWGFHN0dyQktfYnBWWDQwV1VIYzVYS2M2Vnp6eHZ4emk2Z1R5ZDJqb1NxcS03NjRsbXZQTlFodm9MWk9NNm10d2p5NzlRLUJwa2NDZUxDZExqQ1E5RzZfQUtLNW5Mb3lXajZqU0ZlTlFFUTdKdzg?oc=5",
-    "date": "2026-11-24T04:33:39+00:00"
+    "title": "フアン氏のスピード復帰、「キーパーソンリスク」がトランプ氏動かす - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1NTTdjczZJU19OWkxqQTBxcG9uN0Q1UU1ZamFJU0tScVZWVGY3bXpSOXdSbHRxLVRlU3VRMmdGZmxKNGU3N3VFbkxHVDd2UnpKMko5aHFOcmpvVHFFR0lMX3NxVjdGajIzdEZNRllsV2NyR25PSHFobVJ3ZnYtcUU?oc=5",
+    "date": "2026-11-24T05:02:00+00:00"
    }
   ],
   "WSJ": [],
   "日経": [
    {
+    "title": "ウクライナ、地中海で「ロシア軍艦撃沈」 リビアで海上ドローン攻撃 - 日本経済新聞",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9YN3NoSVJIUXdhSzVTSjVndFpvVFQxb0I3ZmlhS0pxLWlFaWpPU0lyT0djRC1rdzlKcGltd0d0YzdEVG9DMF9EOS1hUGEzWEVxZUF2OFdGbGpBTzRCNF9WVUtsRnB2TUI1Ql9VVw?oc=5",
+    "date": "2026-11-24T12:32:58+00:00"
+   },
+   {
+    "title": "ファーウェイ、25年の特許収入3割増の1300億円 AIインフラに注力 - 日本経済新聞",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9YcnJYMlJ2U3dNNnR1bm9rcllvLUxrMHdkUFBGTWR2RzlhWlptc2lDMHZQUnNOdGhOazl2SmJGeExNOE82MnlFMjBrU3ljS2xFdlR2YmgxZkpuQnFKZXdsd1VyODVNMFZacXRUTw?oc=5",
+    "date": "2026-11-24T12:10:17+00:00"
+   },
+   {
     "title": "EUがHVに緊急輸入制限 中国との合意受け12月から、日本製も対象 - 日本経済新聞",
     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBaQVI1TkN4VTd1VzJLeGh0YzZhWFFCSVZkQjlpb1F1NkROTG9kUnk4STlhQUxTMVRuVEMzVkNkU2lLU3dmY0pVSEpzcGlCX3ZFMkJTZWFMdzN2dGY2N0kxUHVYV0tJTmVEZlE5WA?oc=5",
     "date": "2026-11-24T12:00:00+00:00"
+   },
+   {
+    "title": "高市早苗首相、2次補正予算の編成を指示 「経済対策伴わない想定」 - 日本経済新聞",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE03NmQ2U3JDTE5oaEdrZWJzYXZXTXRzcjc0T3BRZDZvbzhSZ2h3aDJhdmpfQnphRVNjNXhsQTJ1ejY3VzlkZlM1WmdDMlFSdnlMdURfY3Z0Ul9EX21iRGJsVVR0dFpXYXBhbU96Sw?oc=5",
+    "date": "2026-11-24T11:53:59+00:00"
    },
    {
     "title": "決算:楽天Ｇ、社債発行見送り 最大1500億円の永久劣後債 - 日本経済新聞",
@@ -345,19 +370,14 @@
     "date": "2026-11-24T11:20:47+00:00"
    },
    {
-    "title": "都心の中古マンション価格、13年半ぶり前年割れ 金利上昇で退潮 - 日本経済新聞",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8wNjNYejMwWFlnZVNpTVRDUzVHQXpPWDJPMzV2UUtTY3Fwc1VXQnd6QmJ3OWtGUFZUV3pVOG90YVdydjlHVUpGQjhiQzhyeWJYcGttQm40ekQ5MG9YTnhMVV9wS3lLT010NFU5aQ?oc=5",
-    "date": "2026-11-24T11:09:05+00:00"
-   },
-   {
-    "title": "トヨタ、タイで二輪駆動のピックアップトラック 車高低く燃費も改善 - 日本経済新聞",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBMTnJHanRqMFRBMFZjMlU3OGQ3SlhrUTdGa0hYbFY3M2hKUVhQMDdoelRFSGxpckdJZ1lwTFhNSElXeGMwYUpGNUdqaTNYdWNWLVZUOHpxU3RQUDVQUzFNcG9Eb1FMZ2JaM3NIRg?oc=5",
-    "date": "2026-11-24T10:54:31+00:00"
-   },
-   {
     "title": "所得連動型給付の対象拡大「非常に強い懸念」 経団連会長 - 日本経済新聞",
     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE14RFR3dEg2ZEFDV05VMlJzcVBTUk13Q1lCZXlPTGNidU43N3pXcjJ6SkZrczV3WmFLM3BwNXNHVTl0aDVpd24yWFU1Wk1ESTE5emh4MkxtNTZQSnYwNHFWcHVsYXdjV0dHWWxlMw?oc=5",
     "date": "2026-11-24T10:53:32+00:00"
+   },
+   {
+    "title": "関西同友会の長谷川代表幹事、訪中団「関係構築へ経済界の役割果たす」 - 日本経済新聞",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1iLVdDSHczN1J5d0tlbDZORUZNTjZKclNLNjVtX2t5cUotbzd0X1BUQ2FXRTJ3ODNPX1Roa05CNlJ6aFc4MXc2ZlRzejFGaTBYeE1zSzNvYmNqRU53ZVQ5cmJfaTludW54cDU2Ug?oc=5",
+    "date": "2026-11-24T10:45:33+00:00"
    },
    {
     "title": "クラボウ、半導体製造装置向け樹脂増産 45億円投資 - 日本経済新聞",
@@ -365,8 +385,23 @@
     "date": "2026-11-24T10:28:53+00:00"
    },
    {
-    "title": "海外居住の高収入役員に課税強化、所得税率20%→30% 政府・与党 - 日本経済新聞",
+    "title": "「高市予算」市場の信認探る 注目は国債発行額、特別会計規模も焦点 - 日本経済新聞",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA1dWE2Q3RoZ1VfLTNaTEpOczdtcnFLVzRJZnB0S3A0QWd3ajFSZGtlU1ZkeEs1bXF2RHBoTFhzMzJ2RGFfOW1FUUprZmNzZUdRT2Y5bE9uaE1GRU5qVHFxdHNKYzV5SWtYamxGNA?oc=5",
+    "date": "2026-11-24T10:21:03+00:00"
+   },
+   {
+    "title": "スペースワン、ロケット「カイロス」4号機を27年1月22日に打ち上げ - 日本経済新聞",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1MRjYyNXNfaFJ6UXItbmRIV3lDWmd2SmxyMmFTbjdjUzQ0cnRwOHNBVnVRRGs5azdXOEdkMFpudm5Ga2szM0pJV0FPamd3T2t5dmZ1U2FNQUNUazh2a05XekozYVA1dXR5YXVHcQ?oc=5",
+    "date": "2026-11-24T10:01:58+00:00"
+   },
+   {
+    "title": "【2027年度税制改正大綱】海外居住の高収入役員に課税強化、所得税率20%→30％ 政府・与党 - 日本経済新聞",
     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE11dGQ0dERqMXFHV2FGT1lrbVRWTkRudlJvenI2cnhtTHBSSHQ4RkZaNUlmVmltMGhiZ3Zyc1J2OXQxV1FOaTllSEJfeGlRVmFVQVdpQTJiN2VtQzliWno0TlVtLTFzRUJZRGJnVg?oc=5",
+    "date": "2026-11-24T10:00:00+00:00"
+   },
+   {
+    "title": "ドコモ系シェアサイクル車両刷新、まず広島で 料金・ブランドも - 日本経済新聞",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4xWTZfT2ZXU1R3WlFjS2s0SHJuMF9XREVVeTFFRUdhZWhEWUhoVU5qcVhoNGZhTi1oNXZQNGdBNEFtblk0ZjFWakxGdHJiOEZ6bW9PU2sxdF9LTjlteXdNYjVKajBMZXp3TGZiZw?oc=5",
     "date": "2026-11-24T10:00:00+00:00"
    },
    {
@@ -385,11 +420,6 @@
     "date": "2026-11-24T09:55:39+00:00"
    },
    {
-    "title": "テレビ番組を2040年めどにネット同時配信 総務省提案、山間部念頭 - 日本経済新聞",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5XZVZuUnItR3U0UzI2WlRtdG8yTnFJNkJCRzRvX25EbTgzWEkzR2JqUmw4N1lWUGV5em53Y3U5VVIxQmFHN05UbDF6Z3RJREszTlJXelU0UXRVT3FtRkN4Y3RlZklmM3FfRlBoMw?oc=5",
-    "date": "2026-11-24T09:51:56+00:00"
-   },
-   {
     "title": "日経高配当株30指数のETF、東証が初の上場承認 - 日本経済新聞",
     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9xZWFxMVk1VWFGSDJuSE1NSHB2UVRONjBBQ2JoVlZXWkw3M2lteDhsMy0zYVpoRHRoanZKRk1sSzNySldLa1Z2eG5wNUprc0JhRVh5VUdNRXg1ZU1JWEJiQXpwQ2l4STVSSVdUUA?oc=5",
     "date": "2026-11-24T09:51:26+00:00"
@@ -398,6 +428,16 @@
     "title": "子ども向けSNS対策、企業の報告義務・罰則軸に 年齢制限に慎重論 - 日本経済新聞",
     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5hTjRlNlpfN2NtUzlUOU9JcFlMdUkzS1ROeUEyVlh0S2g5TUlHcGtiTFZBbEtoWUVWVTJ3aFhualUxcWlfRGV2QXRuQ1NfN3JEZTFSMmZuVF9vbk43XzFzNnhQMVd4NkNYUXRwNA?oc=5",
     "date": "2026-11-24T09:44:07+00:00"
+   },
+   {
+    "title": "ホクレン、27年4月から「季節別乳代」導入 牛乳の需給改善へ - 日本経済新聞",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE50cm1yNHlJVk9JR2JtSFN6Zk50N1lkNUQwN1ZqTnY1RGt6aXdBYjUwYTFOUklsRm15Nno0SHNvQ3RjcVlzNzQ1Y1hiTmFhbjhFa0RpSlNXZVUwaDU4bUpMR3MtaDZaVzJoYjQ5WA?oc=5",
+    "date": "2026-11-24T09:30:38+00:00"
+   },
+   {
+    "title": "ロート製薬、目薬など51品値上げ 12月1日出荷分から5〜21% - 日本経済新聞",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5fWlE0X0lRdFhaU1h5MG9UUFpDa2ZBbHJMTDY5ejFxMHVoTjAxbHV4dm5BQjk5dzFlRTRiYVgyWDhxQVo5UXBXQXBWOVp2bFl2Vml3eVJwZ0wtZXRROEYzNlpiV3p1dW1KeklRbw?oc=5",
+    "date": "2026-11-24T09:30:35+00:00"
    },
    {
     "title": "京王電鉄、最大1108万人分の個人情報が漏洩 顧客パスポート写しも - 日本経済新聞",
@@ -410,9 +450,9 @@
     "date": "2026-11-24T09:30:00+00:00"
    },
    {
-    "title": "大阪・枚方女児死亡、市長「対応に問題」 12月に検証会議設置 - 日本経済新聞",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE80Z0dRZlZqcV91TmYyNFpZUTBlMXpYc3B3dklWWkhpRlg4b0kxUDR3RmpZOGxvcnlVekJTRUdaUmxOMXZWTVJhZjYyeXJwaWVycTByenZvN2RnSlF5T3VSM2UySnZtOU5LZjFtSg?oc=5",
-    "date": "2026-11-24T09:26:08+00:00"
+    "title": "京都国際マンガミュージアム20周年 松井市長「京都が誇る文化」 - 日本経済新聞",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE05QXNzR1JBRE55NVdJb1ZqM1BEd1lEaXRLdGFaQkpJR25uQXp6V3U0M3VlLTVGSkRXdnJOWDdlcmFzekd2YVlzdVhfNVN6MVdXZVRvVDk0UjVNbTdmYWg2RVZwcWR5RFFHV3hPSg?oc=5",
+    "date": "2026-11-24T09:17:22+00:00"
    },
    {
     "title": "ソフトバンクGとオープンAIの出資会社、AIガバナンスの国内認証取得 - 日本経済新聞",
@@ -420,54 +460,9 @@
     "date": "2026-11-24T09:15:57+00:00"
    },
    {
-    "title": "オリックス、滋賀・米原に国内最大級の蓄電所 134メガワット - 日本経済新聞",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBiUTRuQ3hOaWQzV2xyQm9CSm5wNEh0YURSNjhjMGlBR0RuNFExTjAyUjF2ZHBuam1JdUR3THZLUTNVOVZXbHk2WGM0MkpxZWhfZkVEazBKd3JYZEZPN3NMLXJINUxzT2t4cjAxWA?oc=5",
-    "date": "2026-11-24T09:05:05+00:00"
-   },
-   {
-    "title": "パナソニック系、自転車製造で53年ぶり新棟稼働 大阪府柏原市 - 日本経済新聞",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1UT0x6NXRjWkJWYnZLYWVDV2RJWm9HX1pvYVBHcGRYcmMzcnF0SXpaaVNXMW1lM1NyeHB4djJNXzVMZEloRURWb3NjdGhZTDRPSlJCdHhERzNmU0FFcGRINm1CT3hlaFhHZWlDbw?oc=5",
-    "date": "2026-11-24T09:00:01+00:00"
-   },
-   {
-    "title": "茨城県常総市データセンター、工業団地隣接地の33ヘクタールに建設 - 日本経済新聞",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9lV05sUHJhelBSNGNzRTBWakxrRWhSMjRKYXd2dUdWZjFRamJrT2hZeVdwd05BdGpjTjdTREFuSjIxY1h6ZUsxWEFrenNnbmZVQ0c0TDJYNmJLTURSeUx1bVNTRzd5X21iNnNCaw?oc=5",
-    "date": "2026-11-24T09:00:00+00:00"
-   },
-   {
-    "title": "日経電子版のAI機能「Ask! NIKKEI」 検索画面でも利用可能に - 日本経済新聞",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE01cUYzdnZwLUJVNjZuMmIxWnJEWXI5dHhjZ0c2dWtsbHA3VVhpNUhEVk1mbjFLdEdWbmdEWFlWNlpfUWh1dkFHRHByV0Zrck1iSXJhQmRidnUwS2FrOFRxM1NTazVGOUZQLXBaRg?oc=5",
-    "date": "2026-11-24T09:00:00+00:00"
-   },
-   {
-    "title": "外為17時 円相場、反落 159円台前半 株高が重荷 - 日本経済新聞",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE55eXllb185cy1neUJhZXVRRWw5aGE2N1hfR1BDY2pKN25MWDFBNFRMSGNGRVRyd3I5LTRiRXA1RHVQMWJfdVBjSFUxZThlZGtuVGU5Ukl4aFVjdHZxdXVsTlZfQ0ZPdFV4RGJzUA?oc=5",
-    "date": "2026-11-24T08:41:53+00:00"
-   },
-   {
-    "title": "住友商事、バングラデシュ初の地下鉄工事を受注 900億円で線路整備 - 日本経済新聞",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA0TVJNdFl3em1NZmdjQUtXWUoyLTd0RnhwMU1vM1JXd2NNZTVTdFdlS0pfbkhVZUVGVWUwbzA4Qk1hNEhzYS1sZ0MyeTFBVUxLdlBRN0FwQjREVHJHSFpPYm5acE5ibmY4UlNZOA?oc=5",
-    "date": "2026-11-24T08:30:00+00:00"
-   },
-   {
-    "title": "11月の月例経済報告、個人消費「足踏み」 景気全体は回復続く - 日本経済新聞",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1IRGhhMXJVRG0tQzlNbkM1YXFLZFZIeVpjUGVKRmNKRXNzODNzN0l5S2lTTm9CdGhhYkluZGZUd29GSkYzd25udTZ1d2RkYWVhVkYxVXFHM1FQdWVjSEt6ZkJnZXgxVTd6Wjc1Wg?oc=5",
-    "date": "2026-11-24T08:28:51+00:00"
-   },
-   {
-    "title": "富士ソフト、運用保守でニューレリックと協業 5年で売上高70億円 - 日本経済新聞",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAza05qT3Znb1FkTF8zamFSel8wamdoM0dlZF9xS01YRW83T25VTmRVNThnNnVQWnNadXBzOWFZaVh2V2FwdUNpZGQ1YWQ3eXpTT0IxRlBGd0Rsc2lhWUZrUlR5SmhzUkJiZ2xlSQ?oc=5",
-    "date": "2026-11-24T08:28:50+00:00"
-   },
-   {
-    "title": "東レ、炭素繊維の増産を検討 航空機・宇宙用途拡大で - 日本経済新聞",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBhVUxTbTVLZExzX0lZX2VZMGp1SHU4ZHJXdkpLY0ZPQmNBTGEzMmhxd0RmdUZVWG5BSU90LVRGZW9qZ01XSzliX2RzM2RDNHhOTmRmemxEMTFxU0tDVGFrdXQ2N2ZORW11RDZ5Nw?oc=5",
-    "date": "2026-11-24T08:26:00+00:00"
-   },
-   {
-    "title": "堀場製作所、同社最小A4サイズの成分分析装置 設置面積を3分の1に - 日本経済新聞",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1MVUV2emtpM1VFaENjbWdCaFp0c1dMWWZJR0xhcFVmYWZmWHJ5Q2t3ZVI4WmNFYjVsNzZHQ3ZGSW5nd3dObjVTVjMtTFhRM044Qlp1VnB0SnJTOFFxVmtIWTEzU1E2TUJCRDZkNw?oc=5",
-    "date": "2026-11-24T08:11:21+00:00"
+    "title": "しなの鉄道の4〜9月期、経常損益8090万円の黒字 - 日本経済新聞",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9aVDhxU05qRm8wbXlUU3NGNGFhXzFSQWZTdmhpXzdPNDVlUXQyeGhMaExkYnA2MXoxT0V6TzlNODNnWFh0b3pKRC13VEdlMEJCaUhJWi01WlZVMm1tMU5odWk4cW5nd3pYdzhFdw?oc=5",
+    "date": "2026-11-24T09:09:32+00:00"
    },
    {
     "title": "ソフトバンク、「ITmedia」運営会社の売却検討 AI関連事業に集中 - 日本経済新聞",
@@ -483,6 +478,21 @@
     "title": "ソフトバンクG株が反発、英アーム大幅高で買い波及（24日の株式市場） - 日本経済新聞",
     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9vM1dfaUU1bkJESEd2UEM0dXZ4NnBhRV9NY0tKMHY5SHZYTEc4MWNuSFRlUDQwMV9zWjVfTW9PUGotbW45SThfcm00SXpHVHAyYlN4MzJhU0sxdTVocXNtSkRuWDhLSjdPNVFVSw?oc=5",
     "date": "2026-11-24T07:30:00+00:00"
+   },
+   {
+    "title": "配車アプリのGO、顧客情報2万件が漏洩 委託先KARTEに不正アクセス - 日本経済新聞",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1TYklNUndWLVphNzI3VndCSlNRZ2hRUy1qQ0Z3V2VZLUZIQ1RPWFVOYVZqUDNsWHdsVzI1ZHdDYXdFVHVhNlNwNGp1VFFpeTFXQmlxNTA4b0FaZXJHc3NXMVlqZVVReDAtVDA1eQ?oc=5",
+    "date": "2026-11-24T06:46:56+00:00"
+   },
+   {
+    "title": "スーパー10月売上高1.4%増、4カ月連続プラス 長雨で野菜高騰 - 日本経済新聞",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE50anVPWEdhTGFlYWFjX2xQb1Utc0J5anpxWDkySGFMNmtRV0xQZnVhb3pCR2ZvR1U3UGZ4aEpNMGZqczBvWjNFbEFsakwzWF9qRF9peE93ZmYyc2JqZzJhQ3RRdVNMaW5mdXNtWQ?oc=5",
+    "date": "2026-11-24T06:42:33+00:00"
+   },
+   {
+    "title": "モスフード株、36年ぶり上場来高値 メニュー開発力評価の継続的な買い - 日本経済新聞",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE96eEZ6Yk9EZTA3dVg5TjNuZ2phSkxhS0NtaWZERnB1RDBmSk9FTURETzJjTk5lMnViV0cxRjUxbVM4bWdxaTliN0JGekcxeWJCcGNEeVpXSFZOZUtJRUJhZWdqZVFNRkYtcmFkbQ?oc=5",
+    "date": "2026-11-24T06:02:43+00:00"
    }
   ]
  }
