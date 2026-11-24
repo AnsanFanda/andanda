@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T10:09:32.987635+00:00",
+ "updated": "2026-11-24T11:23:33.948083+00:00",
  "tabs": {
   "要人発言": [
    {
@@ -63,11 +63,6 @@
     "date": "2026-11-24T01:23:00+00:00"
    },
    {
-    "title": "エヌビディアCEO復帰、トランプ氏「私の介入は重要だった」 取締役会に直接働きかけ - CNN",
-    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1oMjFGSGZMaXcwZEdtSGRBNHJ4OGhGazluTF93MkQ1U2dSY0tGa1psMW9KVFVEcEpaSjJzcUcyT1I5UnVmUmd5UFRBZkh6WkhyMjZYVzRINA?oc=5",
-    "date": "2026-11-23T23:24:00+00:00"
-   },
-   {
     "title": "エヌビディア、フアン氏のCEO復帰を発表 トランプ氏、介入を強調 - AFPBB News",
     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBoUC1QN2hsNi1ZSGdlUUpBX2NBaV8zNWtGUkpDZHIzLTRtem1MUVBwTHFZTkpSTjQ0WnZ1b0F1N19mckp4cXVjam9neXNGSmExRkHSAVRBVV95cUxPVVRnTElqTG1fR193Vjh2Sm9JMktBMjRENjZ3V25LRUF0TlhQSnUyS0ttMzk4Qm5QTmhPajhqVGpuWEFOdFJVS2tNR1JHVDhBY3RRNTQ?oc=5",
     "date": "2026-11-23T22:15:00+00:00"
@@ -85,54 +80,74 @@
   ],
   "Bloomberg": [
    {
-    "title": "Sanofi Agrees to Buy US Biotech Insmed for $41 Billion",
-    "link": "https://www.bloomberg.com/news/videos/2026-11-24/sanofi-agrees-to-buy-us-biotech-insmed-for-41-billion-video",
-    "date": "2026-11-24T09:29:06+00:00"
+    "title": "Nvidia Market Whiplash Far From Over, Says RBC’s Wu Silverman",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-24/nvidia-market-whiplash-far-from-over-rbc-s-wu-silverman-video",
+    "date": "2026-11-24T11:20:17+00:00"
    },
    {
-    "title": "Australia Aims to Sign Another Deal to Block China in Pacific",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-24/australia-aims-to-sign-another-deal-to-block-china-in-pacific",
-    "date": "2026-11-24T09:01:29+00:00"
+    "title": "Anthropic Breaks Below $83 IPO Price in Premarket Trading",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-24/anthropic-breaks-below-83-ipo-price-in-premarket-trading",
+    "date": "2026-11-24T11:19:24+00:00"
    },
    {
-    "title": "What Jensen Huang's Stunning Return Means for the AI Trade",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-24/what-jensen-huang-s-stunning-return-means-for-the-ai-trade",
-    "date": "2026-11-24T09:00:11+00:00"
+    "title": "Wallenberg-Backed Green Steel Startup Is Said to Need $2 Billion",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-24/wallenberg-backed-green-steel-startup-is-said-to-need-2-billion",
+    "date": "2026-11-24T11:04:53+00:00"
    },
    {
-    "title": "Odd Lots: What Huang’s Return Means for the AI Trade (Podcast)",
-    "link": "https://www.bloomberg.com/news/audio/2026-11-24/odd-lots-what-huang-s-return-means-for-the-ai-trade-podcast",
-    "date": "2026-11-24T09:00:00+00:00"
+    "title": "Forced Buying Aided Biggest Rally Since April 2025, Nomura Says",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-24/forced-buying-aided-biggest-rally-since-april-2025-nomura-says",
+    "date": "2026-11-24T11:02:40+00:00"
    },
    {
-    "title": "China Extends Pause on US Minerals Ban to Maintain Truce",
+    "title": "Grocery Prices Are on the Rise, Just in Time for Thanksgiving",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-24/grocery-prices-are-on-the-rise-just-in-time-for-thanksgiving",
+    "date": "2026-11-24T11:00:55+00:00"
+   },
+   {
+    "title": "Lemssouguer’s Big Unwind Offers Glimpse Into Complex Credit Bets",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-24/lemssouguer-s-big-unwind-offers-glimpse-into-complex-credit-bets",
+    "date": "2026-11-24T11:00:00+00:00"
+   },
+   {
+    "title": "LME Speeds Up Procedure for Listing Metal From New Plants",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-24/lme-speeds-up-procedure-for-listing-metal-from-new-plants",
+    "date": "2026-11-24T10:57:13+00:00"
+   },
+   {
+    "title": "Commerzbank Considers Partial Treasury Market Pullback",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-24/commerzbank-considers-partial-treasury-market-pullback-video",
+    "date": "2026-11-24T10:52:23+00:00"
+   },
+   {
+    "title": "Actuate to Invest $327 million in Spain’s Largest Battery Deal",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-24/actuate-to-invest-327-million-in-spain-s-largest-battery-deal",
+    "date": "2026-11-24T10:34:12+00:00"
+   },
+   {
+    "title": "Colleges Rejecting Fossil Fuel Divestment Enjoy a Rich Payoff",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-24/colleges-rejecting-fossil-fuel-divestment-enjoy-a-rich-payoff",
+    "date": "2026-11-24T10:30:33+00:00"
+   },
+   {
+    "title": "Pimco’s Ivascyn Says AI Disruption Risk Boosts Appeal of Bonds",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-24/pimco-s-ivascyn-says-ai-disruption-risk-boosts-appeal-of-bonds",
+    "date": "2026-11-24T10:30:00+00:00"
+   },
+   {
+    "title": "LME to List New Aluminum Brand as Historic Squeeze Deepens",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-24/lme-to-list-major-new-aluminum-brand-as-historic-squeeze-deepens",
+    "date": "2026-11-24T10:10:02+00:00"
+   },
+   {
+    "title": "Mercuria Hires Alex Humphries as Global Head of Fuel Oil Trading Ahead of Eni JV",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-24/mercuria-hires-alex-humphries-as-global-head-of-fuel-oil-trading-ahead-of-eni-jv",
+    "date": "2026-11-24T09:53:13+00:00"
+   },
+   {
+    "title": "Xi Delays US Chip Retaliation After Trump Seals Nvidia U-Turn",
     "link": "https://www.bloomberg.com/news/articles/2026-11-24/china-halts-critical-minerals-ban-to-maintain-truce-with-us",
     "date": "2026-11-24T08:56:34+00:00"
-   },
-   {
-    "title": "Chaotic Market Narrative Cuts Both Ways: Market Analysis",
-    "link": "https://www.bloomberg.com/news/videos/2026-11-24/chaotic-market-narrative-cuts-both-ways-3-minutes-mliv-video",
-    "date": "2026-11-24T08:51:53+00:00"
-   },
-   {
-    "title": "European Auto Sales Increase Again on Surging EV Demand",
-    "link": "https://www.bloomberg.com/news/videos/2026-11-24/european-auto-sales-increase-again-on-surging-ev-demand-video",
-    "date": "2026-11-24T08:40:56+00:00"
-   },
-   {
-    "title": "Sutcliffe: US Appears Set to Reengage With Iran",
-    "link": "https://www.bloomberg.com/news/videos/2026-11-24/sutcliffe-us-appears-set-to-reengage-with-iran-video",
-    "date": "2026-11-24T08:17:11+00:00"
-   },
-   {
-    "title": "Tullow Jumps 20% After Settling $387 Million Ghana Tax Case",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-24/tullow-jumps-20-after-settling-387-million-ghana-tax-case",
-    "date": "2026-11-24T08:13:11+00:00"
-   },
-   {
-    "title": "Is Nvidia's Rally Overlooking Risks Around Jensen Huang's Return?",
-    "link": "https://www.bloomberg.com/news/videos/2026-11-24/insight-with-haslinda-amin-11-24-2026-video",
-    "date": "2026-11-24T08:09:48+00:00"
    },
    {
     "title": "Hong Kong Hedge Fund Tax Breaks Offer Win for Pod Shop Stars",
@@ -140,34 +155,19 @@
     "date": "2026-11-24T08:03:36+00:00"
    },
    {
-    "title": "Japan’s Top Life Insurers Book $7.5 Billion in Bond Sale Losses",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-24/japan-s-top-life-insurers-book-7-5-billion-in-bond-sale-losses",
-    "date": "2026-11-24T08:01:34+00:00"
-   },
-   {
-    "title": "JPMorgan, HSBC Trade Digital Gold in London for the First Time",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-24/jpmorgan-hsbc-trade-digital-gold-in-london-for-the-first-time",
-    "date": "2026-11-24T08:00:00+00:00"
-   },
-   {
-    "title": "Dangote Clears Key Hurdle Toward Africa’s Biggest Listing",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-24/dangote-clears-key-hurdle-toward-africa-s-biggest-listing",
-    "date": "2026-11-24T07:39:48+00:00"
-   },
-   {
-    "title": "Compass Plans New York Main Listing, Adding to London Exodus",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-24/compass-plans-to-move-main-listing-to-new-york-in-blow-to-london",
-    "date": "2026-11-24T07:11:59+00:00"
-   },
-   {
-    "title": "MSCI Says No Change in Indonesia Market Consultation Process",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-24/msci-says-no-change-in-indonesia-market-consultation-process",
-    "date": "2026-11-24T04:13:48+00:00"
+    "title": "Treasuries Advance as Cheaper Oil Eases Inflation Concerns",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-24/treasuries-advance-as-cheaper-oil-alleviates-inflation-concerns",
+    "date": "2026-11-24T04:42:33+00:00"
    },
    {
     "title": "Temasek-Backed M1, Starhub Merge in Singapore Telco Shakeup",
     "link": "https://www.bloomberg.com/news/articles/2026-11-24/keppel-agrees-to-merge-m1-and-starhub-in-all-share-deal",
     "date": "2026-11-24T01:07:27+00:00"
+   },
+   {
+    "title": "Gold Edges Lower as Investors Weigh Fed Outlook, Equity Gains",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-24/gold-holds-gain-after-nvidia-s-rehiring-of-huang-sparks-rally",
+    "date": "2026-11-24T00:06:57+00:00"
    },
    {
     "title": "Latest Oil Market News and Analysis for Nov. 24",
@@ -178,28 +178,23 @@
     "title": "Stocks Turn Lower as Nvidia Euphoria Wears Off: Markets Wrap",
     "link": "https://www.bloomberg.com/news/articles/2026-11-23/stock-market-today-dow-s-p-live-updates",
     "date": "2026-11-23T22:06:46+00:00"
-   },
-   {
-    "title": "Woolworths Investors Reject Pay Report in Shareholder Rebuke",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-23/woolworths-investors-reject-pay-report-in-shareholder-rebuke",
-    "date": "2026-11-23T15:45:38+00:00"
    }
   ],
   "Reuters": [
    {
-    "title": "片山財務相に26年度2次補正予算の策定を指示＝高市首相 - Reuters",
-    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNR3pFLUc1LU1PUVdyNzFfMzFJTGx0Sk14czJPUHROZmlpemROU3hKUnBuQWZCTHljMjAxOWlidjlFaEFUUnQ1bHBuUmUyYXlnNl9YLWtyRTJicF9JYkNjMzlfb0J5OW9zNHJqQ2hUaGZhSWgwaEdmeHdSQjNXeGZfZmNUVQ?oc=5",
-    "date": "2026-11-24T09:51:43+00:00"
-   },
-   {
-    "title": "独ＩＦＯ業況指数、11月は90.6に上昇 予想上回る - Reuters",
-    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPNVpzYWx3bEdfWnYzU3ZlS2ZxNzFlTlpnT3k2ZElfbmF0U1ZTcmF1eVpZb2o2REZJMTNaeU5HcDZaRWlDaGNEQTNaTU90UElsaDR6Z0x4cmh1SG5JdVJ1djE3Rk9sOS1qVnJfMHhVMlJpd096OWc1Unh1TkJDQmRabDdsSUU0SzgxMlE?oc=5",
-    "date": "2026-11-24T09:31:43+00:00"
-   },
-   {
     "title": "インタビュー：日銀は来年2％まで利上げか、経済・株価絡み判断難しく＝安達元委員 - Reuters",
     "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB1UGVsa2Mta3lfZFBnbmlERTJvcUR0Rm5DV0ZQeWUtWG02VkxfTzRaaWlXQU9BSFVGYjczdTBmb2FuVUlaV185V1BHVW5ZZjRZYUFKa1E3MEZ1aHgtejlsREo3aDN1eC12RllXel9IV2NuWUhZdk1lSzNmeElKUQ?oc=5",
     "date": "2026-11-24T09:29:43+00:00"
+   },
+   {
+    "title": "ガザで2件の空爆、パレスチナ人6人死亡＝医療関係者 - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBCcEFNR3ZmMzd5NlA5VmJRV214N0xIWjh3MEYwOWVteUFZcGY1bHNlWUEzNk9aLWVZdzY5eGp1cU00XzZjU2VJQU0temFBV2w1NHdYalB3ZjQtZTRtOV9LWjVSeWVJTVhFMERVWmhkMnlqb0czZWJjY0ZvYlRyQk0?oc=5",
+    "date": "2026-11-24T09:11:43+00:00"
+   },
+   {
+    "title": "TRIl.TRE - | Stock Price & Latest News - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE15eDEzeDdKQjlrdDJRZ2RrYm9BZDF2Nm5wMXQtVVpqamhwS2xqNFU2VGJRZFpEaFNTTi1iRXNTX1NpRHY2NG01dGRfTWlQV2tJU1N1LWoxSEV2U0JQOFRZWmVqYkZ5dkpCQmpVRDl2N1hkUQ?oc=5",
+    "date": "2026-11-24T08:21:57+00:00"
    },
    {
     "title": "基調判断の表現変更、「総じてみれば」追加 個人消費を下方修正＝11月月例報告 - Reuters",
@@ -207,14 +202,14 @@
     "date": "2026-11-24T08:21:44+00:00"
    },
    {
+    "title": "4928.JSFx - | Stock Price & Latest News - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBiNTlIaXlibmZxdDJGXzdNYjNjamJjZ3BQVGxvZ1diQlR6U1FWYUh2d1JmeTYyMlAxMFE5MGJjbFpJMjZsWXRjMVQ1OERjUzg2RWUzUDlVSlpSN3R5czFWV2lVVEs5VlAtckNCSmdFaw?oc=5",
+    "date": "2026-11-24T07:49:14+00:00"
+   },
+   {
     "title": "インドネシア政府系ファンドの投資部門、今年の利益は目標未達へ - Reuters",
     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQcDhRN2hUSi1XSm1mUW4wNjczeUhpSkpkRUZtd29NemV4RlBGTTQ5azlCRmNmUm9DV1gwMUthSWRhTGZkUVJQUUNqOGYzZ2RNWkZ6WUhrdWlwLWp3Z3E3TWtUWHBZXzU0RXZlSG9GSHduZXl4SkJiS1ZWS0JUTFBDRmVLNTgtYk9maWdXQTh3?oc=5",
     "date": "2026-11-24T07:48:00+00:00"
-   },
-   {
-    "title": "ＬＩＸＩＬ、一部建材・設備機器を値上げ 来年4月受注分から - Reuters",
-    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1VcHpiVkw2a1hpX0FaMGFyM2pCYVRjV1FReHFxRVdpR2VwOEhIeDk1UlFaNDNqQlo4cS1vSTY2WlRnTGtUR3VkWmFLT2J2MFFPMTYxWlVXYlZMdmo0S1czMExwc21pM29LLVBxUXJtVGlVVVRYZXFCR2Z6cUk3dGs?oc=5",
-    "date": "2026-11-24T07:39:00+00:00"
    },
    {
     "title": "仏製薬サノフィ、米インスメッド買収へ 410億ドル - Reuters",
@@ -222,19 +217,24 @@
     "date": "2026-11-24T07:24:00+00:00"
    },
    {
-    "title": "楽天Ｇ、2000億円の社債発行を中止 諸般の事情＝届出書 - Reuters",
+    "title": "楽天Ｇ、2000億円の社債発行を中止 諸般の事情＝届出書 | ロイター - Reuters",
     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPLS0wR2p1MXlWN3JzckZVTDhZSjdhcW1LRV9rbzRiOUJ4dllhM2V1VkVnSGdOOV9hcUtmOHFhU09mbEI2MENVWUlmOF80dk43bGJmb0dRUXR5R3lNTWN1Tk9lSXhmZUw4UmdVOTdaemZRMmpZVkh5S0dVYUhQckZuQ2dLd3RJdw?oc=5",
     "date": "2026-11-24T07:20:00+00:00"
+   },
+   {
+    "title": "814.SS%5EC94 - | Stock Price & Latest News - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQzNibVRoUUZmZjJYMmgwVTZodEo0cEw1Zk1qUmN2SDgtTk9HMVdJRzN4NjRsdnNrbjdnU0Z0YmJVMHYtX2I4cnlZMmRFU201ZV8xWGVVdkYzYzZkb0hMQ25QdHlIQ2lEVC1QT2VCQ0hxVm8yWDJLdDZER2V5ZjdvMWZlUmZULU5CZDJoQ21ITQ?oc=5",
+    "date": "2026-11-24T07:12:44+00:00"
+   },
+   {
+    "title": "013120S.KQ - | Stock Price & Latest News - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1YbVd4cmdNNExwUW52SkxXYXFDTzVpZm5zTE0xcnhWZzlTVUtVODR2a1NSUXUwS3pQOVlhODJ0aUJhbGxoWnBNdlNYMnc3Ym5MeWc0UGdCaFpKNmZ3X0tmTmkyekZDdnNJS0lCclBZc2Q?oc=5",
+    "date": "2026-11-24T07:10:31+00:00"
    },
    {
     "title": "ＩＣＣ分担金を年内に全額前倒しで拠出へ、高市首相が赤根所長に伝達 - Reuters",
     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5wYkdwS1lBNEctS2Vxekc0am9EOG1CaWhZTHYtUmd6QmtzWmVOc1YzVUlVZVR5bTVHd3o2aWZreVVsZlF6cU11ekRuRFhKOGlhbkp2alRJbnl0MW5vQXJWSzlUU1MxVlJreTVwVXRFa2hMcWdWbm43ZUc1bUk2a1U?oc=5",
     "date": "2026-11-24T07:06:00+00:00"
-   },
-   {
-    "title": "東建物が固定資産取得、2700億円 渋谷2丁目西地区再開発で - Reuters",
-    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1MSk9saV9iUldqS1gwa09Eb0RHckRsbDBwWHNQdVpEQTREaWV0Yk1CTTRPanFhMm54VDl1aWtxM3VyNEtLWm1TUHpld29Nc2pYRnlobnJ2RW8yd0xNb0tvWmVLVUkyaklrMzlKR1lRWXl2T1RhZDVBb2hhTWxUeG8?oc=5",
-    "date": "2026-11-24T06:59:00+00:00"
    },
    {
     "title": "日経平均は大幅反発、エヌビディアＣＥＯ復帰受けた米株高が支え - Reuters",
@@ -247,34 +247,34 @@
     "date": "2026-11-24T06:50:00+00:00"
    },
    {
+    "title": "0RGBst.TRE - | Stock Price & Latest News - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5LRDkyYTNrblNkM2VmV2VIWUVCQllUSmpqTm56S1pyanJQN0Eya0ZnamFFczVqVXFQSmtoTzlLUTc4cEZ3Q3hORndqTjFoZWlFN1RmUWlxT3BEd3B5b0h1TGRtaXVqMXlwYnV6dlRydVczUFdVZWc?oc=5",
+    "date": "2026-11-24T06:42:24+00:00"
+   },
+   {
     "title": "ウクライナ向けパトリオット約60発、米国防長官の承認下りず ＦＴ報道 - Reuters",
     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOWDRtVjN4UFAwYjFmRkdURnF0R2pBeWxUTVlncDZWcHZiZVNCR2RXeUlRLUx6ODdNcVNMMllETTFmNExzWkg2bDcxWUplYlpwRE82OVpnQ1Y3akpnU25uaXV3aV9UeTdKbUo4WW5tbFZMel9jTUF5dUxYWkV6ZXFSOWo1TnpRdw?oc=5",
     "date": "2026-11-24T06:41:00+00:00"
    },
    {
-    "title": "午後3時のドルは159円前半へ小幅高、リスク選好の円売りは弾みつかず - Reuters",
-    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1YampKcUllRzZPVUxuMEFDcFlybWxGTWx6ZzM1LWpUQktQRnBYdXdIYTVMY2dYc2VUcExCdURYaTBWR1BBN1FWZGNUVkpWN0hwajk1UVhuN044NkNzSDY2WVVOSzUtUVBnakNwdGF3THRxS3BiUmtnMWFSRmFMdw?oc=5",
-    "date": "2026-11-24T06:20:00+00:00"
-   },
-   {
-    "title": "10月スーパー販売額1.4％増、気温高く衣料品は不振＝チェーンストア協会 - Reuters",
-    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNbWczZGN2eUVwcmpWUnFPQWdBV1h4Y1I1MF9xa0RybXd5WHFkajJYOUFlTzZWSzZMUm82YWx3V1RKeUlheTBqOGdZalMxY2FOU2p5bTF4UzV6bGZ0NjRCdWt6eVc1TjBiTTdJN3BwUjZvR0hHZDAzREZGMU1ncE9PTEExX1Jkdw?oc=5",
-    "date": "2026-11-24T06:16:00+00:00"
-   },
-   {
-    "title": "10月の欧州自動車販売、ＢＥＶが引き続き押し上げ - Reuters",
+    "title": "10月の欧州自動車販売、ＢＥＶが引き続き押し上げ | ロイター - Reuters",
     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPUTVVOFMyLVNuNWZBbGRaZnNGVU1FaTgtU0FvOTg1OEtONkRpR090aGhWNjFzYzRGTlpjVWNnOFRHNnRDN2JQQ0gxMzZSaFgxWXdnSWR1cWE1ZDQ5Zi1vMlNXMHN5Wkg4aWRRMk1nXzRWbGptSVBJVDYwbUNnRFBNbDJrNnhvQQ?oc=5",
     "date": "2026-11-24T06:02:00+00:00"
    },
    {
-    "title": "コラム：ＦＲＢ利上げの見通しとＡＩ経済、米国出張で見えた強気派と慎重派の議論＝井上哲也氏 - Reuters",
-    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTjZPd3dtOGFnVHJZYXYwc1YycEtadDVQMHJiSXpldmZ3Z1lBOHZxd0VZcnBMeXlHY0Q5V1pjY01Hdk95VlhFazhuamEtdVp1ZEhqM19lSUp0b3ZvQ25iSGNMZE85cHJuNE9VeXN5TGNNUF9seGVpbjc4bWVkdXBma25DSGtua3dPMnF2RFJ3?oc=5",
-    "date": "2026-11-24T05:59:00+00:00"
+    "title": "RN2.MU - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPdU8wczJxU2RnX3Y4aFY4WS1qZWJRSGtwMXFmV3pEU1lNMFBYb2VSNmJZaW9OYmZyRnJ0RUVhRDExZ1Z6cnAxMi05d1Z5aTVHR1RfeDR0T2JHSWZDQVlBV25oaUhUX2tqR012aFZLMDdlQUJoTFFwelJrS1BjZnI5enRTTDgwZw?oc=5",
+    "date": "2026-11-24T05:52:43+00:00"
    },
    {
-    "title": "タイ自動車生産、10月は前年比35.2％減 洪水で操業に支障 - Reuters",
+    "title": "タイ自動車生産、10月は前年比35.2％減 洪水で操業に支障 | ロイター - Reuters",
     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQQV9SRXhqbXFTTktEaHZVSUVXaVJOQXJKUjJSYXNGZkJXMHFLYWtaNGhHTWx0WXBVOWRUMUN4Um9KMzRIRUhseGo4SGhUbjk0cmpWNkJTUDFOZUpRaGVJSDlLUU5nS05YZUw1dXVWMUg4UG9FLXhEcjNLWjBxd0t3TWc5Vk4yUQ?oc=5",
     "date": "2026-11-24T05:48:00+00:00"
+   },
+   {
+    "title": "6016.CHJ - | Stock Price & Latest News - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1hZVN2T0FFajItRThpQXpzZjd1NmQzT3VoclNKdGpnaUdYUlpQXzYtdE1icHBiTjhoRjdCalo4dGtfeVNJNGZsczlIT1ZEakpMeXpfQmlLN1hDdHZkYmNiZXg0bnBvYXppYkx0Sm53?oc=5",
+    "date": "2026-11-24T05:47:05+00:00"
    },
    {
     "title": "ヘッジファンド、週間損失3％超 昨年4月以来の大きさ - Reuters",
@@ -282,19 +282,19 @@
     "date": "2026-11-24T05:46:00+00:00"
    },
    {
-    "title": "ヘッジファンド、週間損失3％超 昨年4月以来の大きさ - Reuters",
-    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPNnZZNnphU0FEMFJ0NGZRclNkSjFuLWpURzZlbkpoTTVac2k0eUMySngybkZielA5d0IxS29yTFRwU1lsZ1ZhdzJINDhHOEFYS2ZuajBkODIyUmp2aUhybi16bGs5LVRhMENPVlFfTkNNTFE4SmJfZFRDdXk5cjBMQ0Mwazg0UQ?oc=5",
-    "date": "2026-11-24T05:46:00+00:00"
+    "title": "SA.A - | Stock Price & Latest News - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4tV2J4SDhvRTBSTkkwUjB4RVo0TUluU001VW5hamNsRDY4aEZSNk5vdFFOT2xJa2tPWUpLMGFKMTA0eWVwdHI3SVR4dHo2LUJ6T1VpbEdId0x3RGplSjZoS0RJaXZQLUZVTU1GOQ?oc=5",
+    "date": "2026-11-24T05:40:02+00:00"
    },
    {
-    "title": "サウジ、禁止解除の「ＧＴＡ」人気沸騰 皇太子主導のゲーム投資も拡大 - Reuters",
-    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQZ0dNeDVNOWhVajJOSnpxRl9PLUhCSGhDS2xjVU9Ua2ptQW0xTmd0VnRwelZXZjhLY3VFSF9BYlVnZWVtWHdrUVJ1UHZxOGJxQkdTZkpOLXpfaEVpTUEtemZiWjJaZU5EdVpsNmtvT2VtQUtqM0FwbGlqcXBNdGRtQnpLNWVNZw?oc=5",
-    "date": "2026-11-24T05:21:00+00:00"
+    "title": "EQR.Z - | Stock Price & Latest News - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBaaXJqNklld3JwUU8wME5FMDdqME5YYmxWSFIwVmNrOF9Mc0VmbzF4NkU4ZFBuN1FYTU5ENHc3T2JIVXFfYWJPZzVjdjd3UVdxdi1WZG1UdGw1RzFHbE1rWk1ZcUQ0UVRTVWN0NlB2bw?oc=5",
+    "date": "2026-11-24T05:39:14+00:00"
    },
    {
-    "title": "米メディケア、追加13医薬品の薬価引き下げで支出45％削減へ - Reuters",
-    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBmZWpTNzc2eU81YTJlaHNJZDk4bGcycGRjbXowazltUzh2TEtmcTJzWm84ZDVFNVJMR1duLTgzMVIxMkRzcVp0WU1mMzJYQWpFWVpwbkUxT3NNRVVvMUFGdjhwTkotRE1iRHNtZWtNUGJXU1ZvUmFJMDZFd1lMakk?oc=5",
-    "date": "2026-11-24T05:10:00+00:00"
+    "title": "HIAEt0.NS - | Stock Price & Latest News - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1IdVlLZUk2a3BxTkUteVFxeWREMjk5UGFCNmwxSTJ3Zk5hUUVQSllUdW5URjFMV2t3MElMRk4yUWhvZGVLRmpPVGVSbHlpbkY2N1c1Q1hPY1pVU1gtbjFoUldpNmJrMEFWMW1FZ09SeGRHSGEy?oc=5",
+    "date": "2026-11-24T05:37:16+00:00"
    },
    {
     "title": "フアン氏のスピード復帰、「キーパーソンリスク」がトランプ氏動かす - Reuters",
@@ -307,42 +307,82 @@
     "date": "2026-11-24T05:01:01+00:00"
    },
    {
-    "title": "ザポリージャ州にロシア攻撃、2人死亡・22人負傷＝当局者 - Reuters",
-    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQdjNwaF9hX3BpQUdBNEUyZ19xbTN5UjJFZF9OSWNETjRBSkdMbF9MM3U0cnFyLWNXWGs2dHVCZkpWR3ROYWJNU1NtVWRzOFRQclpDTEtNUmU0UC1FM0tKMVA2SzMwMG1xY0lRR2p5bEFPdTVLY05QakEtMktwQkRkaFNBSmlpdw?oc=5",
-    "date": "2026-11-24T04:53:00+00:00"
-   },
-   {
     "title": "焦点：米年末商戦、衣料品からスキンケア化粧品までＡＩツールで値引き抑制 - Reuters",
     "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPdVRnX2xCREV0VGN1YktrMnhETEpXcDFMZy1GeDVNYTRtdkhnSllzOWVvNkdnTEhaWTRrVHVWMVg2M1llUGpLVE1QWG9TZng4X0x4TlZaUW5GczBIQmRaN0hyWGw1dzdQYnFhVWd6eWI1OHl3d19GcW1aZzhueXQ3RElFRnRjUGo2aDZRenlzTXRFUQ?oc=5",
     "date": "2026-11-24T04:38:00+00:00"
    },
    {
-    "title": "メキシコ、麻薬組織首領を国内で裁判へ 米は身柄引き渡し要求 - Reuters",
-    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOREx6Nl8xSml3OTQ2eU9ydjAwWk9tU0FUNnVXaENXbWlubk1ZdEpDTUhWOW9RTDQ4LXJqelRoRG1vcmhQbFBBcTdUN1ZIQnFjV3I3LXNhNG9rZVphajBDdjFyNExUTzEyMUFRazNtTVJKckE5NXBnM01EYmF5SElmOV9mZ0Y1N0k?oc=5",
-    "date": "2026-11-24T04:25:00+00:00"
+    "title": "O2735O.T - | Stock Price & Latest News - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5va1RmNWRJLVJHVTZvSHhkVFBiX1JRUGU2TnBIZUZ1cVgyd3VQS3NLNHI3SWdCb1JWcFpDeWI2Rm1rVlh3UXpPQ0tGRktNbkhCZERVMUtPNkhLTVJ3UDVjaXZ6Mlg0ZzJMeVh1eFNmOFRTdw?oc=5",
+    "date": "2026-11-24T04:31:19+00:00"
+   },
+   {
+    "title": "603300ta.SS - | Stock Price & Latest News - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBLcmFhY2dvUGVGbjJiQTB5VGREcGNWazIyVnI5WFJyOUtRS3BNMXUzLUJhNXNWWExXOUt1OThWUWxTRHNNQWU0WVlyc05oQVBsbkJlNjVTeHZwQmp1ZWMyV0pEMTlWR0NzNGQ0VGtvN1VLT2txajNJ?oc=5",
+    "date": "2026-11-24T04:16:43+00:00"
+   },
+   {
+    "title": "3648.JSFx - | Stock Price & Latest News - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOT2M4eDVXVkJveEU3Z0ktZkpXYVZHU080ZmF0Z1FhaFpuZE1FWmM0N0pLMUdWVFNFY3d6NEh0YTd0Z09YckN5MFBDYkhqeWE0UGRsSDBCVnU3b3B6ZFAtTzZGWEtoVDNkTTBQbXZkNHZQWmppRFdCX0NXVFBzRTBTc2poR1IxQQ?oc=5",
+    "date": "2026-11-24T04:12:44+00:00"
    },
    {
     "title": "韓国、学校試験の不正対策強化 スマート機器所持で全科目ゼロ点に - Reuters",
     "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE56NHBSUjV1Ymo4UVBWRGR2TDJ4ZDB6bzh3TjdLbVpodkRwa2RsVWs3cGNaXzY2ZnU0SVRGVlU4X2N5VDJjNlVILThaNFFUSGpRa3FvWGFESnN3dGZZRkJNR0FRallDUnQxbXQ2OGI3a0V5THpWbmhiUmpEUE4xUQ?oc=5",
     "date": "2026-11-24T03:54:00+00:00"
-   },
-   {
-    "title": "原油先物が下落、約3カ月ぶり安値圏 供給増と供給過剰懸念で - Reuters",
-    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1GWUgtaGZfSnBXNTVyUWc2Y3FhcWYzdDhmSFFlX3gwSUJIZDc2MlZFeXlCRDNkYkpzcFR3dklNeV92dV9LYzB0cGRpaGNwdUZYY3hzRndtU0hPV0ZYY2FkblhWRktyNlRHNl96RzMwc2tNR1N0YWhnWW0yX1pRSVU?oc=5",
-    "date": "2026-11-24T03:44:00+00:00"
-   },
-   {
-    "title": "ブラジル、27年成長予想1.8％に下げ 物価見通しは上方修正 - Reuters",
-    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPdHJ3U3Q0UGRqbVNYWUVvRGVFdGVPcndNeHNOZUtSQmZCU2FvejRGdlprZHY4eW1XdzBMRDBNNk1BdXc3NXRjdmdKQVNmV0psVUwwNHdEZU1MWm9DVV9qU0ptalpnX0FEMWJCaUVYQTVwd1BHT2dkUnBDTy1XeTljM1pGODBuUQ?oc=5",
-    "date": "2026-11-24T03:38:00+00:00"
    }
   ],
   "WSJ": [],
   "日経": [
    {
-    "title": "消費者金融ではない「貸金業」新設へ 金融庁、大企業向け融資に限定 - 日本経済新聞",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9Ea2U4MXNpTXFUZXFScUlTa1liOXp5TDRSakFnRndySHB1TmMxRU9oc2pNdWNqdVhyLW5FTnZ5bU1SR2dZMjhtb3F6X0lqWkpxSHRWa18zTnExZ1hka2p1X0VKb3lqcDJNa3BPaw?oc=5",
-    "date": "2026-11-24T09:00:00+00:00"
+    "title": "海外居住の高収入役員に課税強化、税率20%→30% 政府・与党 - 日本経済新聞",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE11dGQ0dERqMXFHV2FGT1lrbVRWTkRudlJvenI2cnhtTHBSSHQ4RkZaNUlmVmltMGhiZ3Zyc1J2OXQxV1FOaTllSEJfeGlRVmFVQVdpQTJiN2VtQzliWno0TlVtLTFzRUJZRGJnVg?oc=5",
+    "date": "2026-11-24T10:00:00+00:00"
+   },
+   {
+    "title": "NHKの26年度中間決算、赤字197億円 受信料収入は7年連続マイナス - 日本経済新聞",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE11NEhEMW9Ianc4YVRac1dZSWdDQ25Nc0xKRXRLTF9qNXlrVzFQWkxqeGpFWWVuZnVkRDJfbjBwLVk0RXVISVhzbUJ2c2NIbmhqanl2cEF4Q2RDd2hIZGhDUERFZHZXM0hVYmpLbw?oc=5",
+    "date": "2026-11-24T09:55:56+00:00"
+   },
+   {
+    "title": "テレビ番組を2040年めどにネット同時配信 総務省提案、山間部念頭 - 日本経済新聞",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5XZVZuUnItR3U0UzI2WlRtdG8yTnFJNkJCRzRvX25EbTgzWEkzR2JqUmw4N1lWUGV5em53Y3U5VVIxQmFHN05UbDF6Z3RJREszTlJXelU0UXRVT3FtRkN4Y3RlZklmM3FfRlBoMw?oc=5",
+    "date": "2026-11-24T09:51:56+00:00"
+   },
+   {
+    "title": "日経高配当株30指数のETF、東証が初の上場承認 - 日本経済新聞",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9xZWFxMVk1VWFGSDJuSE1NSHB2UVRONjBBQ2JoVlZXWkw3M2lteDhsMy0zYVpoRHRoanZKRk1sSzNySldLa1Z2eG5wNUprc0JhRVh5VUdNRXg1ZU1JWEJiQXpwQ2l4STVSSVdUUA?oc=5",
+    "date": "2026-11-24T09:51:26+00:00"
+   },
+   {
+    "title": "子ども向けSNS対策、企業の報告義務・罰則軸に 年齢制限に慎重論 - 日本経済新聞",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5hTjRlNlpfN2NtUzlUOU9JcFlMdUkzS1ROeUEyVlh0S2g5TUlHcGtiTFZBbEtoWUVWVTJ3aFhualUxcWlfRGV2QXRuQ1NfN3JEZTFSMmZuVF9vbk43XzFzNnhQMVd4NkNYUXRwNA?oc=5",
+    "date": "2026-11-24T09:44:07+00:00"
+   },
+   {
+    "title": "京王電鉄、最大1108万人分の個人情報が漏洩 顧客パスポート写しも - 日本経済新聞",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1CYktTT3lwZkZKd1lpVVpQRGxfbVVMeTYyalFqUVlNUHJ5SFppRFhyXzZ1TVJPZEZ0S2lXMU1NZGdLaWZYVVRubjMxUHdVVjlMRWpqZ3VjZzhLenBUWk50dHU1aVBPN1FSaVBzbw?oc=5",
+    "date": "2026-11-24T09:30:26+00:00"
+   },
+   {
+    "title": "大西洋メバチマグロの27年漁獲枠、日本は13%増 初の拡大 - 日本経済新聞",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE01MDM3cE5kVHNXU1F3YVZpZFkzeTZJM1J4ckhTR3hxaE5EenNWQl90eFBrQm1ZdE8wYmx1RzVURXY0dXZwRGItTkhrWEtzOVN2X1RkcXhvTlpVTExHbW1obUNuMlRqWXBBTzl1OA?oc=5",
+    "date": "2026-11-24T09:30:00+00:00"
+   },
+   {
+    "title": "大阪・枚方女児死亡、市長「対応に問題」 12月に検証会議設置 - 日本経済新聞",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE80Z0dRZlZqcV91TmYyNFpZUTBlMXpYc3B3dklWWkhpRlg4b0kxUDR3RmpZOGxvcnlVekJTRUdaUmxOMXZWTVJhZjYyeXJwaWVycTByenZvN2RnSlF5T3VSM2UySnZtOU5LZjFtSg?oc=5",
+    "date": "2026-11-24T09:26:08+00:00"
+   },
+   {
+    "title": "ソフトバンクGとオープンAIの出資会社、AIガバナンスの国内認証取得 - 日本経済新聞",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBpU0thMkppQmhOdldTZGUzT19fN3NkMDVoRGgwQmZROXdaaWtSb19ZS1lKdlNkc1hDN0NPVks4Wld3ZDQtb2JVNWdwRlA5VHlhZjMtdlZXN0s5akhiMUU0TU13dXZDS1lmOVZCSg?oc=5",
+    "date": "2026-11-24T09:15:57+00:00"
+   },
+   {
+    "title": "オリックス、滋賀・米原に国内最大級の蓄電所 134メガワット - 日本経済新聞",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBiUTRuQ3hOaWQzV2xyQm9CSm5wNEh0YURSNjhjMGlBR0RuNFExTjAyUjF2ZHBuam1JdUR3THZLUTNVOVZXbHk2WGM0MkpxZWhfZkVEazBKd3JYZEZPN3NMLXJINUxzT2t4cjAxWA?oc=5",
+    "date": "2026-11-24T09:05:05+00:00"
    },
    {
     "title": "茨城県常総市データセンター、工業団地隣接地の33ヘクタールに建設 - 日本経済新聞",
@@ -353,6 +393,11 @@
     "title": "日経電子版のAI機能「Ask! NIKKEI」 検索画面でも利用可能に - 日本経済新聞",
     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE01cUYzdnZwLUJVNjZuMmIxWnJEWXI5dHhjZ0c2dWtsbHA3VVhpNUhEVk1mbjFLdEdWbmdEWFlWNlpfUWh1dkFHRHByV0Zrck1iSXJhQmRidnUwS2FrOFRxM1NTazVGOUZQLXBaRg?oc=5",
     "date": "2026-11-24T09:00:00+00:00"
+   },
+   {
+    "title": "外為17時 円相場、反落 159円台前半 株高が重荷 - 日本経済新聞",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE55eXllb185cy1neUJhZXVRRWw5aGE2N1hfR1BDY2pKN25MWDFBNFRMSGNGRVRyd3I5LTRiRXA1RHVQMWJfdVBjSFUxZThlZGtuVGU5Ukl4aFVjdHZxdXVsTlZfQ0ZPdFV4RGJzUA?oc=5",
+    "date": "2026-11-24T08:41:53+00:00"
    },
    {
     "title": "住友商事、バングラデシュ初の地下鉄工事を受注 900億円で線路整備 - 日本経済新聞",
@@ -368,11 +413,6 @@
     "title": "富士ソフト、運用保守でニューレリックと協業 5年で売上高70億円 - 日本経済新聞",
     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAza05qT3Znb1FkTF8zamFSel8wamdoM0dlZF9xS01YRW83T25VTmRVNThnNnVQWnNadXBzOWFZaVh2V2FwdUNpZGQ1YWQ3eXpTT0IxRlBGd0Rsc2lhWUZrUlR5SmhzUkJiZ2xlSQ?oc=5",
     "date": "2026-11-24T08:28:50+00:00"
-   },
-   {
-    "title": "MLB、最低年俸増を提案 労使協定失効は12月1日 - 日本経済新聞",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9nLXFFYm16TExORmxybUVxN2dKLVk5ekMtUXpZZC1BcmRDVzRFbXE3WWphMFlUbXVfRTEydzU2MGVuM2gzaWk5TUNGM2JsbnZuSXhxa3EyUzNNVHpFM0xjZDJocGdrdXBTU1piUA?oc=5",
-    "date": "2026-11-24T08:26:01+00:00"
    },
    {
     "title": "東レ、炭素繊維の増産を検討 航空機・宇宙用途拡大で - 日本経済新聞",
@@ -395,13 +435,18 @@
     "date": "2026-11-24T08:00:00+00:00"
    },
    {
+    "title": "低迷続くトウモロコシ 5カ月ぶり安値圏、中国の購入期待に暗雲 - 日本経済新聞",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5TZVNzbHBYeFpvLVBkZmtBUEFmSHF0UE5SaGZJa05YVTl3MV9sU0tKMmVNTjM1Mm1hMzZkcGlUTVlnR05KMTh6d3pTUmNTazUyN2d1TTIwMkY3bE9WcldTSFVRazVqdzg4b01pSQ?oc=5",
+    "date": "2026-11-24T07:42:25+00:00"
+   },
+   {
     "title": "近鉄、6駅に授乳室を新設 近鉄丹波橋や大阪上本町など - 日本経済新聞",
     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5SdTRtUGZrS1F2VmRWeThJZThkMW81YVhtYm1qVGNteWNzVGhJdGRqTzRqZElFTVZUNGF1ak04UVRvX196N21EdHNUZHpnNDZvWGMwbG1FRHQycG1TVU5ySlJxZDIxamF3aVFCUQ?oc=5",
     "date": "2026-11-24T07:41:14+00:00"
    },
    {
-    "title": "目視や検査のAI代替、規制改革の原則案 政府が有識者会議に提示 - 日本経済新聞",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9Ta1poZDVGWjJDRUFqanhRTHV1d0xpV05pbGVoM0R2RmNldGplS3lMUHBLblUwQ0tVNGM3aGFYMjl6aEt1YTZzbkpvVDlWMl9KeHd4RFlDWTAyb0ZpYWpXbEVhd1BUb0NZdHZqRw?oc=5",
+    "title": "ソフトバンクG株が反発、英アーム大幅高で買い波及（24日の株式市場） - 日本経済新聞",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9vM1dfaUU1bkJESEd2UEM0dXZ4NnBhRV9NY0tKMHY5SHZYTEc4MWNuSFRlUDQwMV9zWjVfTW9PUGotbW45SThfcm00SXpHVHAyYlN4MzJhU0sxdTVocXNtSkRuWDhLSjdPNVFVSw?oc=5",
     "date": "2026-11-24T07:30:00+00:00"
    },
    {
@@ -420,11 +465,6 @@
     "date": "2026-11-24T06:42:33+00:00"
    },
    {
-    "title": "MAGAZINE｜アートがもっと楽しくなる記事 - art NIKKEI",
-    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE95TmF6cUtuX0RjSVpoQ1FGSjQ3YmdKRkpXTWZpaTJ4RXVUODh1N19JSjVUdmlydzdaSzQzenMyTWZGc3YzeEFNVTI1SjJBWWhaYXFVSndkdE4?oc=5",
-    "date": "2026-11-24T06:14:28+00:00"
-   },
-   {
     "title": "モスフード株、36年ぶり上場来高値 メニュー開発力評価の継続的な買い - 日本経済新聞",
     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE96eEZ6Yk9EZTA3dVg5TjNuZ2phSkxhS0NtaWZERnB1RDBmSk9FTURETzJjTk5lMnViV0cxRjUxbVM4bWdxaTliN0JGekcxeWJCcGNEeVpXSFZOZUtJRUJhZWdqZVFNRkYtcmFkbQ?oc=5",
     "date": "2026-11-24T06:02:43+00:00"
@@ -435,11 +475,6 @@
     "date": "2026-11-24T06:00:13+00:00"
    },
    {
-    "title": "【写真特集】アンテプリマ流 バッグを装いのアクセントに - THE NIKKEI MAGAZINE",
-    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBlazhFRGo2aWZHcC1iS2VHQXg1WV9laDJoTlVrUVlJMHVHUmZ2WVQ0djZTMGNYc21aX1cwZWJCTnJqYU94WUd4cXZNN0REUjZEdzFITmR4clZ1NWVaSFZwMjVlNUQzb2xmV1RUMFd5LVVMQQ?oc=5",
-    "date": "2026-11-24T05:59:40+00:00"
-   },
-   {
     "title": "メルカリ株反発 SMBCが投資判断引き上げ「成長重視の姿勢を評価」 - 日本経済新聞",
     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9VVUVzdG1raWJCMjV2Nzh3YmNYc3U5cVJzblJjSWtQdHZhaE11Zmx0MFBmNGp5NDl0TDNQRnA0S1U1WEdBQkdzbEZSQVpndUEyLVZPWmhBQ0VXR3dYNzN6X0t3b0hOM3pTZTdVTg?oc=5",
     "date": "2026-11-24T05:56:49+00:00"
@@ -448,46 +483,6 @@
     "title": "セリア株続落 大和が投資判断下げ、シール帳関連の商品効果が一巡 - 日本経済新聞",
     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5GekpTUTVBVFgyMEpnLWtraEV2bjJQeG1qbW1rNDJQMFRUbnNka0xQYXl1WkZyMUwtbEJFb0hqaXg1a01BaTE1R1EybklPSWFuZGZ6MTdsYXVPN1NKenlfQWhjWmlKVGpJRnBlVA?oc=5",
     "date": "2026-11-24T05:56:28+00:00"
-   },
-   {
-    "title": "JAさが75億円損失 投信運用ルールなく、評価損後も4年以上保有 - 日本経済新聞",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9hRkFtRkxrM0pFTkVqRzAtalR2ajNkTTBpOXNtbFVEZzY2TEtwT3g5OGJIMXNVcVlXRWRaUUtZNnc4S1czUzNkMEUyRGZxOG1WQ0tza0xpbzFFZldmdGpCSjU3LXdjQlE2TEo5Mg?oc=5",
-    "date": "2026-11-24T05:48:40+00:00"
-   },
-   {
-    "title": "キッコーマン、ケチャップ・ソースなど58品値上げ 3月から最大15% - 日本経済新聞",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFByQ2dKUW40eXdBN0dpS3BwVDU3M282dEl2RHIzNXlvSDE0LThKTndwX2lTOTBZXzFRcFpiazFPdl9fdTJxVTdRZ0V6NU1GbHc0anZSSVUxYlc4Q1FxN0hrb25hVmdrU1AzNENEQw?oc=5",
-    "date": "2026-11-24T05:36:00+00:00"
-   },
-   {
-    "title": "くら寿司、マグロなど22品10〜30円値上げ サイド商品は34品値下げ - 日本経済新聞",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9MUkRzRG9vSEYwbnlQRGFDbk9DVXpXOC10aWlZUUY0ZVppZmE1Wnd4SUdVUmhMLVVzTkpjNTNTSnpEYVRNR3hxTEVpemF3ZEwtMXF1TEprdngweF9LVDZ6YnJMR3ZJMjloWGZ0OQ?oc=5",
-    "date": "2026-11-24T05:19:30+00:00"
-   },
-   {
-    "title": "JAXAに不正アクセス、地球観測データの利用者2000人の情報が漏洩 - 日本経済新聞",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBoYWJnRWdDMzk1Rk8zbDRMMmdFTjN1bHZlejlXd1lRbkVsRmktNHhUbmR1aUFsSkFLRHJGQlN3LUVHd0lmdThQUWhuRk1PZkpranB0QTVPV3YzQUVlbFM5dGdwTE5SYlE5a0pVWQ?oc=5",
-    "date": "2026-11-24T05:17:21+00:00"
-   },
-   {
-    "title": "日経平均、「高市ライン」で踏みとどまるか 次は米景気後退トレード警戒 - 日本経済新聞",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9ucVJUSlg2Z2w2SW5jeFY1a0hLTVpoVEFqZ1Z2c2lFVm1WcTQtV2xVS3U5Sm90V0lscDlOZ3hSUlN3UFJoSmZISGdvRlNSaHd4ZnhIcGdQbC1qM1FkWHA0MjdYcjN0Yy0zQkRXYQ?oc=5",
-    "date": "2026-11-24T05:17:15+00:00"
-   },
-   {
-    "title": "兵庫県、12月補正予算案8億5700万円 国の電気・ガス代補助を補完 - 日本経済新聞",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5YaVJIbzRQMHRuU3o3SGF0YzRqVWtRUFp5aFdON1ZBVGRSWXQzdTh0VEo0YUFvZXRrUVlIbm5JR2tVa2s1UEF0V1drNTJOWGlLeWtadVVrMGM2eERPSGhiRnZ0UTc1WkM3QnJ5bg?oc=5",
-    "date": "2026-11-24T05:00:00+00:00"
-   },
-   {
-    "title": "【写真特集】場面フリーが魅力、「買い」アウター7選 - THE NIKKEI MAGAZINE",
-    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBuVlJ0czItalBrNTZfRW41ODRnQUd3STRMNzNLb2duM2dOeVNqV3dBMEdhMGRyY1B3M3JHMGp2S2VVaXRRZ3dObFJwVnpYQWdtaXNxMnQxd3VtMmRxbUYweHNXZXVUcWl1UFc5aGd3bmU2dw?oc=5",
-    "date": "2026-11-24T04:23:04+00:00"
-   },
-   {
-    "title": "NEC、「バザールでござーる」公式サイト終了 誕生から35年 - 日本経済新聞",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE91VUNYbENZb0dqRDlXbDdTRnNJZG8zVFY5bm4wVHR6V1huaHZEci15SFNQRU1WSmtrV1dOOWduWkVHZ0Jpd1JsakR4QkdxMENQSS1PdmZKdnhuemNScGc3VEZUQkxEVmFlcjFhXw?oc=5",
-    "date": "2026-11-24T04:17:17+00:00"
    }
   ]
  }
